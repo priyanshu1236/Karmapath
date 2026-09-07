@@ -1,0 +1,40 @@
+{
+  "initial_assessment": {
+    "statistical_officer": {
+      "version": "v2",
+      "question_count": 18,
+      "competencies": {
+        "COMP-AGRICULTURAL-STATISTICS": [
+          "STAT-AS-001",
+          "STAT-AS-002",
+          "STAT-AS-003"
+        ],
+        "COMP-SURVEY-DESIGN": [
+          "STAT-SD-001",
+          "STAT-SD-002",
+          "STAT-SD-003"
+        ],
+        "COMP-SAMPLING": [
+          "STAT-SAM-001",
+          "STAT-SAM-002",
+          "STAT-SAM-003"
+        ],
+        "COMP-DATA-QUALITY": [
+          "STAT-DQ-001",
+          "STAT-DQ-002",
+          "STAT-DQ-003"
+        ],
+        "COMP-GIS": [
+          "TECH-GIS-001",
+          "TECH-GIS-002",
+          "TECH-GIS-003"
+        ],
+        "COMP-PYTHON-DATA-ANALYSIS": [
+          "TECH-PY-001",
+          "TECH-DV-001",
+          "TECH-PY-002"
+        ]
+      }
+    }
+  }
+}

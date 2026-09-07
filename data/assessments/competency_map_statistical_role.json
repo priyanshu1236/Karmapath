@@ -1,0 +1,121 @@
+{
+  "Statistical": {
+    "Survey Design": [
+      "Questionnaire Design",
+      "Sampling Frame"
+    ],
+    "Sampling": [
+      "Sampling Error",
+      "Stratified Sampling"
+    ],
+    "National Accounts": [
+      "GDP Measurement",
+      "Value Added"
+    ],
+    "Price Statistics": [
+      "Inflation",
+      "Price Index"
+    ],
+    "Labour Statistics": [
+      "Labour Force Concepts",
+      "Unemployment Rate"
+    ],
+    "Agricultural Statistics": [
+      "Agricultural Surveys",
+      "Crop Estimation"
+    ],
+    "Industrial Statistics": [
+      "Industrial Classification",
+      "Industrial Production"
+    ],
+    "SDG Indicators": [
+      "Disaggregation",
+      "Indicator Frameworks"
+    ],
+    "Metadata Standards": [
+      "Concept Definitions",
+      "Statistical Metadata"
+    ],
+    "Data Quality": [
+      "Accuracy",
+      "Timeliness"
+    ]
+  },
+  "Technical": {
+    "Python": [
+      "Data Handling"
+    ],
+    "R": [
+      "Data Analysis"
+    ],
+    "SQL": [
+      "Querying"
+    ],
+    "Stata": [
+      "Statistical Analysis"
+    ],
+    "SPSS": [
+      "Statistical Analysis"
+    ],
+    "SAS": [
+      "Data Processing"
+    ],
+    "GIS": [
+      "Spatial Analysis"
+    ],
+    "Data Visualization": [
+      "Chart Selection"
+    ],
+    "AI/ML": [
+      "Semantic Similarity",
+      "Supervised Learning"
+    ],
+    "Cloud": [
+      "Scalability"
+    ],
+    "APIs": [
+      "REST"
+    ],
+    "Open Data": [
+      "Data Publication"
+    ]
+  },
+  "Digital Governance": {
+    "Cybersecurity": [
+      "Least Privilege",
+      "Phishing"
+    ],
+    "Data Privacy": [
+      "Data Minimization"
+    ],
+    "Digital Signatures": [
+      "Authenticity and Integrity"
+    ],
+    "Government Cloud": [
+      "Cloud Governance"
+    ],
+    "Digital Public Infrastructure": [
+      "Interoperability"
+    ]
+  },
+  "Behavioural / Managerial": {
+    "Leadership": [
+      "Team Leadership"
+    ],
+    "Communication": [
+      "Clarity"
+    ],
+    "Project Management": [
+      "Risk Management"
+    ],
+    "Ethics": [
+      "Conflict of Interest"
+    ],
+    "Decision Making": [
+      "Evidence-Based Decisions"
+    ],
+    "Change Management": [
+      "Stakeholder Engagement"
+    ]
+  }
+}
