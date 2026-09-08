@@ -1,0 +1,3543 @@
+{
+  "source_file": "iGOT_40_Roles_DETAILED_README (1).md",
+  "mapping_type": "prototype-derived",
+  "warning": "Use these mappings as recommendation metadata only; they are not official iGOT competency mappings unless verified.",
+  "mappings": [
+    {
+      "role_id": "role_01",
+      "course_id": "course_001",
+      "role_skills_topics": [
+        "Statistical tools",
+        "data visualization",
+        "Excel",
+        "cybersecurity",
+        "AI fundamentals",
+        "time management",
+        "gender sensitivity."
+      ],
+      "course_title_signal": "Gender Sensitivity",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_01",
+      "course_id": "course_002",
+      "role_skills_topics": [
+        "Statistical tools",
+        "data visualization",
+        "Excel",
+        "cybersecurity",
+        "AI fundamentals",
+        "time management",
+        "gender sensitivity."
+      ],
+      "course_title_signal": "Statistical Tools and Data Visualization",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_01",
+      "course_id": "course_003",
+      "role_skills_topics": [
+        "Statistical tools",
+        "data visualization",
+        "Excel",
+        "cybersecurity",
+        "AI fundamentals",
+        "time management",
+        "gender sensitivity."
+      ],
+      "course_title_signal": "Excel Advanced",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_01",
+      "course_id": "course_004",
+      "role_skills_topics": [
+        "Statistical tools",
+        "data visualization",
+        "Excel",
+        "cybersecurity",
+        "AI fundamentals",
+        "time management",
+        "gender sensitivity."
+      ],
+      "course_title_signal": "Staying Safe in Cyberspace",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_01",
+      "course_id": "course_005",
+      "role_skills_topics": [
+        "Statistical tools",
+        "data visualization",
+        "Excel",
+        "cybersecurity",
+        "AI fundamentals",
+        "time management",
+        "gender sensitivity."
+      ],
+      "course_title_signal": "Basics of AI",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_01",
+      "course_id": "course_006",
+      "role_skills_topics": [
+        "Statistical tools",
+        "data visualization",
+        "Excel",
+        "cybersecurity",
+        "AI fundamentals",
+        "time management",
+        "gender sensitivity."
+      ],
+      "course_title_signal": "Time Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_02",
+      "course_id": "course_004",
+      "role_skills_topics": [
+        "Cybersecurity",
+        "statistics",
+        "data visualization",
+        "communication",
+        "workplace behaviour",
+        "Microsoft Word",
+        "AI",
+        "office documentation."
+      ],
+      "course_title_signal": "Staying Safe in Cyberspace",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_02",
+      "course_id": "course_002",
+      "role_skills_topics": [
+        "Cybersecurity",
+        "statistics",
+        "data visualization",
+        "communication",
+        "workplace behaviour",
+        "Microsoft Word",
+        "AI",
+        "office documentation."
+      ],
+      "course_title_signal": "Statistical Tools and Data Visualization",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_02",
+      "course_id": "course_007",
+      "role_skills_topics": [
+        "Cybersecurity",
+        "statistics",
+        "data visualization",
+        "communication",
+        "workplace behaviour",
+        "Microsoft Word",
+        "AI",
+        "office documentation."
+      ],
+      "course_title_signal": "Basics of Communication",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_02",
+      "course_id": "course_008",
+      "role_skills_topics": [
+        "Cybersecurity",
+        "statistics",
+        "data visualization",
+        "communication",
+        "workplace behaviour",
+        "Microsoft Word",
+        "AI",
+        "office documentation."
+      ],
+      "course_title_signal": "Anger Management at Workplace",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_02",
+      "course_id": "course_009",
+      "role_skills_topics": [
+        "Cybersecurity",
+        "statistics",
+        "data visualization",
+        "communication",
+        "workplace behaviour",
+        "Microsoft Word",
+        "AI",
+        "office documentation."
+      ],
+      "course_title_signal": "Microsoft Word Advanced",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_02",
+      "course_id": "course_005",
+      "role_skills_topics": [
+        "Cybersecurity",
+        "statistics",
+        "data visualization",
+        "communication",
+        "workplace behaviour",
+        "Microsoft Word",
+        "AI",
+        "office documentation."
+      ],
+      "course_title_signal": "Basics of AI",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_03",
+      "course_id": "course_010",
+      "role_skills_topics": [
+        "Leadership",
+        "ethics",
+        "DPDP/data privacy",
+        "evidence-based policy",
+        "cybersecurity",
+        "data science",
+        "statistics",
+        "digital governance."
+      ],
+      "course_title_signal": "Purpose-Driven Leadership",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_03",
+      "course_id": "course_011",
+      "role_skills_topics": [
+        "Leadership",
+        "ethics",
+        "DPDP/data privacy",
+        "evidence-based policy",
+        "cybersecurity",
+        "data science",
+        "statistics",
+        "digital governance."
+      ],
+      "course_title_signal": "Happiness in Seva-Bhava: Lessons from Bhagavad-Gita",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_03",
+      "course_id": "course_012",
+      "role_skills_topics": [
+        "Leadership",
+        "ethics",
+        "DPDP/data privacy",
+        "evidence-based policy",
+        "cybersecurity",
+        "data science",
+        "statistics",
+        "digital governance."
+      ],
+      "course_title_signal": "DPDP Act 2023",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_03",
+      "course_id": "course_013",
+      "role_skills_topics": [
+        "Leadership",
+        "ethics",
+        "DPDP/data privacy",
+        "evidence-based policy",
+        "cybersecurity",
+        "data science",
+        "statistics",
+        "digital governance."
+      ],
+      "course_title_signal": "Evidence-based Policy Making",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_03",
+      "course_id": "course_014",
+      "role_skills_topics": [
+        "Leadership",
+        "ethics",
+        "DPDP/data privacy",
+        "evidence-based policy",
+        "cybersecurity",
+        "data science",
+        "statistics",
+        "digital governance."
+      ],
+      "course_title_signal": "Cybersecurity Basic",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_03",
+      "course_id": "course_015",
+      "role_skills_topics": [
+        "Leadership",
+        "ethics",
+        "DPDP/data privacy",
+        "evidence-based policy",
+        "cybersecurity",
+        "data science",
+        "statistics",
+        "digital governance."
+      ],
+      "course_title_signal": "Data Science for Policy Makers Part-1",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_04",
+      "course_id": "course_016",
+      "role_skills_topics": [
+        "Logical reasoning",
+        "decision-making",
+        "procurement",
+        "data-driven decisions",
+        "team management",
+        "data centres",
+        "IT project management",
+        "stress management."
+      ],
+      "course_title_signal": "Stress Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_04",
+      "course_id": "course_017",
+      "role_skills_topics": [
+        "Logical reasoning",
+        "decision-making",
+        "procurement",
+        "data-driven decisions",
+        "team management",
+        "data centres",
+        "IT project management",
+        "stress management."
+      ],
+      "course_title_signal": "Procurement of Goods and Services",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_04",
+      "course_id": "course_018",
+      "role_skills_topics": [
+        "Logical reasoning",
+        "decision-making",
+        "procurement",
+        "data-driven decisions",
+        "team management",
+        "data centres",
+        "IT project management",
+        "stress management."
+      ],
+      "course_title_signal": "Data Driven Decision Making",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_04",
+      "course_id": "course_019",
+      "role_skills_topics": [
+        "Logical reasoning",
+        "decision-making",
+        "procurement",
+        "data-driven decisions",
+        "team management",
+        "data centres",
+        "IT project management",
+        "stress management."
+      ],
+      "course_title_signal": "Team Building",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_04",
+      "course_id": "course_020",
+      "role_skills_topics": [
+        "Logical reasoning",
+        "decision-making",
+        "procurement",
+        "data-driven decisions",
+        "team management",
+        "data centres",
+        "IT project management",
+        "stress management."
+      ],
+      "course_title_signal": "Inside India's Data Center Revolution",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_04",
+      "course_id": "course_021",
+      "role_skills_topics": [
+        "Logical reasoning",
+        "decision-making",
+        "procurement",
+        "data-driven decisions",
+        "team management",
+        "data centres",
+        "IT project management",
+        "stress management."
+      ],
+      "course_title_signal": "IT Project Life Cycle Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_05",
+      "course_id": "course_022",
+      "role_skills_topics": [
+        "Team management",
+        "data-driven decision-making",
+        "policy analysis",
+        "interpersonal skills",
+        "information security",
+        "AI",
+        "digital governance."
+      ],
+      "course_title_signal": "Team Building and Team Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_05",
+      "course_id": "course_018",
+      "role_skills_topics": [
+        "Team management",
+        "data-driven decision-making",
+        "policy analysis",
+        "interpersonal skills",
+        "information security",
+        "AI",
+        "digital governance."
+      ],
+      "course_title_signal": "Data Driven Decision Making",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_05",
+      "course_id": "course_013",
+      "role_skills_topics": [
+        "Team management",
+        "data-driven decision-making",
+        "policy analysis",
+        "interpersonal skills",
+        "information security",
+        "AI",
+        "digital governance."
+      ],
+      "course_title_signal": "Evidence-based Policy Making",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_05",
+      "course_id": "course_023",
+      "role_skills_topics": [
+        "Team management",
+        "data-driven decision-making",
+        "policy analysis",
+        "interpersonal skills",
+        "information security",
+        "AI",
+        "digital governance."
+      ],
+      "course_title_signal": "Interpersonal Skills",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_05",
+      "course_id": "course_024",
+      "role_skills_topics": [
+        "Team management",
+        "data-driven decision-making",
+        "policy analysis",
+        "interpersonal skills",
+        "information security",
+        "AI",
+        "digital governance."
+      ],
+      "course_title_signal": "Information Security",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_05",
+      "course_id": "course_025",
+      "role_skills_topics": [
+        "Team management",
+        "data-driven decision-making",
+        "policy analysis",
+        "interpersonal skills",
+        "information security",
+        "AI",
+        "digital governance."
+      ],
+      "course_title_signal": "Artificial Intelligence",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_06",
+      "course_id": "course_026",
+      "role_skills_topics": [
+        "Leadership",
+        "problem solving",
+        "statistics",
+        "data visualization",
+        "SOC",
+        "threat intelligence",
+        "public administration",
+        "AI",
+        "ML",
+        "DL."
+      ],
+      "course_title_signal": "Managing and Leading Teams",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_06",
+      "course_id": "course_027",
+      "role_skills_topics": [
+        "Leadership",
+        "problem solving",
+        "statistics",
+        "data visualization",
+        "SOC",
+        "threat intelligence",
+        "public administration",
+        "AI",
+        "ML",
+        "DL."
+      ],
+      "course_title_signal": "Problem Solving and Decision Making",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_06",
+      "course_id": "course_002",
+      "role_skills_topics": [
+        "Leadership",
+        "problem solving",
+        "statistics",
+        "data visualization",
+        "SOC",
+        "threat intelligence",
+        "public administration",
+        "AI",
+        "ML",
+        "DL."
+      ],
+      "course_title_signal": "Statistical Tools and Data Visualization",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_06",
+      "course_id": "course_028",
+      "role_skills_topics": [
+        "Leadership",
+        "problem solving",
+        "statistics",
+        "data visualization",
+        "SOC",
+        "threat intelligence",
+        "public administration",
+        "AI",
+        "ML",
+        "DL."
+      ],
+      "course_title_signal": "Threat Intelligence and SOC",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_06",
+      "course_id": "course_029",
+      "role_skills_topics": [
+        "Leadership",
+        "problem solving",
+        "statistics",
+        "data visualization",
+        "SOC",
+        "threat intelligence",
+        "public administration",
+        "AI",
+        "ML",
+        "DL."
+      ],
+      "course_title_signal": "Indian Knowledge System -- Public Administration",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_06",
+      "course_id": "course_030",
+      "role_skills_topics": [
+        "Leadership",
+        "problem solving",
+        "statistics",
+        "data visualization",
+        "SOC",
+        "threat intelligence",
+        "public administration",
+        "AI",
+        "ML",
+        "DL."
+      ],
+      "course_title_signal": "AI for Digital Transformation: ML and DL",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_07",
+      "course_id": "course_031",
+      "role_skills_topics": [
+        "Cabinet Notes",
+        "policy analysis",
+        "inter-ministerial consultation",
+        "statistics",
+        "data analysis",
+        "AI",
+        "decision-making."
+      ],
+      "course_title_signal": "Preparation of Cabinet Notes",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_07",
+      "course_id": "course_026",
+      "role_skills_topics": [
+        "Cabinet Notes",
+        "policy analysis",
+        "inter-ministerial consultation",
+        "statistics",
+        "data analysis",
+        "AI",
+        "decision-making."
+      ],
+      "course_title_signal": "Managing and Leading Teams",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_07",
+      "course_id": "course_005",
+      "role_skills_topics": [
+        "Cabinet Notes",
+        "policy analysis",
+        "inter-ministerial consultation",
+        "statistics",
+        "data analysis",
+        "AI",
+        "decision-making."
+      ],
+      "course_title_signal": "Basics of AI",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_07",
+      "course_id": "course_019",
+      "role_skills_topics": [
+        "Cabinet Notes",
+        "policy analysis",
+        "inter-ministerial consultation",
+        "statistics",
+        "data analysis",
+        "AI",
+        "decision-making."
+      ],
+      "course_title_signal": "Team Building",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_07",
+      "course_id": "course_018",
+      "role_skills_topics": [
+        "Cabinet Notes",
+        "policy analysis",
+        "inter-ministerial consultation",
+        "statistics",
+        "data analysis",
+        "AI",
+        "decision-making."
+      ],
+      "course_title_signal": "Data Driven Decision Making",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_07",
+      "course_id": "course_032",
+      "role_skills_topics": [
+        "Cabinet Notes",
+        "policy analysis",
+        "inter-ministerial consultation",
+        "statistics",
+        "data analysis",
+        "AI",
+        "decision-making."
+      ],
+      "course_title_signal": "DADM-II",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_08",
+      "course_id": "course_033",
+      "role_skills_topics": [
+        "AI",
+        "ML",
+        "smart farming",
+        "crop and pest management",
+        "smart irrigation",
+        "soil health",
+        "post-harvest systems",
+        "digital transformation",
+        "communication."
+      ],
+      "course_title_signal": "PM Gati Shakti: Understanding the Portal and Tools",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_08",
+      "course_id": "course_034",
+      "role_skills_topics": [
+        "AI",
+        "ML",
+        "smart farming",
+        "crop and pest management",
+        "smart irrigation",
+        "soil health",
+        "post-harvest systems",
+        "digital transformation",
+        "communication."
+      ],
+      "course_title_signal": "AI-led Digital Transformation in Agriculture",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_08",
+      "course_id": "course_035",
+      "role_skills_topics": [
+        "AI",
+        "ML",
+        "smart farming",
+        "crop and pest management",
+        "smart irrigation",
+        "soil health",
+        "post-harvest systems",
+        "digital transformation",
+        "communication."
+      ],
+      "course_title_signal": "Effective Communication",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_09",
+      "course_id": "course_036",
+      "role_skills_topics": [
+        "Computer vision",
+        "AI",
+        "machine learning",
+        "facial recognition",
+        "image analysis",
+        "agricultural pest detection",
+        "no-code computer vision",
+        "AI ethics."
+      ],
+      "course_title_signal": "AI for Digital Transformation: Computer Vision",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_10",
+      "course_id": "course_037",
+      "role_skills_topics": [
+        "FTA",
+        "WTO",
+        "PPP",
+        "commerce",
+        "policy analysis",
+        "strategic thinking",
+        "leadership",
+        "emerging technology",
+        "communication."
+      ],
+      "course_title_signal": "Introduction to Free Trade Agreement",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_10",
+      "course_id": "course_038",
+      "role_skills_topics": [
+        "FTA",
+        "WTO",
+        "PPP",
+        "commerce",
+        "policy analysis",
+        "strategic thinking",
+        "leadership",
+        "emerging technology",
+        "communication."
+      ],
+      "course_title_signal": "Viksit Bharat 2047",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_10",
+      "course_id": "course_039",
+      "role_skills_topics": [
+        "FTA",
+        "WTO",
+        "PPP",
+        "commerce",
+        "policy analysis",
+        "strategic thinking",
+        "leadership",
+        "emerging technology",
+        "communication."
+      ],
+      "course_title_signal": "Public-Private Partnership",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_10",
+      "course_id": "course_040",
+      "role_skills_topics": [
+        "FTA",
+        "WTO",
+        "PPP",
+        "commerce",
+        "policy analysis",
+        "strategic thinking",
+        "leadership",
+        "emerging technology",
+        "communication."
+      ],
+      "course_title_signal": "Introduction to WTO",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_10",
+      "course_id": "course_026",
+      "role_skills_topics": [
+        "FTA",
+        "WTO",
+        "PPP",
+        "commerce",
+        "policy analysis",
+        "strategic thinking",
+        "leadership",
+        "emerging technology",
+        "communication."
+      ],
+      "course_title_signal": "Managing and Leading Teams",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_10",
+      "course_id": "course_041",
+      "role_skills_topics": [
+        "FTA",
+        "WTO",
+        "PPP",
+        "commerce",
+        "policy analysis",
+        "strategic thinking",
+        "leadership",
+        "emerging technology",
+        "communication."
+      ],
+      "course_title_signal": "Introduction to Emerging Technologies",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_10",
+      "course_id": "course_042",
+      "role_skills_topics": [
+        "FTA",
+        "WTO",
+        "PPP",
+        "commerce",
+        "policy analysis",
+        "strategic thinking",
+        "leadership",
+        "emerging technology",
+        "communication."
+      ],
+      "course_title_signal": "Improving Outreach and Communication for Viksit Bharat",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_11",
+      "course_id": "course_016",
+      "role_skills_topics": [
+        "SQL",
+        "MySQL",
+        "database design",
+        "report writing",
+        "communication",
+        "information security",
+        "data management",
+        "geospatial data."
+      ],
+      "course_title_signal": "Stress Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_11",
+      "course_id": "course_043",
+      "role_skills_topics": [
+        "SQL",
+        "MySQL",
+        "database design",
+        "report writing",
+        "communication",
+        "information security",
+        "data management",
+        "geospatial data."
+      ],
+      "course_title_signal": "Report Writing Skills for Project",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_11",
+      "course_id": "course_044",
+      "role_skills_topics": [
+        "SQL",
+        "MySQL",
+        "database design",
+        "report writing",
+        "communication",
+        "information security",
+        "data management",
+        "geospatial data."
+      ],
+      "course_title_signal": "Advanced Concepts in SQL",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_11",
+      "course_id": "course_045",
+      "role_skills_topics": [
+        "SQL",
+        "MySQL",
+        "database design",
+        "report writing",
+        "communication",
+        "information security",
+        "data management",
+        "geospatial data."
+      ],
+      "course_title_signal": "How to Improve Interpersonal Skills in the Workplace",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_11",
+      "course_id": "course_046",
+      "role_skills_topics": [
+        "SQL",
+        "MySQL",
+        "database design",
+        "report writing",
+        "communication",
+        "information security",
+        "data management",
+        "geospatial data."
+      ],
+      "course_title_signal": "Information Security Basics",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_11",
+      "course_id": "course_047",
+      "role_skills_topics": [
+        "SQL",
+        "MySQL",
+        "database design",
+        "report writing",
+        "communication",
+        "information security",
+        "data management",
+        "geospatial data."
+      ],
+      "course_title_signal": "Database Design and Introduction to MySQL",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_12",
+      "course_id": "course_025",
+      "role_skills_topics": [
+        "AI",
+        "sustainability",
+        "e-waste",
+        "motivation",
+        "collaboration",
+        "diversity and inclusion."
+      ],
+      "course_title_signal": "Artificial Intelligence",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_12",
+      "course_id": "course_048",
+      "role_skills_topics": [
+        "AI",
+        "sustainability",
+        "e-waste",
+        "motivation",
+        "collaboration",
+        "diversity and inclusion."
+      ],
+      "course_title_signal": "E-waste Disposal",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_12",
+      "course_id": "course_049",
+      "role_skills_topics": [
+        "AI",
+        "sustainability",
+        "e-waste",
+        "motivation",
+        "collaboration",
+        "diversity and inclusion."
+      ],
+      "course_title_signal": "Understanding Motivation",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_13",
+      "course_id": "course_050",
+      "role_skills_topics": [
+        "Data analytics",
+        "visualization",
+        "backup",
+        "recovery",
+        "RAID",
+        "SAN",
+        "NAS",
+        "data protection",
+        "cybersecurity",
+        "policy insights",
+        "self-awareness."
+      ],
+      "course_title_signal": "Unlocking Your Potential: Self-Awareness and Self-...",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_13",
+      "course_id": "course_051",
+      "role_skills_topics": [
+        "Data analytics",
+        "visualization",
+        "backup",
+        "recovery",
+        "RAID",
+        "SAN",
+        "NAS",
+        "data protection",
+        "cybersecurity",
+        "policy insights",
+        "self-awareness."
+      ],
+      "course_title_signal": "Data Backup and Recovery",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_13",
+      "course_id": "course_052",
+      "role_skills_topics": [
+        "Data analytics",
+        "visualization",
+        "backup",
+        "recovery",
+        "RAID",
+        "SAN",
+        "NAS",
+        "data protection",
+        "cybersecurity",
+        "policy insights",
+        "self-awareness."
+      ],
+      "course_title_signal": "Insights from Data for Policy",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_14",
+      "course_id": "course_031",
+      "role_skills_topics": [
+        "RTI",
+        "CPIO/APIO/FAA",
+        "GFR",
+        "GeM",
+        "PFMS",
+        "procurement",
+        "Cabinet Notes",
+        "noting",
+        "drafting."
+      ],
+      "course_title_signal": "Preparation of Cabinet Notes",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_14",
+      "course_id": "course_053",
+      "role_skills_topics": [
+        "RTI",
+        "CPIO/APIO/FAA",
+        "GFR",
+        "GeM",
+        "PFMS",
+        "procurement",
+        "Cabinet Notes",
+        "noting",
+        "drafting."
+      ],
+      "course_title_signal": "Right to Information Act -- Part 1",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_14",
+      "course_id": "course_054",
+      "role_skills_topics": [
+        "RTI",
+        "CPIO/APIO/FAA",
+        "GFR",
+        "GeM",
+        "PFMS",
+        "procurement",
+        "Cabinet Notes",
+        "noting",
+        "drafting."
+      ],
+      "course_title_signal": "Government e-Marketplace",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_15",
+      "course_id": "course_055",
+      "role_skills_topics": [
+        "E-governance",
+        "IT security",
+        "service delivery",
+        "responsiveness",
+        "goal setting",
+        "performance management."
+      ],
+      "course_title_signal": "E-Governance and IT Security -- Best Practices",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_15",
+      "course_id": "course_056",
+      "role_skills_topics": [
+        "E-governance",
+        "IT security",
+        "service delivery",
+        "responsiveness",
+        "goal setting",
+        "performance management."
+      ],
+      "course_title_signal": "Goal Setting",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_16",
+      "course_id": "course_057",
+      "role_skills_topics": [
+        "Forestry",
+        "environment",
+        "waste management",
+        "nursery management",
+        "plantation",
+        "agroforestry",
+        "sustainability",
+        "emotional intelligence."
+      ],
+      "course_title_signal": "Emotional Intelligence: Developing Strong People Skills",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_16",
+      "course_id": "course_058",
+      "role_skills_topics": [
+        "Forestry",
+        "environment",
+        "waste management",
+        "nursery management",
+        "plantation",
+        "agroforestry",
+        "sustainability",
+        "emotional intelligence."
+      ],
+      "course_title_signal": "Biodegradable Waste Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_16",
+      "course_id": "course_059",
+      "role_skills_topics": [
+        "Forestry",
+        "environment",
+        "waste management",
+        "nursery management",
+        "plantation",
+        "agroforestry",
+        "sustainability",
+        "emotional intelligence."
+      ],
+      "course_title_signal": "Modern Tools and Techniques for Nursery",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_17",
+      "course_id": "course_060",
+      "role_skills_topics": [
+        "Service excellence",
+        "citizen-centricity",
+        "time management",
+        "workplace relationships",
+        "prioritization",
+        "organizational goals."
+      ],
+      "course_title_signal": "Time Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_17",
+      "course_id": "course_061",
+      "role_skills_topics": [
+        "Service excellence",
+        "citizen-centricity",
+        "time management",
+        "workplace relationships",
+        "prioritization",
+        "organizational goals."
+      ],
+      "course_title_signal": "Getting Along with the Boss",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_17",
+      "course_id": "course_062",
+      "role_skills_topics": [
+        "Service excellence",
+        "citizen-centricity",
+        "time management",
+        "workplace relationships",
+        "prioritization",
+        "organizational goals."
+      ],
+      "course_title_signal": "Viksit Bharat 2047",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_18",
+      "course_id": "course_063",
+      "role_skills_topics": [
+        "GIS",
+        "QGIS",
+        "raster/vector data",
+        "spatial analysis",
+        "spatial queries",
+        "georeferencing",
+        "CRS/SRS",
+        "digitization",
+        "satellite data",
+        "AI",
+        "ML",
+        "GeM",
+        "critical thinking",
+        "public speaking",
+        "PowerPoint."
+      ],
+      "course_title_signal": "Speaking Effectively",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_18",
+      "course_id": "course_064",
+      "role_skills_topics": [
+        "GIS",
+        "QGIS",
+        "raster/vector data",
+        "spatial analysis",
+        "spatial queries",
+        "georeferencing",
+        "CRS/SRS",
+        "digitization",
+        "satellite data",
+        "AI",
+        "ML",
+        "GeM",
+        "critical thinking",
+        "public speaking",
+        "PowerPoint."
+      ],
+      "course_title_signal": "Microsoft PowerPoint Advanced",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_18",
+      "course_id": "course_054",
+      "role_skills_topics": [
+        "GIS",
+        "QGIS",
+        "raster/vector data",
+        "spatial analysis",
+        "spatial queries",
+        "georeferencing",
+        "CRS/SRS",
+        "digitization",
+        "satellite data",
+        "AI",
+        "ML",
+        "GeM",
+        "critical thinking",
+        "public speaking",
+        "PowerPoint."
+      ],
+      "course_title_signal": "Government e-Marketplace",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_18",
+      "course_id": "course_065",
+      "role_skills_topics": [
+        "GIS",
+        "QGIS",
+        "raster/vector data",
+        "spatial analysis",
+        "spatial queries",
+        "georeferencing",
+        "CRS/SRS",
+        "digitization",
+        "satellite data",
+        "AI",
+        "ML",
+        "GeM",
+        "critical thinking",
+        "public speaking",
+        "PowerPoint."
+      ],
+      "course_title_signal": "Critical Thinking",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_18",
+      "course_id": "course_066",
+      "role_skills_topics": [
+        "GIS",
+        "QGIS",
+        "raster/vector data",
+        "spatial analysis",
+        "spatial queries",
+        "georeferencing",
+        "CRS/SRS",
+        "digitization",
+        "satellite data",
+        "AI",
+        "ML",
+        "GeM",
+        "critical thinking",
+        "public speaking",
+        "PowerPoint."
+      ],
+      "course_title_signal": "Basics of Artificial Intelligence (AI)",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_18",
+      "course_id": "course_067",
+      "role_skills_topics": [
+        "GIS",
+        "QGIS",
+        "raster/vector data",
+        "spatial analysis",
+        "spatial queries",
+        "georeferencing",
+        "CRS/SRS",
+        "digitization",
+        "satellite data",
+        "AI",
+        "ML",
+        "GeM",
+        "critical thinking",
+        "public speaking",
+        "PowerPoint."
+      ],
+      "course_title_signal": "Geographical Information System",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_19",
+      "course_id": "course_060",
+      "role_skills_topics": [
+        "Time management",
+        "goal setting",
+        "e-governance",
+        "IT security",
+        "service orientation",
+        "workplace relationships."
+      ],
+      "course_title_signal": "Time Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_19",
+      "course_id": "course_061",
+      "role_skills_topics": [
+        "Time management",
+        "goal setting",
+        "e-governance",
+        "IT security",
+        "service orientation",
+        "workplace relationships."
+      ],
+      "course_title_signal": "Getting Along with the Boss",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_19",
+      "course_id": "course_055",
+      "role_skills_topics": [
+        "Time management",
+        "goal setting",
+        "e-governance",
+        "IT security",
+        "service orientation",
+        "workplace relationships."
+      ],
+      "course_title_signal": "E-Governance and IT Security -- Best Practices",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_20",
+      "course_id": "course_068",
+      "role_skills_topics": [
+        "Forest management",
+        "forest valuation",
+        "emerging forestry practices",
+        "time management",
+        "office procedures",
+        "goal setting."
+      ],
+      "course_title_signal": "Forests and their Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_20",
+      "course_id": "course_069",
+      "role_skills_topics": [
+        "Forest management",
+        "forest valuation",
+        "emerging forestry practices",
+        "time management",
+        "office procedures",
+        "goal setting."
+      ],
+      "course_title_signal": "Time Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_20",
+      "course_id": "course_070",
+      "role_skills_topics": [
+        "Forest management",
+        "forest valuation",
+        "emerging forestry practices",
+        "time management",
+        "office procedures",
+        "goal setting."
+      ],
+      "course_title_signal": "Office Procedures",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_21",
+      "course_id": "course_071",
+      "role_skills_topics": [
+        "Data analysis",
+        "statistics",
+        "AI/ML",
+        "social research",
+        "policy analysis",
+        "data-led decision-making",
+        "Cabinet Notes",
+        "time management."
+      ],
+      "course_title_signal": "Development Challenges in Tribal Areas and Aspirational Districts",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_21",
+      "course_id": "course_072",
+      "role_skills_topics": [
+        "Data analysis",
+        "statistics",
+        "AI/ML",
+        "social research",
+        "policy analysis",
+        "data-led decision-making",
+        "Cabinet Notes",
+        "time management."
+      ],
+      "course_title_signal": "Data Analysis and Decision Making -- I",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_21",
+      "course_id": "course_031",
+      "role_skills_topics": [
+        "Data analysis",
+        "statistics",
+        "AI/ML",
+        "social research",
+        "policy analysis",
+        "data-led decision-making",
+        "Cabinet Notes",
+        "time management."
+      ],
+      "course_title_signal": "Preparation of Cabinet Notes",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_21",
+      "course_id": "course_005",
+      "role_skills_topics": [
+        "Data analysis",
+        "statistics",
+        "AI/ML",
+        "social research",
+        "policy analysis",
+        "data-led decision-making",
+        "Cabinet Notes",
+        "time management."
+      ],
+      "course_title_signal": "Basics of AI",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_21",
+      "course_id": "course_073",
+      "role_skills_topics": [
+        "Data analysis",
+        "statistics",
+        "AI/ML",
+        "social research",
+        "policy analysis",
+        "data-led decision-making",
+        "Cabinet Notes",
+        "time management."
+      ],
+      "course_title_signal": "Data Driven Decision Making For Government",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_21",
+      "course_id": "course_006",
+      "role_skills_topics": [
+        "Data analysis",
+        "statistics",
+        "AI/ML",
+        "social research",
+        "policy analysis",
+        "data-led decision-making",
+        "Cabinet Notes",
+        "time management."
+      ],
+      "course_title_signal": "Time Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_22",
+      "course_id": "course_022",
+      "role_skills_topics": [
+        "Project planning",
+        "project management",
+        "leadership",
+        "responsible data management",
+        "data governance",
+        "design thinking",
+        "SDGs",
+        "spatial planning."
+      ],
+      "course_title_signal": "Team Building and Team Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_22",
+      "course_id": "course_074",
+      "role_skills_topics": [
+        "Project planning",
+        "project management",
+        "leadership",
+        "responsible data management",
+        "data governance",
+        "design thinking",
+        "SDGs",
+        "spatial planning."
+      ],
+      "course_title_signal": "Leadership in Project Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_22",
+      "course_id": "course_075",
+      "role_skills_topics": [
+        "Project planning",
+        "project management",
+        "leadership",
+        "responsible data management",
+        "data governance",
+        "design thinking",
+        "SDGs",
+        "spatial planning."
+      ],
+      "course_title_signal": "Responsible Data Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_22",
+      "course_id": "course_076",
+      "role_skills_topics": [
+        "Project planning",
+        "project management",
+        "leadership",
+        "responsible data management",
+        "data governance",
+        "design thinking",
+        "SDGs",
+        "spatial planning."
+      ],
+      "course_title_signal": "Project Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_22",
+      "course_id": "course_077",
+      "role_skills_topics": [
+        "Project planning",
+        "project management",
+        "leadership",
+        "responsible data management",
+        "data governance",
+        "design thinking",
+        "SDGs",
+        "spatial planning."
+      ],
+      "course_title_signal": "Design Thinking",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_22",
+      "course_id": "course_078",
+      "role_skills_topics": [
+        "Project planning",
+        "project management",
+        "leadership",
+        "responsible data management",
+        "data governance",
+        "design thinking",
+        "SDGs",
+        "spatial planning."
+      ],
+      "course_title_signal": "Sustainable Development Goals",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_23",
+      "course_id": "course_079",
+      "role_skills_topics": [
+        "Service orientation",
+        "communication",
+        "digital transformation",
+        "strategic thinking",
+        "FTA/WTO",
+        "emerging technology",
+        "citizen outreach."
+      ],
+      "course_title_signal": "Introduction to Free Trade Agreement",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_23",
+      "course_id": "course_080",
+      "role_skills_topics": [
+        "Service orientation",
+        "communication",
+        "digital transformation",
+        "strategic thinking",
+        "FTA/WTO",
+        "emerging technology",
+        "citizen outreach."
+      ],
+      "course_title_signal": "Viksit Bharat 2047",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_23",
+      "course_id": "course_081",
+      "role_skills_topics": [
+        "Service orientation",
+        "communication",
+        "digital transformation",
+        "strategic thinking",
+        "FTA/WTO",
+        "emerging technology",
+        "citizen outreach."
+      ],
+      "course_title_signal": "Introduction to Emerging Technologies",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_23",
+      "course_id": "course_082",
+      "role_skills_topics": [
+        "Service orientation",
+        "communication",
+        "digital transformation",
+        "strategic thinking",
+        "FTA/WTO",
+        "emerging technology",
+        "citizen outreach."
+      ],
+      "course_title_signal": "Improving Outreach and Communication for Viksit Bharat",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_24",
+      "course_id": "course_083",
+      "role_skills_topics": [
+        "Policy writing",
+        "AI in government",
+        "digital governance",
+        "digital transformation",
+        "public-service delivery",
+        "decision-support systems."
+      ],
+      "course_title_signal": "Public Policy Writing",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_24",
+      "course_id": "course_084",
+      "role_skills_topics": [
+        "Policy writing",
+        "AI in government",
+        "digital governance",
+        "digital transformation",
+        "public-service delivery",
+        "decision-support systems."
+      ],
+      "course_title_signal": "Viksit Bharat 2047",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_24",
+      "course_id": "course_085",
+      "role_skills_topics": [
+        "Policy writing",
+        "AI in government",
+        "digital governance",
+        "digital transformation",
+        "public-service delivery",
+        "decision-support systems."
+      ],
+      "course_title_signal": "AI in Government: Public Service Delivery",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_25",
+      "course_id": "course_086",
+      "role_skills_topics": [
+        "QA/QC",
+        "QMS",
+        "TQM",
+        "seven quality tools",
+        "RCA",
+        "Pareto",
+        "Fishbone",
+        "CAPA",
+        "audit/compliance",
+        "process improvement",
+        "Lean",
+        "risk management",
+        "project management",
+        "DPR",
+        "technical writing",
+        "textiles",
+        "trade."
+      ],
+      "course_title_signal": "Best Available Techniques in Textile Industries",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_25",
+      "course_id": "course_087",
+      "role_skills_topics": [
+        "QA/QC",
+        "QMS",
+        "TQM",
+        "seven quality tools",
+        "RCA",
+        "Pareto",
+        "Fishbone",
+        "CAPA",
+        "audit/compliance",
+        "process improvement",
+        "Lean",
+        "risk management",
+        "project management",
+        "DPR",
+        "technical writing",
+        "textiles",
+        "trade."
+      ],
+      "course_title_signal": "Ministry of Textiles -- Induction Module",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_25",
+      "course_id": "course_088",
+      "role_skills_topics": [
+        "QA/QC",
+        "QMS",
+        "TQM",
+        "seven quality tools",
+        "RCA",
+        "Pareto",
+        "Fishbone",
+        "CAPA",
+        "audit/compliance",
+        "process improvement",
+        "Lean",
+        "risk management",
+        "project management",
+        "DPR",
+        "technical writing",
+        "textiles",
+        "trade."
+      ],
+      "course_title_signal": "Quality Management System in Medical Devices",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_25",
+      "course_id": "course_089",
+      "role_skills_topics": [
+        "QA/QC",
+        "QMS",
+        "TQM",
+        "seven quality tools",
+        "RCA",
+        "Pareto",
+        "Fishbone",
+        "CAPA",
+        "audit/compliance",
+        "process improvement",
+        "Lean",
+        "risk management",
+        "project management",
+        "DPR",
+        "technical writing",
+        "textiles",
+        "trade."
+      ],
+      "course_title_signal": "Total Quality Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_25",
+      "course_id": "course_090",
+      "role_skills_topics": [
+        "QA/QC",
+        "QMS",
+        "TQM",
+        "seven quality tools",
+        "RCA",
+        "Pareto",
+        "Fishbone",
+        "CAPA",
+        "audit/compliance",
+        "process improvement",
+        "Lean",
+        "risk management",
+        "project management",
+        "DPR",
+        "technical writing",
+        "textiles",
+        "trade."
+      ],
+      "course_title_signal": "Customs and Free Trade Agreement",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_25",
+      "course_id": "course_091",
+      "role_skills_topics": [
+        "QA/QC",
+        "QMS",
+        "TQM",
+        "seven quality tools",
+        "RCA",
+        "Pareto",
+        "Fishbone",
+        "CAPA",
+        "audit/compliance",
+        "process improvement",
+        "Lean",
+        "risk management",
+        "project management",
+        "DPR",
+        "technical writing",
+        "textiles",
+        "trade."
+      ],
+      "course_title_signal": "Introduction to Free Trade Agreement",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_25",
+      "course_id": "course_092",
+      "role_skills_topics": [
+        "QA/QC",
+        "QMS",
+        "TQM",
+        "seven quality tools",
+        "RCA",
+        "Pareto",
+        "Fishbone",
+        "CAPA",
+        "audit/compliance",
+        "process improvement",
+        "Lean",
+        "risk management",
+        "project management",
+        "DPR",
+        "technical writing",
+        "textiles",
+        "trade."
+      ],
+      "course_title_signal": "Technical and Scientific Writing",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_25",
+      "course_id": "course_093",
+      "role_skills_topics": [
+        "QA/QC",
+        "QMS",
+        "TQM",
+        "seven quality tools",
+        "RCA",
+        "Pareto",
+        "Fishbone",
+        "CAPA",
+        "audit/compliance",
+        "process improvement",
+        "Lean",
+        "risk management",
+        "project management",
+        "DPR",
+        "technical writing",
+        "textiles",
+        "trade."
+      ],
+      "course_title_signal": "Project Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_25",
+      "course_id": "course_094",
+      "role_skills_topics": [
+        "QA/QC",
+        "QMS",
+        "TQM",
+        "seven quality tools",
+        "RCA",
+        "Pareto",
+        "Fishbone",
+        "CAPA",
+        "audit/compliance",
+        "process improvement",
+        "Lean",
+        "risk management",
+        "project management",
+        "DPR",
+        "technical writing",
+        "textiles",
+        "trade."
+      ],
+      "course_title_signal": "Detailed Project Report",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_25",
+      "course_id": "course_095",
+      "role_skills_topics": [
+        "QA/QC",
+        "QMS",
+        "TQM",
+        "seven quality tools",
+        "RCA",
+        "Pareto",
+        "Fishbone",
+        "CAPA",
+        "audit/compliance",
+        "process improvement",
+        "Lean",
+        "risk management",
+        "project management",
+        "DPR",
+        "technical writing",
+        "textiles",
+        "trade."
+      ],
+      "course_title_signal": "Seven Basic Quality Tools",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_25",
+      "course_id": "course_096",
+      "role_skills_topics": [
+        "QA/QC",
+        "QMS",
+        "TQM",
+        "seven quality tools",
+        "RCA",
+        "Pareto",
+        "Fishbone",
+        "CAPA",
+        "audit/compliance",
+        "process improvement",
+        "Lean",
+        "risk management",
+        "project management",
+        "DPR",
+        "technical writing",
+        "textiles",
+        "trade."
+      ],
+      "course_title_signal": "Business Process Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_25",
+      "course_id": "course_097",
+      "role_skills_topics": [
+        "QA/QC",
+        "QMS",
+        "TQM",
+        "seven quality tools",
+        "RCA",
+        "Pareto",
+        "Fishbone",
+        "CAPA",
+        "audit/compliance",
+        "process improvement",
+        "Lean",
+        "risk management",
+        "project management",
+        "DPR",
+        "technical writing",
+        "textiles",
+        "trade."
+      ],
+      "course_title_signal": "Implementation and Change Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_26",
+      "course_id": "course_098",
+      "role_skills_topics": [
+        "Contract management",
+        "GFR",
+        "procurement",
+        "data analysis",
+        "visualization",
+        "blockchain",
+        "AI in finance",
+        "ICT."
+      ],
+      "course_title_signal": "Contract Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_26",
+      "course_id": "course_099",
+      "role_skills_topics": [
+        "Contract management",
+        "GFR",
+        "procurement",
+        "data analysis",
+        "visualization",
+        "blockchain",
+        "AI in finance",
+        "ICT."
+      ],
+      "course_title_signal": "Blockchain Concepts",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_26",
+      "course_id": "course_100",
+      "role_skills_topics": [
+        "Contract management",
+        "GFR",
+        "procurement",
+        "data analysis",
+        "visualization",
+        "blockchain",
+        "AI in finance",
+        "ICT."
+      ],
+      "course_title_signal": "Artificial Intelligence in Finance",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_27",
+      "course_id": "course_027",
+      "role_skills_topics": [
+        "Office procedures",
+        "file management",
+        "noting/drafting",
+        "decision-making",
+        "team coordination",
+        "social-media analytics",
+        "data-driven governance",
+        "cybersecurity",
+        "public administration."
+      ],
+      "course_title_signal": "Problem Solving and Decision Making",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_27",
+      "course_id": "course_026",
+      "role_skills_topics": [
+        "Office procedures",
+        "file management",
+        "noting/drafting",
+        "decision-making",
+        "team coordination",
+        "social-media analytics",
+        "data-driven governance",
+        "cybersecurity",
+        "public administration."
+      ],
+      "course_title_signal": "Managing and Leading Teams",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_27",
+      "course_id": "course_101",
+      "role_skills_topics": [
+        "Office procedures",
+        "file management",
+        "noting/drafting",
+        "decision-making",
+        "team coordination",
+        "social-media analytics",
+        "data-driven governance",
+        "cybersecurity",
+        "public administration."
+      ],
+      "course_title_signal": "Office Procedures",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_27",
+      "course_id": "course_102",
+      "role_skills_topics": [
+        "Office procedures",
+        "file management",
+        "noting/drafting",
+        "decision-making",
+        "team coordination",
+        "social-media analytics",
+        "data-driven governance",
+        "cybersecurity",
+        "public administration."
+      ],
+      "course_title_signal": "Data and Social Media Analytics for Governance",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_27",
+      "course_id": "course_029",
+      "role_skills_topics": [
+        "Office procedures",
+        "file management",
+        "noting/drafting",
+        "decision-making",
+        "team coordination",
+        "social-media analytics",
+        "data-driven governance",
+        "cybersecurity",
+        "public administration."
+      ],
+      "course_title_signal": "Indian Knowledge System -- Public Administration",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_27",
+      "course_id": "course_103",
+      "role_skills_topics": [
+        "Office procedures",
+        "file management",
+        "noting/drafting",
+        "decision-making",
+        "team coordination",
+        "social-media analytics",
+        "data-driven governance",
+        "cybersecurity",
+        "public administration."
+      ],
+      "course_title_signal": "Cyber Security",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_28",
+      "course_id": "course_027",
+      "role_skills_topics": [
+        "Office procedures",
+        "team management",
+        "problem solving",
+        "AI",
+        "ML",
+        "DL",
+        "cybersecurity",
+        "public administration."
+      ],
+      "course_title_signal": "Problem Solving and Decision Making",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_28",
+      "course_id": "course_026",
+      "role_skills_topics": [
+        "Office procedures",
+        "team management",
+        "problem solving",
+        "AI",
+        "ML",
+        "DL",
+        "cybersecurity",
+        "public administration."
+      ],
+      "course_title_signal": "Managing and Leading Teams",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_28",
+      "course_id": "course_101",
+      "role_skills_topics": [
+        "Office procedures",
+        "team management",
+        "problem solving",
+        "AI",
+        "ML",
+        "DL",
+        "cybersecurity",
+        "public administration."
+      ],
+      "course_title_signal": "Office Procedures",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_28",
+      "course_id": "course_104",
+      "role_skills_topics": [
+        "Office procedures",
+        "team management",
+        "problem solving",
+        "AI",
+        "ML",
+        "DL",
+        "cybersecurity",
+        "public administration."
+      ],
+      "course_title_signal": "AI for Digital Transformation: Machine Learning and Deep Learning",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_28",
+      "course_id": "course_029",
+      "role_skills_topics": [
+        "Office procedures",
+        "team management",
+        "problem solving",
+        "AI",
+        "ML",
+        "DL",
+        "cybersecurity",
+        "public administration."
+      ],
+      "course_title_signal": "Indian Knowledge System -- Public Administration",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_28",
+      "course_id": "course_103",
+      "role_skills_topics": [
+        "Office procedures",
+        "team management",
+        "problem solving",
+        "AI",
+        "ML",
+        "DL",
+        "cybersecurity",
+        "public administration."
+      ],
+      "course_title_signal": "Cyber Security",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_29",
+      "course_id": "course_010",
+      "role_skills_topics": [
+        "Project implementation",
+        "leadership",
+        "data-driven decisions",
+        "critical infrastructure",
+        "ISMS",
+        "risk management",
+        "cybersecurity",
+        "evidence-based policy",
+        "self-management."
+      ],
+      "course_title_signal": "Purpose-Driven Leadership",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_29",
+      "course_id": "course_073",
+      "role_skills_topics": [
+        "Project implementation",
+        "leadership",
+        "data-driven decisions",
+        "critical infrastructure",
+        "ISMS",
+        "risk management",
+        "cybersecurity",
+        "evidence-based policy",
+        "self-management."
+      ],
+      "course_title_signal": "Data Driven Decision Making For Government",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_29",
+      "course_id": "course_105",
+      "role_skills_topics": [
+        "Project implementation",
+        "leadership",
+        "data-driven decisions",
+        "critical infrastructure",
+        "ISMS",
+        "risk management",
+        "cybersecurity",
+        "evidence-based policy",
+        "self-management."
+      ],
+      "course_title_signal": "Basics of Critical Information Infrastructure",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_29",
+      "course_id": "course_106",
+      "role_skills_topics": [
+        "Project implementation",
+        "leadership",
+        "data-driven decisions",
+        "critical infrastructure",
+        "ISMS",
+        "risk management",
+        "cybersecurity",
+        "evidence-based policy",
+        "self-management."
+      ],
+      "course_title_signal": "Leading From Within: Behavioural Strategies for Self-...",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_29",
+      "course_id": "course_107",
+      "role_skills_topics": [
+        "Project implementation",
+        "leadership",
+        "data-driven decisions",
+        "critical infrastructure",
+        "ISMS",
+        "risk management",
+        "cybersecurity",
+        "evidence-based policy",
+        "self-management."
+      ],
+      "course_title_signal": "Information Security Management System (ISMS)",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_29",
+      "course_id": "course_013",
+      "role_skills_topics": [
+        "Project implementation",
+        "leadership",
+        "data-driven decisions",
+        "critical infrastructure",
+        "ISMS",
+        "risk management",
+        "cybersecurity",
+        "evidence-based policy",
+        "self-management."
+      ],
+      "course_title_signal": "Evidence-based Policy Making",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_30",
+      "course_id": "course_108",
+      "role_skills_topics": [
+        "Transformational leadership",
+        "motivation",
+        "policy analysis",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "privacy",
+        "ethical governance."
+      ],
+      "course_title_signal": "Transformational Leadership",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_30",
+      "course_id": "course_011",
+      "role_skills_topics": [
+        "Transformational leadership",
+        "motivation",
+        "policy analysis",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "privacy",
+        "ethical governance."
+      ],
+      "course_title_signal": "Happiness in Seva-Bhava: Lessons from Bhagavad-Gita",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_30",
+      "course_id": "course_012",
+      "role_skills_topics": [
+        "Transformational leadership",
+        "motivation",
+        "policy analysis",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "privacy",
+        "ethical governance."
+      ],
+      "course_title_signal": "DPDP Act 2023",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_30",
+      "course_id": "course_013",
+      "role_skills_topics": [
+        "Transformational leadership",
+        "motivation",
+        "policy analysis",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "privacy",
+        "ethical governance."
+      ],
+      "course_title_signal": "Evidence-based Policy Making",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_30",
+      "course_id": "course_014",
+      "role_skills_topics": [
+        "Transformational leadership",
+        "motivation",
+        "policy analysis",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "privacy",
+        "ethical governance."
+      ],
+      "course_title_signal": "Cybersecurity Basic",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_30",
+      "course_id": "course_015",
+      "role_skills_topics": [
+        "Transformational leadership",
+        "motivation",
+        "policy analysis",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "privacy",
+        "ethical governance."
+      ],
+      "course_title_signal": "Data Science for Policy Makers Part-1",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_31",
+      "course_id": "course_065",
+      "role_skills_topics": [
+        "Data analysis",
+        "decision-making",
+        "critical thinking",
+        "evidence-based governance",
+        "digital literacy",
+        "social research",
+        "public administration."
+      ],
+      "course_title_signal": "Critical Thinking",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_31",
+      "course_id": "course_073",
+      "role_skills_topics": [
+        "Data analysis",
+        "decision-making",
+        "critical thinking",
+        "evidence-based governance",
+        "digital literacy",
+        "social research",
+        "public administration."
+      ],
+      "course_title_signal": "Data Driven Decision Making For Government",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_31",
+      "course_id": "course_032",
+      "role_skills_topics": [
+        "Data analysis",
+        "decision-making",
+        "critical thinking",
+        "evidence-based governance",
+        "digital literacy",
+        "social research",
+        "public administration."
+      ],
+      "course_title_signal": "DADM-II",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_31",
+      "course_id": "course_109",
+      "role_skills_topics": [
+        "Data analysis",
+        "decision-making",
+        "critical thinking",
+        "evidence-based governance",
+        "digital literacy",
+        "social research",
+        "public administration."
+      ],
+      "course_title_signal": "Decision Making",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_31",
+      "course_id": "course_110",
+      "role_skills_topics": [
+        "Data analysis",
+        "decision-making",
+        "critical thinking",
+        "evidence-based governance",
+        "digital literacy",
+        "social research",
+        "public administration."
+      ],
+      "course_title_signal": "Digital Literacy",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_31",
+      "course_id": "course_029",
+      "role_skills_topics": [
+        "Data analysis",
+        "decision-making",
+        "critical thinking",
+        "evidence-based governance",
+        "digital literacy",
+        "social research",
+        "public administration."
+      ],
+      "course_title_signal": "Indian Knowledge System -- Public Administration",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_32",
+      "course_id": "course_111",
+      "role_skills_topics": [
+        "Motivation",
+        "leadership",
+        "project management",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "data protection."
+      ],
+      "course_title_signal": "Motivation",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_32",
+      "course_id": "course_103",
+      "role_skills_topics": [
+        "Motivation",
+        "leadership",
+        "project management",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "data protection."
+      ],
+      "course_title_signal": "Cyber Security",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_32",
+      "course_id": "course_015",
+      "role_skills_topics": [
+        "Motivation",
+        "leadership",
+        "project management",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "data protection."
+      ],
+      "course_title_signal": "Data Science for Policy Makers Part-1",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_32",
+      "course_id": "course_012",
+      "role_skills_topics": [
+        "Motivation",
+        "leadership",
+        "project management",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "data protection."
+      ],
+      "course_title_signal": "DPDP Act 2023",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_32",
+      "course_id": "course_026",
+      "role_skills_topics": [
+        "Motivation",
+        "leadership",
+        "project management",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "data protection."
+      ],
+      "course_title_signal": "Managing and Leading Teams",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_32",
+      "course_id": "course_076",
+      "role_skills_topics": [
+        "Motivation",
+        "leadership",
+        "project management",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "data protection."
+      ],
+      "course_title_signal": "Project Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_33",
+      "course_id": "course_022",
+      "role_skills_topics": [
+        "Data management",
+        "SQL",
+        "MySQL",
+        "database design",
+        "responsible data management",
+        "project management",
+        "leadership",
+        "GIS/geospatial data."
+      ],
+      "course_title_signal": "Team Building and Team Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_33",
+      "course_id": "course_074",
+      "role_skills_topics": [
+        "Data management",
+        "SQL",
+        "MySQL",
+        "database design",
+        "responsible data management",
+        "project management",
+        "leadership",
+        "GIS/geospatial data."
+      ],
+      "course_title_signal": "Leadership in Project Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_33",
+      "course_id": "course_076",
+      "role_skills_topics": [
+        "Data management",
+        "SQL",
+        "MySQL",
+        "database design",
+        "responsible data management",
+        "project management",
+        "leadership",
+        "GIS/geospatial data."
+      ],
+      "course_title_signal": "Project Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_33",
+      "course_id": "course_075",
+      "role_skills_topics": [
+        "Data management",
+        "SQL",
+        "MySQL",
+        "database design",
+        "responsible data management",
+        "project management",
+        "leadership",
+        "GIS/geospatial data."
+      ],
+      "course_title_signal": "Responsible Data Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_33",
+      "course_id": "course_044",
+      "role_skills_topics": [
+        "Data management",
+        "SQL",
+        "MySQL",
+        "database design",
+        "responsible data management",
+        "project management",
+        "leadership",
+        "GIS/geospatial data."
+      ],
+      "course_title_signal": "Advanced Concepts in SQL",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_33",
+      "course_id": "course_047",
+      "role_skills_topics": [
+        "Data management",
+        "SQL",
+        "MySQL",
+        "database design",
+        "responsible data management",
+        "project management",
+        "leadership",
+        "GIS/geospatial data."
+      ],
+      "course_title_signal": "Database Design and Introduction to MySQL",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_34",
+      "course_id": "course_016",
+      "role_skills_topics": [
+        "Stress management",
+        "report writing",
+        "SQL",
+        "MySQL",
+        "database design",
+        "information security",
+        "data management",
+        "geospatial data",
+        "communication."
+      ],
+      "course_title_signal": "Stress Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_34",
+      "course_id": "course_112",
+      "role_skills_topics": [
+        "Stress management",
+        "report writing",
+        "SQL",
+        "MySQL",
+        "database design",
+        "information security",
+        "data management",
+        "geospatial data",
+        "communication."
+      ],
+      "course_title_signal": "Report Writing Skills for Projects",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_34",
+      "course_id": "course_047",
+      "role_skills_topics": [
+        "Stress management",
+        "report writing",
+        "SQL",
+        "MySQL",
+        "database design",
+        "information security",
+        "data management",
+        "geospatial data",
+        "communication."
+      ],
+      "course_title_signal": "Database Design and Introduction to MySQL",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_34",
+      "course_id": "course_045",
+      "role_skills_topics": [
+        "Stress management",
+        "report writing",
+        "SQL",
+        "MySQL",
+        "database design",
+        "information security",
+        "data management",
+        "geospatial data",
+        "communication."
+      ],
+      "course_title_signal": "How to Improve Interpersonal Skills in the Workplace",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_34",
+      "course_id": "course_046",
+      "role_skills_topics": [
+        "Stress management",
+        "report writing",
+        "SQL",
+        "MySQL",
+        "database design",
+        "information security",
+        "data management",
+        "geospatial data",
+        "communication."
+      ],
+      "course_title_signal": "Information Security Basics",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_34",
+      "course_id": "course_044",
+      "role_skills_topics": [
+        "Stress management",
+        "report writing",
+        "SQL",
+        "MySQL",
+        "database design",
+        "information security",
+        "data management",
+        "geospatial data",
+        "communication."
+      ],
+      "course_title_signal": "Advanced Concepts in SQL",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_35",
+      "course_id": "course_113",
+      "role_skills_topics": [
+        "Administration",
+        "allowances",
+        "reimbursement",
+        "noting",
+        "drafting",
+        "basic computers",
+        "citizen engagement",
+        "Jan Bhagidari."
+      ],
+      "course_title_signal": "Jan Bhagidari Program",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_35",
+      "course_id": "course_114",
+      "role_skills_topics": [
+        "Administration",
+        "allowances",
+        "reimbursement",
+        "noting",
+        "drafting",
+        "basic computers",
+        "citizen engagement",
+        "Jan Bhagidari."
+      ],
+      "course_title_signal": "Noting and Drafting",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_35",
+      "course_id": "course_115",
+      "role_skills_topics": [
+        "Administration",
+        "allowances",
+        "reimbursement",
+        "noting",
+        "drafting",
+        "basic computers",
+        "citizen engagement",
+        "Jan Bhagidari."
+      ],
+      "course_title_signal": "Basic Computer Course for New Entrants",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_36",
+      "course_id": "course_116",
+      "role_skills_topics": [
+        "Communication",
+        "reading/comprehension",
+        "basic computer hardware/software",
+        "government schemes",
+        "routine administrative support."
+      ],
+      "course_title_signal": "Basic Computer Course for New Entrants",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_36",
+      "course_id": "course_117",
+      "role_skills_topics": [
+        "Communication",
+        "reading/comprehension",
+        "basic computer hardware/software",
+        "government schemes",
+        "routine administrative support."
+      ],
+      "course_title_signal": "Basics of Communication",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_36",
+      "course_id": "course_118",
+      "role_skills_topics": [
+        "Communication",
+        "reading/comprehension",
+        "basic computer hardware/software",
+        "government schemes",
+        "routine administrative support."
+      ],
+      "course_title_signal": "Investing in Government Schemes",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_37",
+      "course_id": "course_119",
+      "role_skills_topics": [
+        "Cybersecurity",
+        "phishing",
+        "malware",
+        "ransomware",
+        "online fraud awareness",
+        "citizen engagement",
+        "leave rules",
+        "computer hardware/software",
+        "troubleshooting",
+        "ministry awareness."
+      ],
+      "course_title_signal": "Jan Bhagidari Programme -- Hindi",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_37",
+      "course_id": "course_120",
+      "role_skills_topics": [
+        "Cybersecurity",
+        "phishing",
+        "malware",
+        "ransomware",
+        "online fraud awareness",
+        "citizen engagement",
+        "leave rules",
+        "computer hardware/software",
+        "troubleshooting",
+        "ministry awareness."
+      ],
+      "course_title_signal": "Jan Bhagidari Program -- English",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_37",
+      "course_id": "course_121",
+      "role_skills_topics": [
+        "Cybersecurity",
+        "phishing",
+        "malware",
+        "ransomware",
+        "online fraud awareness",
+        "citizen engagement",
+        "leave rules",
+        "computer hardware/software",
+        "troubleshooting",
+        "ministry awareness."
+      ],
+      "course_title_signal": "Leave Rules -- Hindi",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_37",
+      "course_id": "course_122",
+      "role_skills_topics": [
+        "Cybersecurity",
+        "phishing",
+        "malware",
+        "ransomware",
+        "online fraud awareness",
+        "citizen engagement",
+        "leave rules",
+        "computer hardware/software",
+        "troubleshooting",
+        "ministry awareness."
+      ],
+      "course_title_signal": "Know Your Ministry -- Ministry of Tourism",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_37",
+      "course_id": "course_123",
+      "role_skills_topics": [
+        "Cybersecurity",
+        "phishing",
+        "malware",
+        "ransomware",
+        "online fraud awareness",
+        "citizen engagement",
+        "leave rules",
+        "computer hardware/software",
+        "troubleshooting",
+        "ministry awareness."
+      ],
+      "course_title_signal": "Common Yoga Protocol -- English",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_37",
+      "course_id": "course_124",
+      "role_skills_topics": [
+        "Cybersecurity",
+        "phishing",
+        "malware",
+        "ransomware",
+        "online fraud awareness",
+        "citizen engagement",
+        "leave rules",
+        "computer hardware/software",
+        "troubleshooting",
+        "ministry awareness."
+      ],
+      "course_title_signal": "Stay Safe in Cyber Space",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_37",
+      "course_id": "course_125",
+      "role_skills_topics": [
+        "Cybersecurity",
+        "phishing",
+        "malware",
+        "ransomware",
+        "online fraud awareness",
+        "citizen engagement",
+        "leave rules",
+        "computer hardware/software",
+        "troubleshooting",
+        "ministry awareness."
+      ],
+      "course_title_signal": "Basic Computer Course for New Entrants",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_37",
+      "course_id": "course_126",
+      "role_skills_topics": [
+        "Cybersecurity",
+        "phishing",
+        "malware",
+        "ransomware",
+        "online fraud awareness",
+        "citizen engagement",
+        "leave rules",
+        "computer hardware/software",
+        "troubleshooting",
+        "ministry awareness."
+      ],
+      "course_title_signal": "Basic Computer Troubleshooting",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_38",
+      "course_id": "course_127",
+      "role_skills_topics": [
+        "Active listening",
+        "relationship management",
+        "empathy",
+        "conflict management",
+        "cybersecurity",
+        "CIA Triad",
+        "risk management",
+        "phishing",
+        "ransomware",
+        "cyber resilience",
+        "OODA loop",
+        "noting",
+        "drafting",
+        "secretariat procedures."
+      ],
+      "course_title_signal": "Effective Communication",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_38",
+      "course_id": "course_128",
+      "role_skills_topics": [
+        "Active listening",
+        "relationship management",
+        "empathy",
+        "conflict management",
+        "cybersecurity",
+        "CIA Triad",
+        "risk management",
+        "phishing",
+        "ransomware",
+        "cyber resilience",
+        "OODA loop",
+        "noting",
+        "drafting",
+        "secretariat procedures."
+      ],
+      "course_title_signal": "Cybersecurity Fundamentals for Government Personnel",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_38",
+      "course_id": "course_129",
+      "role_skills_topics": [
+        "Active listening",
+        "relationship management",
+        "empathy",
+        "conflict management",
+        "cybersecurity",
+        "CIA Triad",
+        "risk management",
+        "phishing",
+        "ransomware",
+        "cyber resilience",
+        "OODA loop",
+        "noting",
+        "drafting",
+        "secretariat procedures."
+      ],
+      "course_title_signal": "Noting and Drafting",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_39",
+      "course_id": "course_130",
+      "role_skills_topics": [
+        "Mentoring",
+        "team leadership",
+        "design thinking",
+        "project management",
+        "ChatGPT",
+        "LLMs",
+        "prompting",
+        "generative AI",
+        "R",
+        "statistics",
+        "inferential statistics",
+        "visualization",
+        "cybersecurity."
+      ],
+      "course_title_signal": "Team Building and Team Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_39",
+      "course_id": "course_131",
+      "role_skills_topics": [
+        "Mentoring",
+        "team leadership",
+        "design thinking",
+        "project management",
+        "ChatGPT",
+        "LLMs",
+        "prompting",
+        "generative AI",
+        "R",
+        "statistics",
+        "inferential statistics",
+        "visualization",
+        "cybersecurity."
+      ],
+      "course_title_signal": "Design Thinking For Excellence In Public Services",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_39",
+      "course_id": "course_132",
+      "role_skills_topics": [
+        "Mentoring",
+        "team leadership",
+        "design thinking",
+        "project management",
+        "ChatGPT",
+        "LLMs",
+        "prompting",
+        "generative AI",
+        "R",
+        "statistics",
+        "inferential statistics",
+        "visualization",
+        "cybersecurity."
+      ],
+      "course_title_signal": "Project Management",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_39",
+      "course_id": "course_133",
+      "role_skills_topics": [
+        "Mentoring",
+        "team leadership",
+        "design thinking",
+        "project management",
+        "ChatGPT",
+        "LLMs",
+        "prompting",
+        "generative AI",
+        "R",
+        "statistics",
+        "inferential statistics",
+        "visualization",
+        "cybersecurity."
+      ],
+      "course_title_signal": "ChatGPT and Generative AI Tools for Government Officials",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_39",
+      "course_id": "course_134",
+      "role_skills_topics": [
+        "Mentoring",
+        "team leadership",
+        "design thinking",
+        "project management",
+        "ChatGPT",
+        "LLMs",
+        "prompting",
+        "generative AI",
+        "R",
+        "statistics",
+        "inferential statistics",
+        "visualization",
+        "cybersecurity."
+      ],
+      "course_title_signal": "Data Analysis using R",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_39",
+      "course_id": "course_135",
+      "role_skills_topics": [
+        "Mentoring",
+        "team leadership",
+        "design thinking",
+        "project management",
+        "ChatGPT",
+        "LLMs",
+        "prompting",
+        "generative AI",
+        "R",
+        "statistics",
+        "inferential statistics",
+        "visualization",
+        "cybersecurity."
+      ],
+      "course_title_signal": "Integrated Digital Services and Cybersecurity",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_40",
+      "course_id": "course_136",
+      "role_skills_topics": [
+        "Recruitment Rules",
+        "AIS Conduct Rules",
+        "ethics",
+        "accountability",
+        "integrity",
+        "regulatory compliance",
+        "data analytics",
+        "performance indicators",
+        "evidence-based decision-making."
+      ],
+      "course_title_signal": "Framing and Amendment of Recruitment Rules",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_40",
+      "course_id": "course_137",
+      "role_skills_topics": [
+        "Recruitment Rules",
+        "AIS Conduct Rules",
+        "ethics",
+        "accountability",
+        "integrity",
+        "regulatory compliance",
+        "data analytics",
+        "performance indicators",
+        "evidence-based decision-making."
+      ],
+      "course_title_signal": "AIS (Conduct) Rules, 1968",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    },
+    {
+      "role_id": "role_40",
+      "course_id": "course_138",
+      "role_skills_topics": [
+        "Recruitment Rules",
+        "AIS Conduct Rules",
+        "ethics",
+        "accountability",
+        "integrity",
+        "regulatory compliance",
+        "data analytics",
+        "performance indicators",
+        "evidence-based decision-making."
+      ],
+      "course_title_signal": "Data Driven Decision Making For Government",
+      "mapping_source": "prototype-derived-inference",
+      "warning": "Role-level course-to-skill mapping is not an official iGOT competency mapping unless explicitly verified."
+    }
+  ]
+}

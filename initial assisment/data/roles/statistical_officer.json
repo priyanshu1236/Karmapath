@@ -1,0 +1,37 @@
+{
+  "role_id": "statistical_officer",
+  "role_name": "Statistical Officer",
+  "domain": "Agricultural Statistics",
+  "critical_competencies": [
+    {
+      "id": "agricultural_statistics",
+      "name": "Agricultural Statistics",
+      "priority": 1
+    },
+    {
+      "id": "survey_design",
+      "name": "Survey Design",
+      "priority": 2
+    },
+    {
+      "id": "sampling",
+      "name": "Sampling",
+      "priority": 3
+    },
+    {
+      "id": "data_quality",
+      "name": "Data Quality",
+      "priority": 4
+    },
+    {
+      "id": "gis",
+      "name": "GIS",
+      "priority": 5
+    },
+    {
+      "id": "python_data_analysis",
+      "name": "Python / Data Analysis",
+      "priority": 6
+    }
+  ]
+}

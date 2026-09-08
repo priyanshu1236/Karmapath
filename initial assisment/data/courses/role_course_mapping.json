@@ -1,0 +1,282 @@
+{
+  "source_file": "iGOT_40_Roles_DETAILED_README (1).md",
+  "mapping_source": "structured from uploaded README role/course sections",
+  "mapping": {
+    "role_01": [
+      "course_001",
+      "course_002",
+      "course_003",
+      "course_004",
+      "course_005",
+      "course_006"
+    ],
+    "role_02": [
+      "course_004",
+      "course_002",
+      "course_007",
+      "course_008",
+      "course_009",
+      "course_005"
+    ],
+    "role_03": [
+      "course_010",
+      "course_011",
+      "course_012",
+      "course_013",
+      "course_014",
+      "course_015"
+    ],
+    "role_04": [
+      "course_016",
+      "course_017",
+      "course_018",
+      "course_019",
+      "course_020",
+      "course_021"
+    ],
+    "role_05": [
+      "course_022",
+      "course_018",
+      "course_013",
+      "course_023",
+      "course_024",
+      "course_025"
+    ],
+    "role_06": [
+      "course_026",
+      "course_027",
+      "course_002",
+      "course_028",
+      "course_029",
+      "course_030"
+    ],
+    "role_07": [
+      "course_031",
+      "course_026",
+      "course_005",
+      "course_019",
+      "course_018",
+      "course_032"
+    ],
+    "role_08": [
+      "course_033",
+      "course_034",
+      "course_035"
+    ],
+    "role_09": [
+      "course_036"
+    ],
+    "role_10": [
+      "course_037",
+      "course_038",
+      "course_039",
+      "course_040",
+      "course_026",
+      "course_041",
+      "course_042"
+    ],
+    "role_11": [
+      "course_016",
+      "course_043",
+      "course_044",
+      "course_045",
+      "course_046",
+      "course_047"
+    ],
+    "role_12": [
+      "course_025",
+      "course_048",
+      "course_049"
+    ],
+    "role_13": [
+      "course_050",
+      "course_051",
+      "course_052"
+    ],
+    "role_14": [
+      "course_031",
+      "course_053",
+      "course_054"
+    ],
+    "role_15": [
+      "course_055",
+      "course_056"
+    ],
+    "role_16": [
+      "course_057",
+      "course_058",
+      "course_059"
+    ],
+    "role_17": [
+      "course_060",
+      "course_061",
+      "course_062"
+    ],
+    "role_18": [
+      "course_063",
+      "course_064",
+      "course_054",
+      "course_065",
+      "course_066",
+      "course_067"
+    ],
+    "role_19": [
+      "course_060",
+      "course_061",
+      "course_055"
+    ],
+    "role_20": [
+      "course_068",
+      "course_069",
+      "course_070"
+    ],
+    "role_21": [
+      "course_071",
+      "course_072",
+      "course_031",
+      "course_005",
+      "course_073",
+      "course_006"
+    ],
+    "role_22": [
+      "course_022",
+      "course_074",
+      "course_075",
+      "course_076",
+      "course_077",
+      "course_078"
+    ],
+    "role_23": [
+      "course_079",
+      "course_080",
+      "course_081",
+      "course_082"
+    ],
+    "role_24": [
+      "course_083",
+      "course_084",
+      "course_085"
+    ],
+    "role_25": [
+      "course_086",
+      "course_087",
+      "course_088",
+      "course_089",
+      "course_090",
+      "course_091",
+      "course_092",
+      "course_093",
+      "course_094",
+      "course_095",
+      "course_096",
+      "course_097"
+    ],
+    "role_26": [
+      "course_098",
+      "course_099",
+      "course_100"
+    ],
+    "role_27": [
+      "course_027",
+      "course_026",
+      "course_101",
+      "course_102",
+      "course_029",
+      "course_103"
+    ],
+    "role_28": [
+      "course_027",
+      "course_026",
+      "course_101",
+      "course_104",
+      "course_029",
+      "course_103"
+    ],
+    "role_29": [
+      "course_010",
+      "course_073",
+      "course_105",
+      "course_106",
+      "course_107",
+      "course_013"
+    ],
+    "role_30": [
+      "course_108",
+      "course_011",
+      "course_012",
+      "course_013",
+      "course_014",
+      "course_015"
+    ],
+    "role_31": [
+      "course_065",
+      "course_073",
+      "course_032",
+      "course_109",
+      "course_110",
+      "course_029"
+    ],
+    "role_32": [
+      "course_111",
+      "course_103",
+      "course_015",
+      "course_012",
+      "course_026",
+      "course_076"
+    ],
+    "role_33": [
+      "course_022",
+      "course_074",
+      "course_076",
+      "course_075",
+      "course_044",
+      "course_047"
+    ],
+    "role_34": [
+      "course_016",
+      "course_112",
+      "course_047",
+      "course_045",
+      "course_046",
+      "course_044"
+    ],
+    "role_35": [
+      "course_113",
+      "course_114",
+      "course_115"
+    ],
+    "role_36": [
+      "course_116",
+      "course_117",
+      "course_118"
+    ],
+    "role_37": [
+      "course_119",
+      "course_120",
+      "course_121",
+      "course_122",
+      "course_123",
+      "course_124",
+      "course_125",
+      "course_126"
+    ],
+    "role_38": [
+      "course_127",
+      "course_128",
+      "course_129"
+    ],
+    "role_39": [
+      "course_130",
+      "course_131",
+      "course_132",
+      "course_133",
+      "course_134",
+      "course_135"
+    ],
+    "role_40": [
+      "course_136",
+      "course_137",
+      "course_138"
+    ]
+  }
+}

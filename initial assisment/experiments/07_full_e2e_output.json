@@ -1,0 +1,155 @@
+{
+  "employee_role": "statistical_officer",
+  "assessment_result": {
+    "role": "statistical_officer",
+    "domain": "Statistical",
+    "assessment": {
+      "type": "Initial Assessment",
+      "version": "v2",
+      "question_count": 18
+    },
+    "role_capability_profile": [
+      {
+        "competency": "Agricultural Statistics",
+        "capability": 0.0,
+        "question_count": 3
+      },
+      {
+        "competency": "Survey Design",
+        "capability": 66.67,
+        "question_count": 3
+      },
+      {
+        "competency": "Sampling",
+        "capability": 66.67,
+        "question_count": 3
+      },
+      {
+        "competency": "Data Quality",
+        "capability": 0.0,
+        "question_count": 3
+      },
+      {
+        "competency": "GIS",
+        "capability": 33.33,
+        "question_count": 3
+      },
+      {
+        "competency": "Python / Data Analysis",
+        "capability": 33.33,
+        "question_count": 3
+      }
+    ],
+    "development_gaps": [
+      {
+        "competency": "Agricultural Statistics",
+        "capability": 0.0,
+        "required": 80,
+        "gap": 80.0,
+        "status": "HIGH PRIORITY"
+      },
+      {
+        "competency": "Data Quality",
+        "capability": 0.0,
+        "required": 80,
+        "gap": 80.0,
+        "status": "HIGH PRIORITY"
+      },
+      {
+        "competency": "GIS",
+        "capability": 33.33,
+        "required": 80,
+        "gap": 46.67,
+        "status": "HIGH PRIORITY"
+      },
+      {
+        "competency": "Python / Data Analysis",
+        "capability": 33.33,
+        "required": 80,
+        "gap": 46.67,
+        "status": "HIGH PRIORITY"
+      },
+      {
+        "competency": "Survey Design",
+        "capability": 66.67,
+        "required": 80,
+        "gap": 13.33,
+        "status": "PRIORITY"
+      },
+      {
+        "competency": "Sampling",
+        "capability": 66.67,
+        "required": 80,
+        "gap": 13.33,
+        "status": "PRIORITY"
+      }
+    ],
+    "highest_priority_gap": {
+      "competency": "Agricultural Statistics",
+      "gap": 80.0
+    }
+  },
+  "course_recommendations": [
+    {
+      "course_id": "course_015",
+      "title": "Data Science for Policy Makers Part-1",
+      "score": 8.4554,
+      "semantic_score": 0.4554,
+      "role_bonus": 0.0,
+      "gap_priority_score": 8.0,
+      "matched_competency": "Data Quality",
+      "gap": 80.0,
+      "reason": "Recommended to address your Data Quality development gap.",
+      "metadata_source": "source-derived"
+    },
+    {
+      "course_id": "course_002",
+      "title": "Statistical Tools and Data Visualization",
+      "score": 8.4498,
+      "semantic_score": 0.4498,
+      "role_bonus": 0.0,
+      "gap_priority_score": 8.0,
+      "matched_competency": "Data Quality",
+      "gap": 80.0,
+      "reason": "Recommended to address your Data Quality development gap.",
+      "metadata_source": "source-derived"
+    },
+    {
+      "course_id": "course_034",
+      "title": "AI-led Digital Transformation in Agriculture",
+      "score": 8.4457,
+      "semantic_score": 0.4457,
+      "role_bonus": 0.0,
+      "gap_priority_score": 8.0,
+      "matched_competency": "Agricultural Statistics",
+      "gap": 80.0,
+      "reason": "Recommended to address your Agricultural Statistics development gap.",
+      "provider": "Indian Council of Forestry Research and Education",
+      "metadata_source": "source-derived"
+    },
+    {
+      "course_id": "course_075",
+      "title": "Responsible Data Management",
+      "score": 8.4167,
+      "semantic_score": 0.4167,
+      "role_bonus": 0.0,
+      "gap_priority_score": 8.0,
+      "matched_competency": "Data Quality",
+      "gap": 80.0,
+      "reason": "Recommended to address your Data Quality development gap.",
+      "metadata_source": "source-derived"
+    },
+    {
+      "course_id": "course_072",
+      "title": "Data Analysis and Decision Making -- I",
+      "score": 8.4166,
+      "semantic_score": 0.4166,
+      "role_bonus": 0.0,
+      "gap_priority_score": 8.0,
+      "matched_competency": "Data Quality",
+      "gap": 80.0,
+      "reason": "Recommended to address your Data Quality development gap.",
+      "metadata_source": "source-derived"
+    }
+  ]
+}
