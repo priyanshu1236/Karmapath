@@ -1,0 +1,14 @@
+node_modules/
+venv/
+.env*
+__pycache__/
+*.pyc
+uploads/
+*.pdf
+.DS_Store
+chroma.db/
+rag/bin/
+rag/lib/
+rag/include/
+rag/venv/
+rag/.venv/

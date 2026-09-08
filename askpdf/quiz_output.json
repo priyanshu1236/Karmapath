@@ -1,0 +1,322 @@
+[
+  {
+    "question": "How much substance and solution are required for semimicro qualitative analysis?",
+    "options": [
+      "0.1 to 0.5 g substance and about 20 mL solution",
+      "0.05 g substance and 1 mL solution",
+      "1 g substance and 15 mL solution",
+      "0.1 g substance and 1\u20132 mL solution"
+    ],
+    "correct_answer": "0.05 g substance and 1 mL solution"
+  },
+  {
+    "question": "Which anion evolves a gas with a pungent smell of burning sulphur that turns acidified potassium dichromate solution green upon reacting with dilute sulphuric acid?",
+    "options": [
+      "Carbonate (CO3 2-)",
+      "Sulphide (S 2-)",
+      "Sulphite (SO3 2-)",
+      "Nitrite (NO2 -)"
+    ],
+    "correct_answer": "Sulphite (SO3 2-)"
+  },
+  {
+    "question": "What are the correct proportions and boiling time specified for preparing a sodium carbonate extract?",
+    "options": [
+      "1 g salt, 3 g solid sodium carbonate, 15 mL distilled water, boiled for about 10 minutes",
+      "0.1 g salt, 1 g solid sodium carbonate, 10 mL distilled water, boiled for about 5 minutes",
+      "0.05 g salt, 3 g solid sodium carbonate, 1 mL distilled water, boiled for about 10 minutes",
+      "1 g salt, 15 g solid sodium carbonate, 3 mL distilled water, boiled for about 15 minutes"
+    ],
+    "correct_answer": "1 g salt, 3 g solid sodium carbonate, 15 mL distilled water, boiled for about 10 minutes"
+  },
+  {
+    "question": "During the test for a sulphide ion, why does a piece of filter paper dipped in lead acetate solution turn black on exposure to hydrogen sulphide gas?",
+    "options": [
+      "Due to the formation of calcium carbonate",
+      "Due to the formation of lead sulphide",
+      "Due to the formation of sodium sulphate",
+      "Due to the formation of acetic acid"
+    ],
+    "correct_answer": "Due to the formation of lead sulphide"
+  },
+  {
+    "question": "Heating a salt containing acetate ions with ethanol and concentrated sulphuric acid produces a fruity odour due to the formation of which compound?",
+    "options": [
+      "Ethyl acetate",
+      "Iron(III) dihydroxyacetate",
+      "Sodium nitroprusside",
+      "Chromium sulphate"
+    ],
+    "correct_answer": "Ethyl acetate"
+  },
+  {
+    "question": "During preliminary examination with concentrated sulphuric acid, which possible anion produces a colourless, odourless gas that turns lime water milky and burns with a blue flame?",
+    "options": [
+      "Oxalate",
+      "Chloride",
+      "Iodide",
+      "Nitrate"
+    ],
+    "correct_answer": "Oxalate"
+  },
+  {
+    "question": "When sulphite is treated with warm dilute H2SO4, the evolved SO2 gas turns acidified potassium dichromate paper to which colour?",
+    "options": [
+      "Green",
+      "Blue",
+      "Purple",
+      "Reddish brown"
+    ],
+    "correct_answer": "Green"
+  },
+  {
+    "question": "In the confirmatory test for Iodide (I-), what is observed upon adding silver nitrate solution to the acidified extract?",
+    "options": [
+      "A yellow precipitate insoluble in NH4OH solution",
+      "A curdy white precipitate soluble in ammonium hydroxide solution",
+      "A pale yellow precipitate soluble with difficulty in ammonium hydroxide solution",
+      "A brown-red precipitate that decomposes on heating"
+    ],
+    "correct_answer": "A yellow precipitate insoluble in NH4OH solution"
+  },
+  {
+    "question": "What chemical compound is responsible for the dark brown ring formed in the confirmatory test for nitrate ions?",
+    "options": [
+      "Nitroso ferrous sulphate",
+      "Lead chromate",
+      "Chromium pentoxide",
+      "Calcium oxalate"
+    ],
+    "correct_answer": "Nitroso ferrous sulphate"
+  },
+  {
+    "question": "During the chromyl chloride test, what compound dissolves in amyl alcohol to give a blue colour in the organic layer?",
+    "options": [
+      "Lead chromate",
+      "Sodium chromate",
+      "Chromium pentoxide",
+      "Silver chloride"
+    ],
+    "correct_answer": "Chromium pentoxide"
+  },
+  {
+    "question": "What colour do bromine vapours turn starch paper during the preliminary test for bromide ions with concentrated sulphuric acid?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Dark brown",
+      "Orange"
+    ],
+    "correct_answer": "Yellow"
+  },
+  {
+    "question": "What observation confirms the presence of phosphate ions when an acidified solution is heated with ammonium molybdate solution?",
+    "options": [
+      "Formation of a canary yellow precipitate",
+      "Formation of a dark brown ring",
+      "Evolution of deep violet vapours",
+      "Formation of a pale yellow precipitate dissolving in ammonium hydroxide"
+    ],
+    "correct_answer": "Formation of a canary yellow precipitate"
+  },
+  {
+    "question": "What is the formula of the canary yellow precipitate formed during the confirmatory test for phosphate ions?",
+    "options": [
+      "(NH4)3[P (Mo3O10)4]",
+      "BaSO4",
+      "Cu(BO2)2",
+      "CoO.ZnO"
+    ],
+    "correct_answer": "(NH4)3[P (Mo3O10)4]"
+  },
+  {
+    "question": "In a flame test, which metal ion imparts a brick red colour to the flame when observed with the naked eye and a green colour through blue glass?",
+    "options": [
+      "Ca2+",
+      "Sr2+",
+      "Ba2+",
+      "Cu2+"
+    ],
+    "correct_answer": "Ca2+"
+  },
+  {
+    "question": "When borax (Na2B4O7.10H2O) is heated, it decomposes to form sodium metaborate (NaBO2) and which other compound?",
+    "options": [
+      "Boric anhydride (B2O3)",
+      "Barium chloride (BaCl2)",
+      "Cobalt (II) oxide (CoO)",
+      "Sodium carbonate (Na2CO3)"
+    ],
+    "correct_answer": "Boric anhydride (B2O3)"
+  },
+  {
+    "question": "In the charcoal cavity test, which cation is indicated by a residue that is yellow when hot and white when cold?",
+    "options": [
+      "Zn2+",
+      "Pb2+",
+      "As3+",
+      "Cd2+"
+    ],
+    "correct_answer": "Zn2+"
+  },
+  {
+    "question": "What is the composition and ratio of aqua regia used during the preparation of the original solution?",
+    "options": [
+      "Concentrated HCl and concentrated HNO3 in a 3:1 ratio",
+      "Concentrated HNO3 and concentrated HCl in a 3:1 ratio",
+      "Dilute HCl and dilute HNO3 in a 1:3 ratio",
+      "Concentrated HCl and concentrated H2SO4 in a 3:1 ratio"
+    ],
+    "correct_answer": "Concentrated HCl and concentrated HNO3 in a 3:1 ratio"
+  },
+  {
+    "question": "When ammonia gas is passed through Nessler's reagent during the analysis of zero group cation, what precipitate is formed?",
+    "options": [
+      "Lead chromate",
+      "Ammonium chloride",
+      "Basic mercury(II) amido-iodine",
+      "Ammonium tetraacetoplumbate(II)"
+    ],
+    "correct_answer": "Basic mercury(II) amido-iodine"
+  },
+  {
+    "question": "According to Table 7.11, which reagent is used for precipitating Group-III cations (Al3+, Fe3+)?",
+    "options": [
+      "Dilute HCl",
+      "H2S in presence of NH4OH",
+      "(NH4)2CO3 in presence of NH4OH",
+      "NH4OH in presence of NH4Cl"
+    ],
+    "correct_answer": "NH4OH in presence of NH4Cl"
+  },
+  {
+    "question": "In Group-II analysis, how are Group II-A (copper group) and Group II-B (arsenic group) precipitates distinguished using yellow ammonium sulphide solution?",
+    "options": [
+      "Group II-A precipitate is insoluble, while Group II-B precipitate is soluble.",
+      "Group II-A precipitate is soluble, while Group II-B precipitate is insoluble.",
+      "Group II-A precipitate turns blue, while Group II-B precipitate turns white.",
+      "Group II-A precipitate releases white fumes, while Group II-B precipitate releases ammonia."
+    ],
+    "correct_answer": "Group II-A precipitate is insoluble, while Group II-B precipitate is soluble."
+  },
+  {
+    "question": "What compound forms a chocolate brown precipitate when potassium ferrocyanide solution is added to an acidified copper sulphate solution?",
+    "options": [
+      "Tetraamminecopper (II) sulphate",
+      "Copper ferrocyanide",
+      "Lead chromate",
+      "Basic copper sulphate"
+    ],
+    "correct_answer": "Copper ferrocyanide"
+  },
+  {
+    "question": "When potassium thiocyanate solution is added to a solution containing ferric ions (Fe3+), what is observed to confirm their presence?",
+    "options": [
+      "Canary yellow precipitate",
+      "Prussian blue precipitate",
+      "Blood red colouration",
+      "Chocolate brown precipitate"
+    ],
+    "correct_answer": "Blood red colouration"
+  },
+  {
+    "question": "The white gelatinous precipitate of aluminium hydroxide dissolves in excess sodium hydroxide solution due to the formation of which substance?",
+    "options": [
+      "Sodium meta aluminate",
+      "Ammonium tetraacetoplumbate(II)",
+      "Ammonium arsinomolybdate",
+      "Tetraamminecopper (II) sulphate"
+    ],
+    "correct_answer": "Sodium meta aluminate"
+  },
+  {
+    "question": "Which cation produces a flesh-coloured precipitate during Group-IV analysis?",
+    "options": [
+      "Zn2+",
+      "Mn2+",
+      "Ni2+",
+      "Al3+"
+    ],
+    "correct_answer": "Mn2+"
+  },
+  {
+    "question": "What color indicates the presence of manganese ions (Mn\u00b2\u207a) when Group-IV cations are precipitated as their sulphides?",
+    "options": [
+      "Flesh colour",
+      "White colour",
+      "Black colour",
+      "Bright red colour"
+    ],
+    "correct_answer": "Flesh colour"
+  },
+  {
+    "question": "Which reagent added to an alkaline solution of nickel chloride results in a bright red precipitate confirming Ni\u00b2\u207a ions?",
+    "options": [
+      "Potassium nitrite",
+      "Dimethyl glyoxime",
+      "Potassium ferrocyanide",
+      "Ammonium oxalate"
+    ],
+    "correct_answer": "Dimethyl glyoxime"
+  },
+  {
+    "question": "What flame color confirms the presence of Strontium ions (Sr\u00b2\u207a) during the flame test?",
+    "options": [
+      "Grassy green",
+      "Crimson-red",
+      "Brick red",
+      "Greenish-yellow"
+    ],
+    "correct_answer": "Crimson-red"
+  },
+  {
+    "question": "When disodium hydrogenphosphate solution is added during the test for Magnesium ions (Mg\u00b2\u207a), what white crystalline precipitate is formed?",
+    "options": [
+      "Magnesium carbonate",
+      "Magnesium hydroxide",
+      "Magnesium ammonium phosphate",
+      "Magnesium oxalate"
+    ],
+    "correct_answer": "Magnesium ammonium phosphate"
+  },
+  {
+    "question": "According to the laboratory manual instructions, where should papers and glass be thrown?",
+    "options": [
+      "In the sink",
+      "In the dustbin",
+      "In the reagent bottle",
+      "In the fume hood"
+    ],
+    "correct_answer": "In the dustbin"
+  },
+  {
+    "question": "In the specimen record of salt analysis, what inference is drawn when the given salt is white in color?",
+    "options": [
+      "Cu2+, Fe2+, Ni2+, Co2+, Mn2+ are absent.",
+      "S2\u2013, SO3 2\u2013, CH3COO\u2013 are present.",
+      "Group\u2013I cations are confirmed.",
+      "NH4+ is present."
+    ],
+    "correct_answer": "Cu2+, Fe2+, Ni2+, Co2+, Mn2+ are absent."
+  },
+  {
+    "question": "In the specimen record for confirming SO4 2\u2013, what reagent is added after acidifying the water extract of the salt with dil. HCl?",
+    "options": [
+      "2 mL of BaCl2 solution",
+      "4-5 drops of ammonium molybdate solution",
+      "2 mL of NaOH solution",
+      "1 mL of conc. H2SO4"
+    ],
+    "correct_answer": "2 mL of BaCl2 solution"
+  },
+  {
+    "question": "What steps should be taken if the precipitate of magnesium ammonium phosphate does not appear immediately after adding sodium hydrogen phosphate solution?",
+    "options": [
+      "Warm the solution and scratch the sides of the test tube",
+      "Cool the solution in ice and shake vigorously",
+      "Add 1 mL of dil. H2SO4 and boil",
+      "Pass H2S gas through the test tube"
+    ],
+    "correct_answer": "Warm the solution and scratch the sides of the test tube"
+  }
+]
