@@ -1,4 +1,4 @@
-# SIH-WiNNer
+# Karmapath
 
 An intelligent skill-assessment and learning recommendation platform designed to identify competency gaps and suggest targeted interventions.
 
