@@ -1,0 +1,18 @@
+{
+  "Statistical Officer": {
+    "Agricultural Statistics": 80,
+    "Survey Design": 80,
+    "Sampling": 80,
+    "Data Quality": 80,
+    "GIS": 80,
+    "Python / Data Analysis": 80
+  },
+  "College / University Faculty": {
+    "Subject Knowledge & Explanation": 80,
+    "Classroom Teaching & Student Engagement": 80,
+    "Lesson & Course Planning": 80,
+    "Exams, Evaluation & Feedback": 80,
+    "Digital Tools for Teaching": 80,
+    "Research & Academic Work": 80
+  }
+}

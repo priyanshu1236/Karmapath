@@ -1,0 +1,74 @@
+[
+  {
+    "id": "RES-20260909160805-5F7C86-Q001",
+    "question_text": "According to the text, what is the pH of human blood?",
+    "options": {
+      "A": "around 6.0",
+      "B": "around 7.4",
+      "C": "around 8.2",
+      "D": "around 5.5"
+    },
+    "correct_answer": "B",
+    "competency_id": "",
+    "competency": "Classroom Teaching & Student Engagement",
+    "domain": "Education",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260909160805-5F7C86-Q002",
+    "question_text": "What is the formula of the canary yellow precipitate formed during the confirmatory test for phosphate ions?",
+    "options": {
+      "A": "(NH4)2[P(Mo3O10)4]",
+      "B": "(NH4)3[P(Mo3O10)4]",
+      "C": "(NH4)3[P(MoO4)4]",
+      "D": "(NH4)4[P(Mo3O10)3]"
+    },
+    "correct_answer": "B",
+    "competency_id": "",
+    "competency": "Classroom Teaching & Student Engagement",
+    "domain": "Education",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260909160805-5F7C86-Q003",
+    "question_text": "What branch of chemistry is the sample content in the dummy PDF about?",
+    "options": {
+      "A": "Analytical Chemistry",
+      "B": "Organic Chemistry",
+      "C": "Inorganic Chemistry",
+      "D": "Physical Chemistry"
+    },
+    "correct_answer": "A",
+    "competency_id": "",
+    "competency": "Classroom Teaching & Student Engagement",
+    "domain": "Education",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260909160805-5F7C86-Q004",
+    "question_text": "For which quiz generator is this dummy PDF file testing?",
+    "options": {
+      "A": "PDF to Quiz AI",
+      "B": "SIH PDF Quizzer",
+      "C": "AskPDF to SIH quiz generator",
+      "D": "AskPDF Question Maker"
+    },
+    "correct_answer": "C",
+    "competency_id": "",
+    "competency": "Classroom Teaching & Student Engagement",
+    "domain": "Education",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  }
+]

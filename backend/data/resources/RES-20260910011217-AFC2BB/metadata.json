@@ -1,0 +1,11 @@
+{
+  "resource_id": "RES-20260910011217-AFC2BB",
+  "filename": "RES-20260909164401-9B61A2.pdf",
+  "title": "Test Upload",
+  "role": "Statistical Officer",
+  "domain": "Statistics",
+  "competency_id": "COMP-001",
+  "competency": "Data Analysis",
+  "status": "failed",
+  "error": "Quiz generation returned no valid questions after parsing."
+}

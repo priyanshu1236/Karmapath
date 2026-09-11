@@ -1,0 +1,1696 @@
+{
+  "registry_version": "v1",
+  "source_files": [
+    "data/roles/normalized_roles.json",
+    "data/assessments/question_bank_statistical_role.json"
+  ],
+  "competencies": [
+    {
+      "competency_id": "COMP-OFFICE-PROCEDURES",
+      "canonical_name": "Office Procedures",
+      "status": "needs_review",
+      "source_names": [
+        "Office Procedures"
+      ],
+      "source_roles": [
+        "role_02",
+        "role_27",
+        "role_01",
+        "role_28",
+        "role_06",
+        "role_18"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_01",
+          "original_name": "Office Procedures",
+          "original_path": "Functional \u2192 Office Management \u2192 Office Procedures"
+        },
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_02",
+          "original_name": "Office Procedures",
+          "original_path": "Functional \u2192 Office Management \u2192 Office Procedures"
+        },
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_06",
+          "original_name": "Office Procedures",
+          "original_path": "Functional \u2192 Office Management \u2192 Office Procedures"
+        },
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_18",
+          "original_name": "Office Procedures",
+          "original_path": "Functional \u2192 Office Management \u2192 Office Procedures"
+        },
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_27",
+          "original_name": "Office Procedures",
+          "original_path": "Functional \u2192 Office Management \u2192 Office Procedures"
+        },
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_28",
+          "original_name": "Office Procedures",
+          "original_path": "Functional \u2192 Office Management \u2192 Office Procedures"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-DIGITAL-SERVICE-DESIGN",
+      "canonical_name": "Digital Service Design",
+      "status": "needs_review",
+      "source_names": [
+        "Digital Service Design"
+      ],
+      "source_roles": [
+        "role_05",
+        "role_03"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_03",
+          "original_name": "Digital Service Design",
+          "original_path": "Functional \u2192 Digital Fluency \u2192 Digital Service Design"
+        },
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_05",
+          "original_name": "Digital Service Design",
+          "original_path": "Functional \u2192 Digital Fluency \u2192 Digital Service Design"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-LOGICAL-REASONING",
+      "canonical_name": "Logical Reasoning",
+      "status": "needs_review",
+      "source_names": [
+        "Logical Reasoning"
+      ],
+      "source_roles": [
+        "role_04"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_04",
+          "original_name": "Logical Reasoning",
+          "original_path": "Behavioural \u2192 Decision Making \u2192 Logical Reasoning"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-CABINET-NOTE-WRITING",
+      "canonical_name": "Cabinet Note Writing",
+      "status": "needs_review",
+      "source_names": [
+        "Cabinet Note Writing"
+      ],
+      "source_roles": [
+        "role_07",
+        "role_14"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_07",
+          "original_name": "Cabinet Note Writing",
+          "original_path": "Functional \u2192 Cabinet Note Preparation \u2192 Cabinet Note Writing"
+        },
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_14",
+          "original_name": "Cabinet Note Writing",
+          "original_path": "Functional \u2192 Cabinet Note Preparation \u2192 Cabinet Note Writing"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-EMERGING-TECHNOLOGY",
+      "canonical_name": "Emerging Technology",
+      "status": "needs_review",
+      "source_names": [
+        "Emerging Technology"
+      ],
+      "source_roles": [
+        "role_08"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_08",
+          "original_name": "Emerging Technology",
+          "original_path": "Functional \u2192 Digital Fluency \u2192 Emerging Technology"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-TELECOMMUNICATIONS",
+      "canonical_name": "Telecommunications",
+      "status": "needs_review",
+      "source_names": [
+        "Telecommunications"
+      ],
+      "source_roles": [
+        "role_09"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_09",
+          "original_name": "Telecommunications",
+          "original_path": "Domain \u2192 Technology \u2192 Telecommunications"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-COMMERCE",
+      "canonical_name": "Commerce",
+      "status": "needs_review",
+      "source_names": [
+        "Commerce"
+      ],
+      "source_roles": [
+        "role_10"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_10",
+          "original_name": "Commerce",
+          "original_path": "Domain \u2192 Commerce and Industry \u2192 Commerce"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-PRESENTATION-SKILLS",
+      "canonical_name": "Presentation Skills",
+      "status": "needs_review",
+      "source_names": [
+        "Presentation Skills"
+      ],
+      "source_roles": [
+        "role_11"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_11",
+          "original_name": "Presentation Skills",
+          "original_path": "Behavioural \u2192 Communication \u2192 Presentation Skills"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-DIVERSITY-INCLUSION",
+      "canonical_name": "Diversity & Inclusion",
+      "status": "needs_review",
+      "source_names": [
+        "Diversity & Inclusion"
+      ],
+      "source_roles": [
+        "role_12"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_12",
+          "original_name": "Diversity & Inclusion",
+          "original_path": "Behavioural \u2192 Collaboration \u2192 Diversity & Inclusion"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-DATA-ANALYSIS-VISUALIZATION",
+      "canonical_name": "Data Analysis & Visualization",
+      "status": "needs_review",
+      "source_names": [
+        "Data Analysis & Visualization"
+      ],
+      "source_roles": [
+        "role_26",
+        "role_13"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_13",
+          "original_name": "Data Analysis & Visualization",
+          "original_path": "Functional \u2192 Data Analytics \u2192 Data Analysis & Visualization"
+        },
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_26",
+          "original_name": "Data Analysis & Visualization",
+          "original_path": "Functional \u2192 Data Analytics \u2192 Data Analysis & Visualization"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-DIGITAL-TOOLS-MS-OFFICE-EXCEL-PPT-PLATFORMS",
+      "canonical_name": "Digital Tools (MS Office, Excel & PPT) & Platforms",
+      "status": "needs_review",
+      "source_names": [
+        "Digital Tools (MS Office, Excel & PPT) & Platforms"
+      ],
+      "source_roles": [
+        "role_13"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_13",
+          "original_name": "Digital Tools (MS Office, Excel & PPT) & Platforms",
+          "original_path": "Digital Fluency \u2192 Digital Tools (MS Office, Excel & PPT) & Platforms"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-PROCUREMENT-MANAGEMENT-THROUGH-GEM",
+      "canonical_name": "Procurement Management through GeM",
+      "status": "needs_review",
+      "source_names": [
+        "Procurement Management through GeM"
+      ],
+      "source_roles": [
+        "role_14"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_14",
+          "original_name": "Procurement Management through GeM",
+          "original_path": "Functional \u2192 Public Procurement (GFR) \u2192 Procurement Management through GeM"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-RTI-RECORDS-MANAGEMENT",
+      "canonical_name": "RTI Records Management",
+      "status": "needs_review",
+      "source_names": [
+        "RTI Records Management"
+      ],
+      "source_roles": [
+        "role_14"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_14",
+          "original_name": "RTI Records Management",
+          "original_path": "Functional \u2192 Handling RTI Matters \u2192 RTI Records Management"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-NOTING-DRAFTING-OF-OFFICIAL-COMMUNICATIONS",
+      "canonical_name": "Noting & Drafting of Official Communications",
+      "status": "needs_review",
+      "source_names": [
+        "Noting & Drafting of Official Communications"
+      ],
+      "source_roles": [
+        "role_14"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_14",
+          "original_name": "Noting & Drafting of Official Communications",
+          "original_path": "Functional \u2192 Office Management \u2192 Noting & Drafting of Official Communications"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-RESPONSIVENESS",
+      "canonical_name": "Responsiveness",
+      "status": "needs_review",
+      "source_names": [
+        "Responsiveness"
+      ],
+      "source_roles": [
+        "role_19",
+        "role_15",
+        "role_23"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_15",
+          "original_name": "Responsiveness",
+          "original_path": "Behavioural \u2192 Service Orientation \u2192 Responsiveness"
+        },
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_19",
+          "original_name": "Responsiveness",
+          "original_path": "Behavioural \u2192 Service Orientation \u2192 Responsiveness"
+        },
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_23",
+          "original_name": "Responsiveness",
+          "original_path": "Behavioural \u2192 Service Orientation \u2192 Responsiveness"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-ENVIRONMENT-FOREST-AND-CLIMATE-CHANGE",
+      "canonical_name": "Environment, Forest and Climate Change",
+      "status": "needs_review",
+      "source_names": [
+        "Environment, Forest and Climate Change"
+      ],
+      "source_roles": [
+        "role_16"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_16",
+          "original_name": "Environment, Forest and Climate Change",
+          "original_path": "Domain \u2192 Resources \u2192 Environment, Forest and Climate Change"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-SERVICE-EXCELLENCE-WRT-CITIZENS",
+      "canonical_name": "Service Excellence (wrt citizens)",
+      "status": "needs_review",
+      "source_names": [
+        "Service Excellence (wrt citizens)"
+      ],
+      "source_roles": [
+        "role_17"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_17",
+          "original_name": "Service Excellence (wrt citizens)",
+          "original_path": "Behavioural \u2192 Service Orientation \u2192 Service Excellence (wrt citizens)"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-GOAL-SETTING",
+      "canonical_name": "Goal Setting",
+      "status": "needs_review",
+      "source_names": [
+        "Goal Setting"
+      ],
+      "source_roles": [
+        "role_20"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_20",
+          "original_name": "Goal Setting",
+          "original_path": "Behavioural \u2192 Outcome Orientation \u2192 Goal Setting"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-DATA-LED-DECISION-MAKING",
+      "canonical_name": "Data-led Decision Making",
+      "status": "needs_review",
+      "source_names": [
+        "Data-led Decision Making"
+      ],
+      "source_roles": [
+        "role_31",
+        "role_21"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_21",
+          "original_name": "Data-led Decision Making",
+          "original_path": "Functional \u2192 Data Analytics \u2192 Data-led Decision Making"
+        },
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_31",
+          "original_name": "Data-led Decision Making",
+          "original_path": "Functional \u2192 Data Analytics \u2192 Data-led Decision Making"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-PROJECT-PLANNING",
+      "canonical_name": "Project Planning",
+      "status": "needs_review",
+      "source_names": [
+        "Project Planning"
+      ],
+      "source_roles": [
+        "role_22"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_22",
+          "original_name": "Project Planning",
+          "original_path": "Functional \u2192 Project Management \u2192 Project Planning"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-SCIENCE-TECHNOLOGY",
+      "canonical_name": "Science & Technology",
+      "status": "needs_review",
+      "source_names": [
+        "Science & Technology"
+      ],
+      "source_roles": [
+        "role_24"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_24",
+          "original_name": "Science & Technology",
+          "original_path": "Technology \u2192 Science & Technology"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-DISSEMINATION-OF-INFORMATION",
+      "canonical_name": "Dissemination of Information",
+      "status": "needs_review",
+      "source_names": [
+        "Dissemination of Information"
+      ],
+      "source_roles": [
+        "role_25"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_25",
+          "original_name": "Dissemination of Information",
+          "original_path": "Functional \u2192 Information & Communication Management \u2192 Dissemination of Information"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-CONTRACT-MANAGEMENT",
+      "canonical_name": "Contract Management",
+      "status": "needs_review",
+      "source_names": [
+        "Contract Management"
+      ],
+      "source_roles": [
+        "role_26"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_26",
+          "original_name": "Contract Management",
+          "original_path": "Functional \u2192 Public Procurement (GFR) \u2192 Contract Management"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-PROJECT-IMPLEMENTATION",
+      "canonical_name": "Project Implementation",
+      "status": "needs_review",
+      "source_names": [
+        "Project Implementation"
+      ],
+      "source_roles": [
+        "role_29"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_29",
+          "original_name": "Project Implementation",
+          "original_path": "Functional \u2192 Project Management \u2192 Project Implementation"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-INSPIRING-OTHERS",
+      "canonical_name": "Inspiring Others",
+      "status": "needs_review",
+      "source_names": [
+        "Inspiring Others"
+      ],
+      "source_roles": [
+        "role_32",
+        "role_30"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_30",
+          "original_name": "Inspiring Others",
+          "original_path": "Behavioural \u2192 Team Leadership \u2192 Inspiring Others"
+        },
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_32",
+          "original_name": "Inspiring Others",
+          "original_path": "Behavioural \u2192 Team Leadership \u2192 Inspiring Others"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-DATA-MANAGEMENT",
+      "canonical_name": "Data Management",
+      "status": "needs_review",
+      "source_names": [
+        "Data Management"
+      ],
+      "source_roles": [
+        "role_33"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_33",
+          "original_name": "Data Management",
+          "original_path": "Functional \u2192 Data Analytics \u2192 Data Management"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-STRESS-MANAGEMENT",
+      "canonical_name": "Stress Management",
+      "status": "needs_review",
+      "source_names": [
+        "Stress Management"
+      ],
+      "source_roles": [
+        "role_34"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_34",
+          "original_name": "Stress Management",
+          "original_path": "Behavioural \u2192 Personal Effectiveness \u2192 Stress Management"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-HANDLING-ALLOWANCES-REIMBURSEMENT",
+      "canonical_name": "Handling Allowances & Reimbursement",
+      "status": "needs_review",
+      "source_names": [
+        "Handling Allowances & Reimbursement"
+      ],
+      "source_roles": [
+        "role_37",
+        "role_35"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_35",
+          "original_name": "Handling Allowances & Reimbursement",
+          "original_path": "Functional \u2192 Administration Matters \u2192 Handling Allowances & Reimbursement"
+        },
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_37",
+          "original_name": "Handling Allowances & Reimbursement",
+          "original_path": "Functional \u2192 Administration Matters \u2192 Handling Allowances & Reimbursement"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-READING-COMPREHENSION",
+      "canonical_name": "Reading & Comprehension",
+      "status": "needs_review",
+      "source_names": [
+        "Reading & Comprehension"
+      ],
+      "source_roles": [
+        "role_36"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_36",
+          "original_name": "Reading & Comprehension",
+          "original_path": "Behavioural \u2192 Communication \u2192 Reading & Comprehension"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-ACTIVE-LISTENING",
+      "canonical_name": "Active Listening",
+      "status": "needs_review",
+      "source_names": [
+        "Active Listening"
+      ],
+      "source_roles": [
+        "role_38"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_38",
+          "original_name": "Active Listening",
+          "original_path": "Behavioural \u2192 Communication \u2192 Active Listening"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-RELATIONSHIP-MANAGEMENT",
+      "canonical_name": "Relationship Management",
+      "status": "needs_review",
+      "source_names": [
+        "Relationship Management"
+      ],
+      "source_roles": [
+        "role_38"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_38",
+          "original_name": "Relationship Management",
+          "original_path": "Behavioural \u2192 Collaboration \u2192 Relationship Management"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-EMPATHY",
+      "canonical_name": "Empathy",
+      "status": "needs_review",
+      "source_names": [
+        "Empathy"
+      ],
+      "source_roles": [
+        "role_38"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_38",
+          "original_name": "Empathy",
+          "original_path": "Behavioural \u2192 Service Orientation \u2192 Empathy"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-CONFLICT-MANAGEMENT",
+      "canonical_name": "Conflict Management",
+      "status": "needs_review",
+      "source_names": [
+        "Conflict Management"
+      ],
+      "source_roles": [
+        "role_38"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_38",
+          "original_name": "Conflict Management",
+          "original_path": "Behavioural \u2192 Collaborative Leadership \u2192 Conflict Management"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-MENTORING",
+      "canonical_name": "Mentoring",
+      "status": "needs_review",
+      "source_names": [
+        "Mentoring"
+      ],
+      "source_roles": [
+        "role_39"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_39",
+          "original_name": "Mentoring",
+          "original_path": "Behavioural \u2192 Team Leadership \u2192 Mentoring"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-CONDUCT-RULES",
+      "canonical_name": "Conduct Rules",
+      "status": "needs_review",
+      "source_names": [
+        "Conduct Rules"
+      ],
+      "source_roles": [
+        "role_40"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "role_40",
+          "original_name": "Conduct Rules",
+          "original_path": "Functional \u2192 Vigilance Administration \u2192 Conduct Rules"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-AGRICULTURAL-STATISTICS",
+      "canonical_name": "Agricultural Statistics",
+      "status": "verified",
+      "source_names": [
+        "Agricultural Statistics",
+        "Crop Estimation",
+        "Agricultural Surveys",
+        "Crop yield estimation"
+      ],
+      "source_roles": [
+        "question_bank",
+        "statistical_officer"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "statistical_officer",
+          "original_name": "Agricultural Statistics",
+          "original_path": "Agricultural Statistics"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Agricultural Statistics",
+          "original_path": "Agricultural Statistics"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Agricultural Statistics",
+          "original_path": "Agricultural Statistics"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Agricultural Statistics",
+          "original_path": "Agricultural Statistics"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-SURVEY-DESIGN",
+      "canonical_name": "Survey Design",
+      "status": "verified",
+      "source_names": [
+        "Survey Design",
+        "Questionnaire Design",
+        "Sampling Frame"
+      ],
+      "source_roles": [
+        "question_bank",
+        "statistical_officer"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "statistical_officer",
+          "original_name": "Survey Design",
+          "original_path": "Survey Design"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Survey Design",
+          "original_path": "Survey Design"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Survey Design",
+          "original_path": "Survey Design"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Survey Design",
+          "original_path": "Survey Design"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-SAMPLING",
+      "canonical_name": "Sampling",
+      "status": "verified",
+      "source_names": [
+        "Sampling",
+        "Stratified Sampling",
+        "Sampling Error"
+      ],
+      "source_roles": [
+        "question_bank",
+        "statistical_officer"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "statistical_officer",
+          "original_name": "Sampling",
+          "original_path": "Sampling"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Sampling",
+          "original_path": "Sampling"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Sampling",
+          "original_path": "Sampling"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Sampling",
+          "original_path": "Sampling"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-DATA-QUALITY",
+      "canonical_name": "Data Quality",
+      "status": "verified",
+      "source_names": [
+        "Data Quality",
+        "Accuracy",
+        "Timeliness"
+      ],
+      "source_roles": [
+        "question_bank",
+        "statistical_officer"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "statistical_officer",
+          "original_name": "Data Quality",
+          "original_path": "Data Quality"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Data Quality",
+          "original_path": "Data Quality"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Data Quality",
+          "original_path": "Data Quality"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Data Quality",
+          "original_path": "Data Quality"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-GIS",
+      "canonical_name": "GIS",
+      "status": "verified",
+      "source_names": [
+        "GIS",
+        "Spatial Analysis",
+        "Spatial Data Processing"
+      ],
+      "source_roles": [
+        "question_bank",
+        "statistical_officer"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "statistical_officer",
+          "original_name": "GIS",
+          "original_path": "GIS"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "GIS",
+          "original_path": "GIS"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "GIS",
+          "original_path": "GIS"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "GIS",
+          "original_path": "GIS"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-PYTHON-DATA-ANALYSIS",
+      "canonical_name": "Python / Data Analysis",
+      "status": "verified",
+      "source_names": [
+        "Python / Data Analysis",
+        "Python",
+        "Data Analysis",
+        "Data Handling",
+        "pandas",
+        "Chart Selection"
+      ],
+      "source_roles": [
+        "question_bank",
+        "statistical_officer"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/roles/normalized_roles.json",
+          "role": "statistical_officer",
+          "original_name": "Python / Data Analysis",
+          "original_path": "Python / Data Analysis"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Python / Data Analysis",
+          "original_path": "Python / Data Analysis"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Python / Data Analysis",
+          "original_path": "Python / Data Analysis"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Python / Data Analysis",
+          "original_path": "Python / Data Analysis"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-NATIONAL-ACCOUNTS",
+      "canonical_name": "National Accounts",
+      "status": "needs_review",
+      "source_names": [
+        "National Accounts"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "National Accounts",
+          "original_path": "National Accounts"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "National Accounts",
+          "original_path": "National Accounts"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-PRICE-STATISTICS",
+      "canonical_name": "Price Statistics",
+      "status": "needs_review",
+      "source_names": [
+        "Price Statistics"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Price Statistics",
+          "original_path": "Price Statistics"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Price Statistics",
+          "original_path": "Price Statistics"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-LABOUR-STATISTICS",
+      "canonical_name": "Labour Statistics",
+      "status": "needs_review",
+      "source_names": [
+        "Labour Statistics"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Labour Statistics",
+          "original_path": "Labour Statistics"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Labour Statistics",
+          "original_path": "Labour Statistics"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-INDUSTRIAL-STATISTICS",
+      "canonical_name": "Industrial Statistics",
+      "status": "needs_review",
+      "source_names": [
+        "Industrial Statistics"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Industrial Statistics",
+          "original_path": "Industrial Statistics"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Industrial Statistics",
+          "original_path": "Industrial Statistics"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-SDG-INDICATORS",
+      "canonical_name": "SDG Indicators",
+      "status": "needs_review",
+      "source_names": [
+        "SDG Indicators"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "SDG Indicators",
+          "original_path": "SDG Indicators"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "SDG Indicators",
+          "original_path": "SDG Indicators"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-METADATA-STANDARDS",
+      "canonical_name": "Metadata Standards",
+      "status": "needs_review",
+      "source_names": [
+        "Metadata Standards"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Metadata Standards",
+          "original_path": "Metadata Standards"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Metadata Standards",
+          "original_path": "Metadata Standards"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-R",
+      "canonical_name": "R",
+      "status": "needs_review",
+      "source_names": [
+        "R"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "R",
+          "original_path": "R"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-SQL",
+      "canonical_name": "SQL",
+      "status": "needs_review",
+      "source_names": [
+        "SQL"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "SQL",
+          "original_path": "SQL"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-STATA",
+      "canonical_name": "Stata",
+      "status": "needs_review",
+      "source_names": [
+        "Stata"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Stata",
+          "original_path": "Stata"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-SPSS",
+      "canonical_name": "SPSS",
+      "status": "needs_review",
+      "source_names": [
+        "SPSS"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "SPSS",
+          "original_path": "SPSS"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-SAS",
+      "canonical_name": "SAS",
+      "status": "needs_review",
+      "source_names": [
+        "SAS"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "SAS",
+          "original_path": "SAS"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-AI-ML",
+      "canonical_name": "AI/ML",
+      "status": "needs_review",
+      "source_names": [
+        "AI/ML"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "AI/ML",
+          "original_path": "AI/ML"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "AI/ML",
+          "original_path": "AI/ML"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-CLOUD",
+      "canonical_name": "Cloud",
+      "status": "needs_review",
+      "source_names": [
+        "Cloud"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Cloud",
+          "original_path": "Cloud"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-APIS",
+      "canonical_name": "APIs",
+      "status": "needs_review",
+      "source_names": [
+        "APIs"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "APIs",
+          "original_path": "APIs"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-OPEN-DATA",
+      "canonical_name": "Open Data",
+      "status": "needs_review",
+      "source_names": [
+        "Open Data"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Open Data",
+          "original_path": "Open Data"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-CYBERSECURITY",
+      "canonical_name": "Cybersecurity",
+      "status": "needs_review",
+      "source_names": [
+        "Cybersecurity"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Cybersecurity",
+          "original_path": "Cybersecurity"
+        },
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Cybersecurity",
+          "original_path": "Cybersecurity"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-DATA-PRIVACY",
+      "canonical_name": "Data Privacy",
+      "status": "needs_review",
+      "source_names": [
+        "Data Privacy"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Data Privacy",
+          "original_path": "Data Privacy"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-DIGITAL-SIGNATURES",
+      "canonical_name": "Digital Signatures",
+      "status": "needs_review",
+      "source_names": [
+        "Digital Signatures"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Digital Signatures",
+          "original_path": "Digital Signatures"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-GOVERNMENT-CLOUD",
+      "canonical_name": "Government Cloud",
+      "status": "needs_review",
+      "source_names": [
+        "Government Cloud"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Government Cloud",
+          "original_path": "Government Cloud"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-DIGITAL-PUBLIC-INFRASTRUCTURE",
+      "canonical_name": "Digital Public Infrastructure",
+      "status": "needs_review",
+      "source_names": [
+        "Digital Public Infrastructure"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Digital Public Infrastructure",
+          "original_path": "Digital Public Infrastructure"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-LEADERSHIP",
+      "canonical_name": "Leadership",
+      "status": "needs_review",
+      "source_names": [
+        "Leadership"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Leadership",
+          "original_path": "Leadership"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-COMMUNICATION",
+      "canonical_name": "Communication",
+      "status": "needs_review",
+      "source_names": [
+        "Communication"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Communication",
+          "original_path": "Communication"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-PROJECT-MANAGEMENT",
+      "canonical_name": "Project Management",
+      "status": "needs_review",
+      "source_names": [
+        "Project Management"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Project Management",
+          "original_path": "Project Management"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-ETHICS",
+      "canonical_name": "Ethics",
+      "status": "needs_review",
+      "source_names": [
+        "Ethics"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Ethics",
+          "original_path": "Ethics"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-DECISION-MAKING",
+      "canonical_name": "Decision Making",
+      "status": "needs_review",
+      "source_names": [
+        "Decision Making"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Decision Making",
+          "original_path": "Decision Making"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-CHANGE-MANAGEMENT",
+      "canonical_name": "Change Management",
+      "status": "needs_review",
+      "source_names": [
+        "Change Management"
+      ],
+      "source_roles": [
+        "question_bank"
+      ],
+      "notes": "Exact matches only",
+      "evidence": [
+        {
+          "source_file": "data/assessments/question_bank_statistical_role.json",
+          "role": "question_bank",
+          "original_name": "Change Management",
+          "original_path": "Change Management"
+        }
+      ]
+    },
+    {
+      "competency_id": "COMP-FACULTY-SUBJECT-EXPLANATION",
+      "canonical_name": "Subject Knowledge & Explanation",
+      "status": "active",
+      "source_names": [
+        "Subject Knowledge & Explanation"
+      ],
+      "source_roles": [
+        "faculty"
+      ],
+      "notes": "Added for SIH prototype",
+      "evidence": []
+    },
+    {
+      "competency_id": "COMP-FACULTY-CLASSROOM-ENGAGEMENT",
+      "canonical_name": "Classroom Teaching & Student Engagement",
+      "status": "active",
+      "source_names": [
+        "Classroom Teaching & Student Engagement"
+      ],
+      "source_roles": [
+        "faculty"
+      ],
+      "notes": "Added for SIH prototype",
+      "evidence": []
+    },
+    {
+      "competency_id": "COMP-FACULTY-COURSE-PLANNING",
+      "canonical_name": "Lesson & Course Planning",
+      "status": "active",
+      "source_names": [
+        "Lesson & Course Planning"
+      ],
+      "source_roles": [
+        "faculty"
+      ],
+      "notes": "Added for SIH prototype",
+      "evidence": []
+    },
+    {
+      "competency_id": "COMP-FACULTY-ASSESSMENT-FEEDBACK",
+      "canonical_name": "Exams, Evaluation & Feedback",
+      "status": "active",
+      "source_names": [
+        "Exams, Evaluation & Feedback"
+      ],
+      "source_roles": [
+        "faculty"
+      ],
+      "notes": "Added for SIH prototype",
+      "evidence": []
+    },
+    {
+      "competency_id": "COMP-FACULTY-DIGITAL-TEACHING",
+      "canonical_name": "Digital Tools for Teaching",
+      "status": "active",
+      "source_names": [
+        "Digital Tools for Teaching"
+      ],
+      "source_roles": [
+        "faculty"
+      ],
+      "notes": "Added for SIH prototype",
+      "evidence": []
+    },
+    {
+      "competency_id": "COMP-FACULTY-RESEARCH-ACADEMIC",
+      "canonical_name": "Research & Academic Work",
+      "status": "active",
+      "source_names": [
+        "Research & Academic Work"
+      ],
+      "source_roles": [
+        "faculty"
+      ],
+      "notes": "Added for SIH prototype",
+      "evidence": []
+    }
+  ]
+}

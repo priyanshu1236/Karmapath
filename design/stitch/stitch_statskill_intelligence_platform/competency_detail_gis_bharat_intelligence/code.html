@@ -1,0 +1,277 @@
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script><script id="tailwind-config">
+  tailwind.config = {
+    darkMode: "class",
+    theme: {
+      extend: {
+        "colors": {
+          "on-primary-fixed": "#181d19",
+          "on-secondary": "#ffffff",
+          "secondary": "#5f5e59",
+          "on-error": "#ffffff",
+          "secondary-container": "#e2dfd9",
+          "surface-bright": "#fff8f1",
+          "surface-container-high": "#efe7d9",
+          "on-tertiary-container": "#4b9691",
+          "inverse-surface": "#33302b",
+          "primary-container": "#1f2421",
+          "on-tertiary-fixed": "#0b1f1d",
+          "secondary-fixed": "#e5e2dc",
+          "surface-tint": "#5a605c",
+          "on-background": "#1e1b17",
+          "surface-dim": "#dfd9d1",
+          "on-primary": "#ffffff",
+          "inverse-primary": "#c3c8c3",
+          "tertiary-fixed-dim": "#b6cbc8",
+          "tertiary": "#00100f",
+          "outline": "#747874",
+          "on-primary-container": "#808580",
+          "error": "#ba1a1a",
+          "outline-variant": "#c4c7c3",
+          "surface-container-lowest": "#ffffff",
+          "error-container": "#ffdad6",
+          "surface-container-highest": "#eae2d4",
+          "surface-container-low": "#f9f3eb",
+          "surface-container": "#f5eddf",
+          "primary": "#090e0b",
+          "on-secondary-container": "#65645f",
+          "on-tertiary": "#ffffff",
+          "tertiary-container": "#002826",
+          "on-surface-variant": "#444844",
+          "inverse-on-surface": "#f8f0e1",
+          "on-surface": "#1f1b13",
+          "on-tertiary-fixed-variant": "#374a49",
+          "primary-fixed-dim": "#c3c8c2",
+          "surface-variant": "#e8e1da",
+          "on-primary-fixed-variant": "#434844",
+          "on-secondary-fixed-variant": "#474742",
+          "on-error-container": "#93000a",
+          "surface": "#fff8f0",
+          "on-secondary-fixed": "#1c1c18",
+          "primary-fixed": "#dfe4de",
+          "background": "#fff8f0",
+          "secondary-fixed-dim": "#c9c6c0",
+          "tertiary-fixed": "#d1e7e4",
+          "terracotta": "#C86B45",
+          "terracotta-container": "#faebe5",
+          "deep-teal": "#176B67"
+        },
+        "borderRadius": {
+          "DEFAULT": "0.25rem",
+          "lg": "0.5rem",
+          "xl": "0.75rem",
+          "full": "9999px"
+        },
+        "spacing": {
+          "margin-desktop": "64px",
+          "container-max": "1440px",
+          "component-padding": "24px",
+          "margin-mobile": "20px",
+          "section-gap": "80px",
+          "gutter": "24px"
+        },
+        "fontFamily": {
+          "body-lg": ["Manrope", "sans-serif"],
+          "display-lg": ["DM Serif Display", "serif"],
+          "headline-lg-mobile": ["DM Serif Display", "serif"],
+          "display-md": ["DM Serif Display", "serif"],
+          "label-sm": ["Manrope", "sans-serif"],
+          "body-md": ["Manrope", "sans-serif"],
+          "headline-lg": ["DM Serif Display", "serif"],
+          "label-md": ["Manrope", "sans-serif"],
+          "title-lg": ["Manrope", "sans-serif"]
+        },
+        "fontSize": {
+          "body-lg": ["18px", {"lineHeight": "28px", "fontWeight": "400"}],
+          "display-lg": ["64px", {"lineHeight": "72px", "letterSpacing": "-0.02em", "fontWeight": "400"}],
+          "headline-lg-mobile": ["28px", {"lineHeight": "36px", "fontWeight": "400"}],
+          "display-md": ["48px", {"lineHeight": "56px", "fontWeight": "400"}],
+          "label-sm": ["12px", {"lineHeight": "16px", "fontWeight": "500"}],
+          "body-md": ["16px", {"lineHeight": "24px", "fontWeight": "400"}],
+          "headline-lg": ["32px", {"lineHeight": "40px", "fontWeight": "400"}],
+          "label-md": ["14px", {"lineHeight": "20px", "letterSpacing": "0.05em", "fontWeight": "600"}],
+          "title-lg": ["20px", {"lineHeight": "28px", "fontWeight": "700"}]
+        }
+      }
+    }
+  }
+</script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&amp;family=Manrope:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+</head><body class="bg-[#fff8f0] font-body-md text-on-surface antialiased"><aside class="fixed left-0 top-0 h-full w-72 bg-primary-container text-[#fff8f0] z-50 flex flex-col border-r border-[#333834]"><div class="p-6 mb-2 flex items-center gap-3"><div class="w-10 h-10 bg-surface flex items-center justify-center rounded-lg shadow-sm"><span class="material-symbols-outlined text-primary-container text-[24px]">analytics</span></div><h1 class="font-title-lg text-[18px] leading-snug text-[#fff8f0] tracking-tight">Official Statistics Skill Intelligence</h1></div><div class="flex-1 overflow-y-auto px-4 space-y-6 pb-6"><section><p class="px-3 mb-2 font-label-md text-[11px] uppercase tracking-widest text-[#a2a6a2]">Internal Navigation</p><nav class="space-y-1"><a class="flex items-center px-3 py-2 rounded-lg transition-all text-[#e2dfd9] hover:bg-[#2d342f] group" data-path="dashboard" href="#"><span class="material-symbols-outlined mr-3 text-[20px] text-[#a2a6a2] group-hover:text-[#fff8f0]">dashboard</span><span class="font-body-md text-[14px]">Dashboard</span></a><a aria-current="page" class="flex items-center px-3 py-2 rounded-lg transition-all group bg-[#353d38] text-[#fff8f0] font-semibold border-l-4 border-deep-teal shadow-sm" data-path="my-competencies" href="#"><span class="material-symbols-outlined mr-3 text-[20px] text-deep-teal" style="font-variation-settings: 'FILL' 1;">verified</span><span class="font-body-md text-[14px]">My Competencies</span></a><a class="flex items-center px-3 py-2 rounded-lg transition-all text-[#e2dfd9] hover:bg-[#2d342f] group" data-path="skill-gaps" href="#"><span class="material-symbols-outlined mr-3 text-[20px] text-[#a2a6a2] group-hover:text-[#fff8f0]">search_insights</span><span class="font-body-md text-[14px]">Skill Gaps</span></a><a class="flex items-center px-3 py-2 rounded-lg transition-all text-[#e2dfd9] hover:bg-[#2d342f] group" data-path="learning-path" href="#"><span class="material-symbols-outlined mr-3 text-[20px] text-[#a2a6a2] group-hover:text-[#fff8f0]">route</span><span class="font-body-md text-[14px]">Learning Path</span></a><a class="flex items-center px-3 py-2 rounded-lg transition-all text-[#e2dfd9] hover:bg-[#2d342f] group" data-path="courses" href="#"><span class="material-symbols-outlined mr-3 text-[20px] text-[#a2a6a2] group-hover:text-[#fff8f0]">menu_book</span><span class="font-body-md text-[14px]">Courses</span></a><a class="flex items-center px-3 py-2 rounded-lg transition-all text-[#e2dfd9] hover:bg-[#2d342f] group" data-path="assessments" href="#"><span class="material-symbols-outlined mr-3 text-[20px] text-[#a2a6a2] group-hover:text-[#fff8f0]">quiz</span><span class="font-body-md text-[14px]">Assessments</span></a><a class="flex items-center px-3 py-2 rounded-lg transition-all text-[#e2dfd9] hover:bg-[#2d342f] group" data-path="progress" href="#"><span class="material-symbols-outlined mr-3 text-[20px] text-[#a2a6a2] group-hover:text-[#fff8f0]">trending_up</span><span class="font-body-md text-[14px]">Progress</span></a><a class="flex items-center px-3 py-2 rounded-lg transition-all text-[#e2dfd9] hover:bg-[#2d342f] group" data-path="reports" href="#"><span class="material-symbols-outlined mr-3 text-[20px] text-[#a2a6a2] group-hover:text-[#fff8f0]">description</span><span class="font-body-md text-[14px]">Reports</span></a></nav></section><section><p class="px-3 mb-2 font-label-md text-[11px] uppercase tracking-widest text-[#a2a6a2]">Admin Operations</p><nav class="space-y-1"><a class="flex items-center px-3 py-2 rounded-lg transition-all text-[#e2dfd9] hover:bg-[#2d342f] group" data-path="workforce-intelligence" href="#"><span class="material-symbols-outlined mr-3 text-[20px] text-[#a2a6a2]">corporate_fare</span><span class="font-body-md text-[14px]">Workforce Intel</span></a><a class="flex items-center px-3 py-2 rounded-lg transition-all text-[#e2dfd9] hover:bg-[#2d342f] group" data-path="skill-heatmap" href="#"><span class="material-symbols-outlined mr-3 text-[20px] text-[#a2a6a2]">grid_view</span><span class="font-body-md text-[14px]">Skill Heatmap</span></a><a class="flex items-center px-3 py-2 rounded-lg transition-all text-[#e2dfd9] hover:bg-[#2d342f] group" data-path="departments" href="#"><span class="material-symbols-outlined mr-3 text-[20px] text-[#a2a6a2]">account_tree</span><span class="font-body-md text-[14px]">Departments</span></a><a class="flex items-center px-3 py-2 rounded-lg transition-all text-[#e2dfd9] hover:bg-[#2d342f] group" data-path="districts" href="#"><span class="material-symbols-outlined mr-3 text-[20px] text-[#a2a6a2]">map</span><span class="font-body-md text-[14px]">Districts</span></a><a class="flex items-center px-3 py-2 rounded-lg transition-all text-[#e2dfd9] hover:bg-[#2d342f] group" data-path="training-effectiveness" href="#"><span class="material-symbols-outlined mr-3 text-[20px] text-[#a2a6a2]">query_stats</span><span class="font-body-md text-[14px]">Effectiveness</span></a></nav></section></div><div class="p-4 border-t border-[#333834]"><button class="flex w-full items-center px-3 py-2 rounded-lg text-[#e2dfd9] hover:bg-error/20 hover:text-white transition-all font-body-md text-[14px]"><span class="material-symbols-outlined mr-3 text-[20px]">logout</span>Logout</button></div></aside><div class="pl-72"><header class="fixed top-0 left-72 right-0 h-16 bg-[#fff8f0]/95 backdrop-blur-md border-b border-[#eae2d4] z-40 flex items-center px-8 justify-between"><div class="flex items-center bg-[#f5eddf] px-4 py-2 rounded-lg border border-[#eae2d4] w-96"><span class="material-symbols-outlined text-secondary mr-2 text-[20px]">search</span><input class="bg-transparent border-none outline-none text-body-md text-on-surface placeholder:text-secondary/70 w-full text-[14px]" placeholder="Search skills, reports, or courses..." type="text"/></div><div class="flex items-center gap-6"><div class="flex items-center gap-4 border-r border-[#eae2d4] pr-6"><button class="flex items-center gap-1 text-on-surface-variant font-label-md text-[13px] uppercase hover:text-primary transition-colors"><span class="material-symbols-outlined text-[18px]">language</span> EN/HI</button><button class="relative text-on-surface-variant hover:text-primary flex items-center justify-center"><span class="material-symbols-outlined text-[22px]">notifications</span><span class="absolute top-0 right-0 w-2 h-2 bg-terracotta rounded-full"></span></button><button class="text-on-surface-variant hover:text-primary"><span class="material-symbols-outlined text-[22px]">smart_toy</span></button></div><div class="flex items-center gap-3"><div class="text-right hidden sm:block"><p class="text-[14px] font-bold text-on-surface leading-tight">Rahul Sharma</p><p class="text-[12px] font-label-md text-secondary">Statistical Officer</p></div><div class="w-9 h-9 rounded-full bg-primary-container text-[#fff8f0] flex items-center justify-center border border-[#333834]"><span class="material-symbols-outlined text-[18px]">person</span></div></div></div></header><main class="relative pt-16 min-h-screen bg-[#fff8f0]"><div class="flex flex-col w-full">
+<div class="px-10 py-10 space-y-10 max-w-6xl mx-auto w-full">
+<div class="flex flex-col md:flex-row justify-between items-start md:items-end gap-4 border-b-2 border-primary-container pb-5 relative">
+<div class="space-y-2">
+<span class="font-label-md text-[11px] text-secondary font-semibold uppercase tracking-widest bg-[#eae2d4] px-2.5 py-1 rounded">C-094</span>
+<h1 class="font-display-lg text-[40px] md:text-[46px] text-primary tracking-tight leading-none uppercase">GIS Competency Detail</h1>
+<p class="font-body-md text-on-surface-variant max-w-2xl text-[15px] pt-1">Detailed diagnostic breakdown of Geographic Information Systems capability against Official Statistics requirements.</p>
+</div>
+<div class="flex items-center gap-2 bg-[#f5eddf] border border-[#eae2d4] px-3.5 py-1.5 rounded-lg">
+<span class="material-symbols-outlined text-deep-teal text-[20px]" style="font-variation-settings: 'FILL' 1;">policy</span>
+<span class="font-label-md text-[12px] font-bold text-primary tracking-wider uppercase">Official Priority Skill</span>
+</div>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+<div class="bg-[#f5eddf] border border-[#eae2d4] rounded-lg p-6 flex flex-col justify-between h-full hover:bg-[#eae2d4] transition-colors duration-200">
+<span class="font-label-md text-[12px] text-secondary uppercase tracking-wider font-semibold">Current Level</span>
+<div class="flex items-baseline gap-1 mt-3">
+<span class="font-title-lg text-[48px] font-extrabold text-primary leading-none">34</span>
+<span class="font-body-md text-secondary text-[16px]">/100</span>
+</div>
+</div>
+<div class="bg-[#f5eddf] border border-[#eae2d4] rounded-lg p-6 flex flex-col justify-between h-full hover:bg-[#eae2d4] transition-colors duration-200">
+<span class="font-label-md text-[12px] text-secondary uppercase tracking-wider font-semibold">Target Required</span>
+<div class="flex items-baseline gap-1 mt-3">
+<span class="font-title-lg text-[48px] font-extrabold text-primary leading-none">80</span>
+<span class="font-body-md text-secondary text-[16px]">/100</span>
+</div>
+</div>
+<div class="bg-[#fdf0ea] border border-[#f4c8b6] rounded-lg p-6 flex flex-col justify-between h-full relative overflow-hidden">
+<div class="absolute right-[-10px] bottom-[-10px] opacity-10 pointer-events-none">
+<svg class="text-terracotta" fill="currentColor" height="110" viewbox="0 0 24 24" width="110"><path d="M12 2L1 21h22M12 6l7.5 13h-15M11 10v4h2v-4M11 16v2h2v-2"></path></svg>
+</div>
+<span class="font-label-md text-[12px] text-terracotta uppercase tracking-wider font-bold z-10">Identified Gap</span>
+<div class="flex items-baseline gap-1.5 mt-3 z-10">
+<span class="font-title-lg text-[48px] font-extrabold text-terracotta leading-none">-46</span>
+<span class="font-body-md text-terracotta text-[18px] font-semibold">pts</span>
+</div>
+</div>
+<div class="bg-primary-container text-[#fff8f0] rounded-lg p-6 flex flex-col justify-between h-full shadow-sm">
+<span class="font-label-md text-[12px] text-[#b6cbc8] uppercase tracking-wider font-semibold">Data Confidence</span>
+<div class="flex items-baseline gap-1 mt-3">
+<span class="font-title-lg text-[48px] font-extrabold text-[#fff8f0] leading-none">63</span>
+<span class="font-body-md text-[#b6cbc8] text-[18px]">%</span>
+</div>
+<div class="w-full bg-[#353d38] h-1.5 mt-4 rounded-full overflow-hidden">
+<div class="bg-deep-teal h-full rounded-full" style="width: 63%"></div>
+</div>
+</div>
+</div>
+<div class="grid grid-cols-1 lg:grid-cols-3 gap-8 mt-4">
+<div class="lg:col-span-2 space-y-8">
+<section class="space-y-4">
+<div class="flex items-center gap-3">
+<div class="w-8 h-8 rounded-lg bg-[#eae2d4] flex items-center justify-center text-primary">
+<span class="material-symbols-outlined text-[20px]">priority_high</span>
+</div>
+<h2 class="font-headline-lg text-[26px] md:text-[28px] text-primary">Why is GIS a priority?</h2>
+</div>
+<div class="bg-[#f5eddf] border border-[#eae2d4] rounded-lg p-6 flex flex-col md:flex-row gap-6">
+<div class="md:w-5/12 flex-shrink-0">
+<div class="bg-cover bg-center w-full h-52 rounded-lg border border-[#eae2d4] filter grayscale contrast-125" data-alt="Abstract geometric representation of spatial data layers and geographic mapping in a professional dashboard context, using deep blues, crisp whites, and sharp lines. Data visualization aesthetic, clean and corporate." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuB_UTrQOViX55vOrIMvfdLNQg-our-l_RiideXKwqzhYdSTEqgvKxHLQxZHTk5wn6IFtaWytuNsaZ3e8CH12MpxNRI3U2mQ1gQzCQzhIlg0DJcAjMQgdhYsLSHPtROqpYeRjboHDzbh1wGL_9f2-BDTdYLqDa_TBTLvYda6s3e2rZhJJqa32Dlfy5G12KU19134snsVSHs7idvm7AAiWhol6hZPseq1B7SOkopi0UZ1ujiJ8s32tJUVwA')"></div>
+</div>
+<div class="md:w-7/12 space-y-4">
+<p class="font-body-md text-[14px] text-on-surface-variant leading-relaxed">Geographic Information Systems (GIS) competency is critical for modernizing data collection and analysis within Official Statistics. The identified gap directly impacts the execution of key institutional functions.</p>
+<div class="space-y-2 pt-2 border-t border-[#eae2d4]">
+<h3 class="font-label-md text-[12px] text-primary uppercase font-bold tracking-wider">Directly Affected Tasks:</h3>
+<ul class="space-y-2">
+<li class="flex items-start gap-2.5">
+<span class="material-symbols-outlined text-terracotta text-[18px] mt-0.5">warning</span>
+<span class="font-body-md text-[14px] text-on-surface">Spatial crop estimation and yield modeling</span>
+</li>
+<li class="flex items-start gap-2.5">
+<span class="material-symbols-outlined text-terracotta text-[18px] mt-0.5">warning</span>
+<span class="font-body-md text-[14px] text-on-surface">Geographic visualization of demographic data</span>
+</li>
+<li class="flex items-start gap-2.5">
+<span class="material-symbols-outlined text-terracotta text-[18px] mt-0.5">warning</span>
+<span class="font-body-md text-[14px] text-on-surface">Regional disparity analysis and boundary definition</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class="space-y-4">
+<div class="flex items-center gap-3">
+<div class="w-8 h-8 rounded-lg bg-[#eae2d4] flex items-center justify-center text-primary">
+<span class="material-symbols-outlined text-[20px]">troubleshoot</span>
+</div>
+<h2 class="font-headline-lg text-[26px] md:text-[28px] text-primary">Gap Type Analysis</h2>
+</div>
+<div class="relative p-6 bg-[#fff8f0] border border-[#eae2d4] border-l-4 border-l-terracotta rounded-lg flex flex-col md:flex-row gap-6 items-center shadow-sm">
+<div class="flex-1 space-y-3">
+<div class="flex items-center gap-2">
+<span class="font-label-md text-[11px] font-bold text-terracotta bg-[#fdf0ea] border border-[#f4c8b6] px-2.5 py-0.5 rounded tracking-wide">CRITICAL FINDING</span>
+</div>
+<h3 class="font-title-lg text-[18px] font-bold text-on-surface">Context Gap Identified</h3>
+<p class="font-body-md text-[14px] text-on-surface-variant leading-relaxed">
+                  Analysis indicates theoretical knowledge exists, but practical application is lacking in specific institutional contexts. Current evidence suggests limited demonstrated ability to apply GIS specifically to Official Statistical frameworks, particularly concerning the rigors of Crop Estimation methodologies.
+                </p>
+</div>
+<div class="w-32 h-32 flex-shrink-0 flex items-center justify-center">
+<svg class="w-full h-full transform -rotate-90" viewbox="0 0 100 100">
+<circle class="text-[#eae2d4]" cx="50" cy="50" fill="transparent" r="40" stroke="currentColor" stroke-width="8"></circle>
+<circle class="text-terracotta" cx="50" cy="50" fill="transparent" r="40" stroke="currentColor" stroke-dasharray="251.2" stroke-dashoffset="135.6" stroke-linecap="round" stroke-width="8"></circle>
+<text class="font-title-lg text-[18px] fill-terracotta font-extrabold" dominant-baseline="middle" text-anchor="middle" transform="rotate(90 50 50)" x="50" y="50">46%</text>
+</svg>
+</div>
+</div>
+</section>
+</div>
+<div class="space-y-8">
+<section class="bg-[#f5eddf] border border-[#eae2d4] rounded-lg p-6 space-y-4">
+<div class="border-b border-[#eae2d4] pb-3">
+<h2 class="font-headline-lg text-[22px] text-primary leading-tight">Evidence Inventory</h2>
+<p class="font-label-md text-[11px] text-secondary uppercase tracking-widest mt-1">The "Why" behind the score</p>
+</div>
+<ul class="space-y-2.5 mt-4">
+<li class="flex items-center justify-between p-3 bg-[#fff8f0] border border-[#eae2d4] rounded-lg">
+<div class="flex items-center gap-2.5">
+<span class="material-symbols-outlined text-deep-teal text-[20px]" style="font-variation-settings: 'FILL' 1;">verified</span>
+<span class="font-body-md text-[14px] text-on-surface font-medium">Profile History</span>
+</div>
+<span class="font-label-md text-[11px] text-deep-teal bg-[#e7f3f2] font-bold px-2 py-0.5 rounded">Verified</span>
+</li>
+<li class="flex items-center justify-between p-3 bg-[#fff8f0] border border-[#eae2d4] rounded-lg">
+<div class="flex items-center gap-2.5">
+<span class="material-symbols-outlined text-deep-teal text-[20px]" style="font-variation-settings: 'FILL' 1;">verified</span>
+<span class="font-body-md text-[14px] text-on-surface font-medium">Prev. Training (NSSTA '23)</span>
+</div>
+<span class="font-label-md text-[11px] text-deep-teal bg-[#e7f3f2] font-bold px-2 py-0.5 rounded">Verified</span>
+</li>
+<li class="flex items-center justify-between p-3 bg-[#fff8f0] border border-[#eae2d4] rounded-lg">
+<div class="flex items-center gap-2.5">
+<span class="material-symbols-outlined text-deep-teal text-[20px]" style="font-variation-settings: 'FILL' 1;">verified</span>
+<span class="font-body-md text-[14px] text-on-surface font-medium">Diagnostic (Jan 2024)</span>
+</div>
+<span class="font-label-md text-[11px] text-deep-teal bg-[#e7f3f2] font-bold px-2 py-0.5 rounded">Verified</span>
+</li>
+<li class="flex items-center justify-between p-3 bg-[#fff8f0] border border-[#eae2d4] border-l-4 border-l-secondary rounded-lg">
+<div class="flex items-center gap-2.5">
+<span class="material-symbols-outlined text-secondary text-[20px]">person</span>
+<span class="font-body-md text-[14px] text-on-surface font-medium">Self-attestation</span>
+</div>
+<span class="font-label-md text-[11px] text-secondary bg-[#eae2d4] font-bold px-2 py-0.5 rounded">Self</span>
+</li>
+<li class="flex items-center justify-between p-3 bg-[#fff8f0] border border-[#f4c8b6] border-l-4 border-l-terracotta rounded-lg">
+<div class="flex items-center gap-2.5">
+<span class="material-symbols-outlined text-terracotta text-[20px]">cancel</span>
+<span class="font-body-md text-[14px] text-on-surface font-medium">Practical App Task</span>
+</div>
+<span class="font-label-md text-[11px] text-terracotta bg-[#fdf0ea] font-bold px-2 py-0.5 rounded">Missing</span>
+</li>
+</ul>
+</section>
+<section class="bg-primary-container text-[#fff8f0] rounded-lg p-6 space-y-4 shadow-sm border border-[#333834]">
+<div class="flex items-center justify-between border-b border-[#353d38] pb-3">
+<h2 class="font-headline-lg text-[22px] text-[#fff8f0] leading-tight">Confidence Analysis</h2>
+<span class="font-title-lg text-[20px] font-bold text-deep-teal bg-[#e7f3f2] px-2 py-0.5 rounded">63%</span>
+</div>
+<div class="space-y-4">
+<p class="font-body-md text-[14px] text-[#e2dfd9] leading-relaxed">
+               The current confidence score of 63% reflects a reliance on theoretical assessments and historical training data.
+             </p>
+<div class="bg-[#2a302c] p-4 rounded-lg border-l-4 border-deep-teal space-y-1.5">
+<p class="font-label-md text-[11px] text-deep-teal uppercase tracking-wider font-bold">Requirement to increase confidence:</p>
+<p class="font-body-md text-[13px] text-[#e2dfd9] leading-relaxed">
+                  Objective, practical evidence of GIS application in an official project setting (e.g., Spatial Crop Estimation project logs or peer-reviewed geographic visualizations) is required to elevate this metric above the 80% threshold.
+                </p>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div></main></div></body></html>

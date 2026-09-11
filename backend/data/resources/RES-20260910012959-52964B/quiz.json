@@ -1,0 +1,182 @@
+[
+  {
+    "id": "RES-20260910012959-52964B-Q001",
+    "question_text": "What are the names of the original authors of the awk language, from whose initials the command name is derived?",
+    "options": {
+      "A": "Alfred Aho, Peter Weinberger, and Brian Kernighan",
+      "B": "Alan Alder, Paul Williams, and Benjamin King",
+      "C": "Arthur Adams, Patrick Wright, and Bill Knight",
+      "D": "Andrew Allen, Philip Ward, and Bruce Kent"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-123",
+    "competency": "Digital Tools for Teaching",
+    "domain": "Teaching",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "easy",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910012959-52964B-Q002",
+    "question_text": "Which built-in awk variable holds the total number of fields in the current input record?",
+    "options": {
+      "A": "NR",
+      "B": "NF",
+      "C": "FS",
+      "D": "RS"
+    },
+    "correct_answer": "B",
+    "competency_id": "COMP-123",
+    "competency": "Digital Tools for Teaching",
+    "domain": "Teaching",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "easy",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910012959-52964B-Q003",
+    "question_text": "In the command 'awk -F\",\" \"{print $NF}\" employees.txt', what does the symbol '$NF' refer to?",
+    "options": {
+      "A": "The total number of records in the employees.txt file",
+      "B": "The first field of each record",
+      "C": "The last field of each record",
+      "D": "The absolute number of characters in the line"
+    },
+    "correct_answer": "C",
+    "competency_id": "COMP-123",
+    "competency": "Digital Tools for Teaching",
+    "domain": "Teaching",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910012959-52964B-Q004",
+    "question_text": "How do the built-in variables FS and OFS differ in their default behavior?",
+    "options": {
+      "A": "FS defines the input field separator, while OFS defines the output field separator",
+      "B": "FS sets the maximum allowed file size, while OFS sets the open file status",
+      "C": "FS processes text rows, while OFS processes text columns",
+      "D": "FS is used exclusively in BEGIN blocks, while OFS is used exclusively in END blocks"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-123",
+    "competency": "Digital Tools for Teaching",
+    "domain": "Teaching",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910012959-52964B-Q005",
+    "question_text": "A user wants to print the names (second field) of all employees whose department (third field) matches 'Engineering'. Which of the following commands correctly utilizes the match operator (~) to accomplish this on employees.txt?",
+    "options": {
+      "A": "awk -F',' '$3 ~ /Engineering/ {print $2}' employees.txt",
+      "B": "awk -F',' '$3 !~ /Engineering/ {print $2}' employees.txt",
+      "C": "awk -F',' '$3 ~ \"Engineering\" {print $2}' employees.txt",
+      "D": "awk -F',' '$2 ~ /Engineering/ {print $3}' employees.txt"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-123",
+    "competency": "Digital Tools for Teaching",
+    "domain": "Teaching",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910012959-52964B-Q006",
+    "question_text": "When you assign a new value to a specific field in awk (for example, '$3 = \"Dept-\"$3'), what does awk automatically do to the special variable '$0'?",
+    "options": {
+      "A": "It leaves $0 completely unchanged to preserve the original line.",
+      "B": "It automatically rebuilds $0 using the Output Field Separator (OFS).",
+      "C": "It truncates $0 and discards all fields after the modified field.",
+      "D": "It marks $0 as read-only and throws a syntax error on output."
+    },
+    "correct_answer": "B",
+    "competency_id": "COMP-123",
+    "competency": "Digital Tools for Teaching",
+    "domain": "Teaching",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "hard",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910012959-52964B-Q007",
+    "question_text": "In what chronological order do the different blocks of a standard awk program execute when processing an input file?",
+    "options": {
+      "A": "Line-by-line pattern actions execute first, followed by the BEGIN block, and finally the END block.",
+      "B": "The BEGIN block executes once before any input is read; then pattern-action rules execute sequentially for each record; finally, the END block executes once after all input is processed.",
+      "C": "The BEGIN and END blocks execute concurrently in the background while pattern-action rules process the text records.",
+      "D": "The END block executes first to allocate memory, followed by the BEGIN block, and then the line actions run."
+    },
+    "correct_answer": "B",
+    "competency_id": "COMP-123",
+    "competency": "Digital Tools for Teaching",
+    "domain": "Teaching",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910012959-52964B-Q008",
+    "question_text": "Consider the following command and its output:\nawk '{n=split($0,parts,\":\"); print n, parts[1]}' <<< \"08:23:45\"\nWhat does the variable 'n' represent, and what is printed as 'parts[1]'?",
+    "options": {
+      "A": "n is the character length of '08:23:45' (8), and parts[1] is '0'",
+      "B": "n is the number of pieces produced by split (3), and parts[1] is '08'",
+      "C": "n is the index position of the first colon (3), and parts[1] is '08:23'",
+      "D": "n is a boolean flag indicating a successful split (1), and parts[1] is '08:23:45'"
+    },
+    "correct_answer": "B",
+    "competency_id": "COMP-123",
+    "competency": "Digital Tools for Teaching",
+    "domain": "Teaching",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "hard",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910012959-52964B-Q009",
+    "question_text": "Which of the following syntaxes represents a range pattern in awk that selects every record from the first matching line through the second matching line, inclusive?",
+    "options": {
+      "A": "pat1 && pat2",
+      "B": "pat1 || pat2",
+      "C": "pat1, pat2",
+      "D": "pat1 ... pat2"
+    },
+    "correct_answer": "C",
+    "competency_id": "COMP-123",
+    "competency": "Digital Tools for Teaching",
+    "domain": "Teaching",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "easy",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910012959-52964B-Q010",
+    "question_text": "According to the document, which group of users has the specific primary purpose of using awk to 'Extract specific columns from the output of commands such as ps, df, or netstat for monitoring scripts'?",
+    "options": {
+      "A": "Normal Linux Users",
+      "B": "Programmers",
+      "C": "System Administrators",
+      "D": "Database Architects"
+    },
+    "correct_answer": "C",
+    "competency_id": "COMP-123",
+    "competency": "Digital Tools for Teaching",
+    "domain": "Teaching",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  }
+]

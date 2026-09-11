@@ -1,0 +1,74 @@
+[
+  {
+    "id": "RES-20260910012341-436EFA-Q001",
+    "question_text": "Based on Exercise-2, what does the '~' symbol stand for?",
+    "options": {
+      "A": "your home directory",
+      "B": "your parent directory",
+      "C": "the present working directory",
+      "D": "your temporary directory"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-LINUX-BASICS",
+    "competency": "linux basics",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910012341-436EFA-Q002",
+    "question_text": "According to Exercise-10, which command is used to find the number of characters in the 'student.txt' file?",
+    "options": {
+      "A": "wc -c student.txt",
+      "B": "wc -l student.txt",
+      "C": "wc -w student.txt",
+      "D": "wc -char student.txt"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-LINUX-BASICS",
+    "competency": "linux basics",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910012341-436EFA-Q003",
+    "question_text": "In Exercise-9, which command is used to search for 'Linux' in the file 'os.txt'?",
+    "options": {
+      "A": "grep \"Linux\" os.txt",
+      "B": "search \"Linux\" os.txt",
+      "C": "find \"Linux\" os.txt",
+      "D": "cat os.txt | Linux"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-LINUX-BASICS",
+    "competency": "linux basics",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910012341-436EFA-Q004",
+    "question_text": "Which course code is specified at the beginning of the LabSheet-1 document?",
+    "options": {
+      "A": "CSP 201",
+      "B": "CSP 202",
+      "C": "IT 201",
+      "D": "CSP 101"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-LINUX-BASICS",
+    "competency": "linux basics",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  }
+]

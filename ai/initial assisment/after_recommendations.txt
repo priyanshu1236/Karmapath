@@ -1,0 +1,110 @@
+=== RECOMMENDATION QUALITY TEST (Statistical Officer) ===
+
+--- GAP: Sampling (Gap size: 30.0%) ---
+1. [course_010] Purpose-Driven Leadership
+   Score: 3.3617 (Semantic: 0.3617, Role Bonus: 0.0000, Gap Priority: 3.0000)
+   Reason: Recommended for Sampling because your current capability is 50.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+2. [course_060] Time Management
+   Score: 3.3453 (Semantic: 0.3453, Role Bonus: 0.0000, Gap Priority: 3.0000)
+   Reason: Recommended for Sampling because your current capability is 50.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+3. [course_111] Motivation
+   Score: 3.3450 (Semantic: 0.3450, Role Bonus: 0.0000, Gap Priority: 3.0000)
+   Reason: Recommended for Sampling because your current capability is 50.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+4. [course_011] Happiness in Seva-Bhava: Lessons from Bhagavad-Gita
+   Score: 3.3442 (Semantic: 0.3442, Role Bonus: 0.0000, Gap Priority: 3.0000)
+   Reason: Recommended for Sampling because your current capability is 50.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+5. [course_114] Noting and Drafting
+   Score: 3.3423 (Semantic: 0.3423, Role Bonus: 0.0000, Gap Priority: 3.0000)
+   Reason: Recommended for Sampling because your current capability is 50.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+
+
+--- GAP: Survey Design (Gap size: 20.0%) ---
+1. [course_045] How to Improve Interpersonal Skills in the Workplace
+   Score: 2.4165 (Semantic: 0.4165, Role Bonus: 0.0000, Gap Priority: 2.0000)
+   Reason: Recommended for Survey Design because your current capability is 60.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+2. [course_011] Happiness in Seva-Bhava: Lessons from Bhagavad-Gita
+   Score: 2.4006 (Semantic: 0.4006, Role Bonus: 0.0000, Gap Priority: 2.0000)
+   Reason: Recommended for Survey Design because your current capability is 60.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+3. [course_018] Data Driven Decision Making
+   Score: 2.3795 (Semantic: 0.3795, Role Bonus: 0.0000, Gap Priority: 2.0000)
+   Reason: Recommended for Survey Design because your current capability is 60.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+4. [course_010] Purpose-Driven Leadership
+   Score: 2.3787 (Semantic: 0.3787, Role Bonus: 0.0000, Gap Priority: 2.0000)
+   Reason: Recommended for Survey Design because your current capability is 60.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+5. [course_019] Team Building
+   Score: 2.3787 (Semantic: 0.3787, Role Bonus: 0.0000, Gap Priority: 2.0000)
+   Reason: Recommended for Survey Design because your current capability is 60.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+
+
+--- GAP: Data Quality (Gap size: 40.0%) ---
+1. [course_045] How to Improve Interpersonal Skills in the Workplace
+   Score: 4.4218 (Semantic: 0.4218, Role Bonus: 0.0000, Gap Priority: 4.0000)
+   Reason: Recommended for Data Quality because your current capability is 40.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+2. [course_015] Data Science for Policy Makers Part-1
+   Score: 4.3978 (Semantic: 0.3978, Role Bonus: 0.0000, Gap Priority: 4.0000)
+   Reason: Recommended for Data Quality because your current capability is 40.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+3. [course_018] Data Driven Decision Making
+   Score: 4.3933 (Semantic: 0.3933, Role Bonus: 0.0000, Gap Priority: 4.0000)
+   Reason: Recommended for Data Quality because your current capability is 40.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+4. [course_011] Happiness in Seva-Bhava: Lessons from Bhagavad-Gita
+   Score: 4.3900 (Semantic: 0.3900, Role Bonus: 0.0000, Gap Priority: 4.0000)
+   Reason: Recommended for Data Quality because your current capability is 40.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+5. [course_010] Purpose-Driven Leadership
+   Score: 4.3855 (Semantic: 0.3855, Role Bonus: 0.0000, Gap Priority: 4.0000)
+   Reason: Recommended for Data Quality because your current capability is 40.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+
+
+--- GAP: GIS (Gap size: 10.0%) ---
+1. [course_022] Team Building and Team Management
+   Score: 1.4453 (Semantic: 0.4453, Role Bonus: 0.0000, Gap Priority: 1.0000)
+   Reason: Recommended for GIS because your current capability is 70.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+2. [course_075] Responsible Data Management
+   Score: 1.4413 (Semantic: 0.4413, Role Bonus: 0.0000, Gap Priority: 1.0000)
+   Reason: Recommended for GIS because your current capability is 70.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+3. [course_074] Leadership in Project Management
+   Score: 1.4351 (Semantic: 0.4351, Role Bonus: 0.0000, Gap Priority: 1.0000)
+   Reason: Recommended for GIS because your current capability is 70.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+4. [course_011] Happiness in Seva-Bhava: Lessons from Bhagavad-Gita
+   Score: 1.4319 (Semantic: 0.4319, Role Bonus: 0.0000, Gap Priority: 1.0000)
+   Reason: Recommended for GIS because your current capability is 70.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+5. [course_045] How to Improve Interpersonal Skills in the Workplace
+   Score: 1.4060 (Semantic: 0.4060, Role Bonus: 0.0000, Gap Priority: 1.0000)
+   Reason: Recommended for GIS because your current capability is 70.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+
+
+--- GAP: Agricultural Statistics (Gap size: 60.0%) ---
+1. [course_034] AI-led Digital Transformation in Agriculture
+   Score: 6.4271 (Semantic: 0.4271, Role Bonus: 0.0000, Gap Priority: 6.0000)
+   Reason: Recommended for Agricultural Statistics because your current capability is 20.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+2. [course_033] PM Gati Shakti: Understanding the Portal and Tools
+   Score: 6.4146 (Semantic: 0.4146, Role Bonus: 0.0000, Gap Priority: 6.0000)
+   Reason: Recommended for Agricultural Statistics because your current capability is 20.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+3. [course_035] Effective Communication
+   Score: 6.4071 (Semantic: 0.4071, Role Bonus: 0.0000, Gap Priority: 6.0000)
+   Reason: Recommended for Agricultural Statistics because your current capability is 20.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+4. [course_071] Development Challenges in Tribal Areas and Aspirational Districts
+   Score: 6.3764 (Semantic: 0.3764, Role Bonus: 0.0000, Gap Priority: 6.0000)
+   Reason: Recommended for Agricultural Statistics because your current capability is 20.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+5. [course_059] Modern Tools and Techniques for Nursery
+   Score: 6.3757 (Semantic: 0.3757, Role Bonus: 0.0000, Gap Priority: 6.0000)
+   Reason: Recommended for Agricultural Statistics because your current capability is 20.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+
+
+--- GAP: Python / Data Analysis (Gap size: 50.0%) ---
+1. [course_002] Statistical Tools and Data Visualization
+   Score: 5.4965 (Semantic: 0.4965, Role Bonus: 0.0000, Gap Priority: 5.0000)
+   Reason: Recommended for Python / Data Analysis because your current capability is 30.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+2. [course_018] Data Driven Decision Making
+   Score: 5.4422 (Semantic: 0.4422, Role Bonus: 0.0000, Gap Priority: 5.0000)
+   Reason: Recommended for Python / Data Analysis because your current capability is 30.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+3. [course_001] Gender Sensitivity
+   Score: 5.4289 (Semantic: 0.4289, Role Bonus: 0.0000, Gap Priority: 5.0000)
+   Reason: Recommended for Python / Data Analysis because your current capability is 30.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+4. [course_015] Data Science for Policy Makers Part-1
+   Score: 5.4276 (Semantic: 0.4276, Role Bonus: 0.0000, Gap Priority: 5.0000)
+   Reason: Recommended for Python / Data Analysis because your current capability is 30.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+5. [course_111] Motivation
+   Score: 5.4275 (Semantic: 0.4275, Role Bonus: 0.0000, Gap Priority: 5.0000)
+   Reason: Recommended for Python / Data Analysis because your current capability is 30.00%, below the required 80.00% benchmark, and this course is semantically relevant.
+
+

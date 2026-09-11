@@ -1,0 +1,1396 @@
+{
+  "dataset_name": "iGOT Karmayogi \u2014 40 Role Competency & Learning Dataset",
+  "source_file": "iGOT_40_Roles_DETAILED_README (1).md",
+  "data_status": "prototype",
+  "source_notes": [
+    "Programme/role metadata, competency mappings, descriptions, learning outcomes, course names and supplied durations are source-derived according to the uploaded README.",
+    "Role-course relationships and normalized role IDs are structured from the uploaded README.",
+    "Synthetic module/learning-item structures are retained and explicitly marked synthetic."
+  ],
+  "roles": [
+    {
+      "role_id": "role_01",
+      "role_number": 1,
+      "title": "STATISTICAL INVESTIGATOR GRADE I",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Office Management \u2192 Office Procedures"
+      ],
+      "programme_description": "Comprehensive assessment programme for Statistical Investigator Grade I. The programme combines office procedures with statistical, digital, cybersecurity and professional-effectiveness learning.",
+      "learning_outcomes": "Improved understanding of office procedures; stronger statistical and data-visualization capability; advanced spreadsheet use; safer digital behaviour; foundational AI awareness; and improved time management.",
+      "skills_topics": [
+        "Statistical tools",
+        "data visualization",
+        "Excel",
+        "cybersecurity",
+        "AI fundamentals",
+        "time management",
+        "gender sensitivity."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_02",
+      "role_number": 2,
+      "title": "STATISTICAL INVESTIGATOR GRADE II",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Office Management \u2192 Office Procedures"
+      ],
+      "programme_description": "Comprehensive assessment programme for Statistical Investigator Grade II focused on office procedures together with statistical, communication, workplace-behaviour and digital capabilities.",
+      "learning_outcomes": "Better statistical and visualization skills, professional communication, workplace emotional management, document-production capability, cyber-safety awareness and foundational AI knowledge.",
+      "skills_topics": [
+        "Cybersecurity",
+        "statistics",
+        "data visualization",
+        "communication",
+        "workplace behaviour",
+        "Microsoft Word",
+        "AI",
+        "office documentation."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_03",
+      "role_number": 3,
+      "title": "JOINT SECRETARY LEVEL OFFICER / DIRECTOR",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Digital Fluency \u2192 Digital Service Design"
+      ],
+      "programme_description": "Comprehensive assessment for Joint Secretary-level officers and Directors, combining leadership, ethical public service, data protection, evidence-based policy, cybersecurity and data-science learning.",
+      "learning_outcomes": "Stronger digital-service orientation, evidence-based policy capability, awareness of data-protection requirements, cybersecurity awareness, leadership and data-science literacy for policy decisions.",
+      "skills_topics": [
+        "Leadership",
+        "ethics",
+        "DPDP/data privacy",
+        "evidence-based policy",
+        "cybersecurity",
+        "data science",
+        "statistics",
+        "digital governance."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_04",
+      "role_number": 4,
+      "title": "SENIOR TECHNICAL DIRECTOR",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Behavioural \u2192 Decision Making \u2192 Logical Reasoning"
+      ],
+      "programme_description": "Senior technical leadership assessment emphasizing logical decision-making, data-driven management, procurement, team effectiveness, data-centre awareness and IT project lifecycle management.",
+      "learning_outcomes": "Improved reasoning and decision-making, awareness of procurement processes, stronger team-management ability, understanding of data-centre environments and project lifecycle practices.",
+      "skills_topics": [
+        "Logical reasoning",
+        "decision-making",
+        "procurement",
+        "data-driven decisions",
+        "team management",
+        "data centres",
+        "IT project management",
+        "stress management."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_05",
+      "role_number": 5,
+      "title": "DEPUTY SECRETARY",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Digital Fluency \u2192 Digital Service Design"
+      ],
+      "programme_description": "Comprehensive assessment for Deputy Secretary-level responsibilities, integrating team management, data-driven decision-making, evidence-based policy, interpersonal effectiveness, information security and AI.",
+      "learning_outcomes": "Better digital-service orientation, evidence-based administrative decision-making, stronger interpersonal and team skills, improved information-security awareness and foundational AI understanding.",
+      "skills_topics": [
+        "Team management",
+        "data-driven decision-making",
+        "policy analysis",
+        "interpersonal skills",
+        "information security",
+        "AI",
+        "digital governance."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_06",
+      "role_number": 6,
+      "title": "ASSISTANT DIRECTOR / RESEARCH OFFICER (ADCO/RO)",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Office Management \u2192 Office Procedures"
+      ],
+      "programme_description": "Assessment programme combining office-management requirements with leadership, problem solving, statistical visualization, security operations, public administration and AI/ML learning.",
+      "learning_outcomes": "Improved team leadership, problem solving, statistical interpretation, security awareness, public-administration understanding and ability to recognize AI/ML applications.",
+      "skills_topics": [
+        "Leadership",
+        "problem solving",
+        "statistics",
+        "data visualization",
+        "SOC",
+        "threat intelligence",
+        "public administration",
+        "AI",
+        "ML",
+        "DL."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_07",
+      "role_number": 7,
+      "title": "ASSISTANT REGISTRAR GENERAL (SOCIAL STUDIES)",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Cabinet Note Preparation \u2192 Cabinet Note Writing"
+      ],
+      "programme_description": "Comprehensive assessment programme for an ARG-level social-studies role, combining Cabinet Note preparation, leadership, AI and data-driven decision-making.",
+      "learning_outcomes": "Improved Cabinet Note preparation, inter-ministerial consultation awareness, team management, data interpretation, statistical decision-making and AI literacy.",
+      "skills_topics": [
+        "Cabinet Notes",
+        "policy analysis",
+        "inter-ministerial consultation",
+        "statistics",
+        "data analysis",
+        "AI",
+        "decision-making."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_08",
+      "role_number": 8,
+      "title": "DIRECTOR GENERAL, FORESTRY RESEARCH ORGANISATION",
+      "provider": "Indian Council of Forestry Research and Education",
+      "recently_updated": "19 Mar 2026",
+      "programme_duration": "5h 48m",
+      "number_of_courses": 3,
+      "official_competency_mapping": [
+        "Functional \u2192 Digital Fluency \u2192 Emerging Technology"
+      ],
+      "programme_description": "Senior forestry-research leadership programme focused on digital platforms, AI-enabled agricultural transformation and effective communication.",
+      "learning_outcomes": "Understanding of PM Gati Shakti tools, AI applications in agriculture and stronger professional communication.",
+      "skills_topics": [
+        "AI",
+        "ML",
+        "smart farming",
+        "crop and pest management",
+        "smart irrigation",
+        "soil health",
+        "post-harvest systems",
+        "digital transformation",
+        "communication."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_09",
+      "role_number": 9,
+      "title": "SENIOR POLICE OFFICER (25+ YEARS SERVICE)",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Domain \u2192 Technology \u2192 Telecommunications"
+      ],
+      "programme_description": "Assessment programme for senior police officers with more than 25 years of service, using computer vision as the principal technology-learning component.",
+      "learning_outcomes": "Foundational understanding of computer vision, AI-enabled digital transformation and responsible use of vision systems.",
+      "skills_topics": [
+        "Computer vision",
+        "AI",
+        "machine learning",
+        "facial recognition",
+        "image analysis",
+        "agricultural pest detection",
+        "no-code computer vision",
+        "AI ethics."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_10",
+      "role_number": 10,
+      "title": "DIRECTOR / DEPUTY SECRETARY EQUIVALENT",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Domain \u2192 Commerce and Industry \u2192 Commerce"
+      ],
+      "programme_description": "Senior administrative programme covering commerce and industry, trade agreements, WTO, PPP, leadership, emerging technology and public outreach.",
+      "learning_outcomes": "Better understanding of trade-policy concepts, PPP, leadership, emerging technologies and citizen/stakeholder communication.",
+      "skills_topics": [
+        "FTA",
+        "WTO",
+        "PPP",
+        "commerce",
+        "policy analysis",
+        "strategic thinking",
+        "leadership",
+        "emerging technology",
+        "communication."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_11",
+      "role_number": 11,
+      "title": "MAP ANALYST",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Behavioural \u2192 Communication \u2192 Presentation Skills"
+      ],
+      "programme_description": "Advanced assessment programme for map-analysis work combining communication and professional effectiveness with SQL, MySQL, database design and information security.",
+      "learning_outcomes": "Improved presentation and reporting, stronger interpersonal skills, SQL/database capability and awareness of information-security principles.",
+      "skills_topics": [
+        "SQL",
+        "MySQL",
+        "database design",
+        "report writing",
+        "communication",
+        "information security",
+        "data management",
+        "geospatial data."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_12",
+      "role_number": 12,
+      "title": "RESEARCH ANALYST",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Behavioural \u2192 Collaboration \u2192 Diversity & Inclusion"
+      ],
+      "programme_description": "Research-analyst assessment combining AI awareness, environmental responsibility and workplace motivation.",
+      "learning_outcomes": "Improved understanding of AI, responsible e-waste handling, workplace motivation and collaborative behaviour.",
+      "skills_topics": [
+        "AI",
+        "sustainability",
+        "e-waste",
+        "motivation",
+        "collaboration",
+        "diversity and inclusion."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_13",
+      "role_number": 13,
+      "title": "SYSTEM ANALYST",
+      "provider": "Controller General of Patents, Designs & Trade Marks",
+      "recently_updated": "12 Feb 2026",
+      "programme_duration": "9h 54m",
+      "number_of_courses": 3,
+      "official_competency_mapping": [
+        "Functional \u2192 Data Analytics \u2192 Data Analysis & Visualization",
+        "Digital Fluency \u2192 Digital Tools (MS Office, Excel & PPT) & Platforms"
+      ],
+      "programme_description": "System-analyst assessment combining data analytics and digital-tools capability with data protection, backup/recovery and policy insight.",
+      "learning_outcomes": "Improved data-analysis and visualization capability, stronger understanding of backup/recovery and greater ability to derive policy insights from data.",
+      "skills_topics": [
+        "Data analytics",
+        "visualization",
+        "backup",
+        "recovery",
+        "RAID",
+        "SAN",
+        "NAS",
+        "data protection",
+        "cybersecurity",
+        "policy insights",
+        "self-awareness."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_14",
+      "role_number": 14,
+      "title": "SENIOR SYSTEM ANALYST / DEPUTY DIRECTOR / UNDER SECRETARY / ASSISTANT REGISTRAR / PPS / AD / SENIOR AO",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Public Procurement (GFR) \u2192 Procurement Management through GeM",
+        "Functional \u2192 Handling RTI Matters \u2192 RTI Records Management",
+        "Functional \u2192 Cabinet Note Preparation \u2192 Cabinet Note Writing",
+        "Functional \u2192 Office Management \u2192 Noting & Drafting of Official Communications"
+      ],
+      "programme_description": "Multi-designation assessment programme combining Cabinet Notes, RTI administration, public procurement and official noting/drafting.",
+      "learning_outcomes": "Improved capability in Cabinet Note preparation, RTI records management, GeM/GFR-based procurement and official government communication.",
+      "skills_topics": [
+        "RTI",
+        "CPIO/APIO/FAA",
+        "GFR",
+        "GeM",
+        "PFMS",
+        "procurement",
+        "Cabinet Notes",
+        "noting",
+        "drafting."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_15",
+      "role_number": 15,
+      "title": "TECHNICAL OFFICER",
+      "provider": "Institute of Wood Science and Technology, Bengaluru",
+      "recently_updated": "6 Sep 2026",
+      "programme_duration": "2h 50m",
+      "number_of_courses": 2,
+      "official_competency_mapping": [
+        "Behavioural \u2192 Service Orientation \u2192 Responsiveness"
+      ],
+      "programme_description": "Technical-officer assessment focused on responsive service delivery, e-governance, IT security and goal setting.",
+      "learning_outcomes": "Improved responsiveness, understanding of secure e-governance practices and clearer goal-setting and performance orientation.",
+      "skills_topics": [
+        "E-governance",
+        "IT security",
+        "service delivery",
+        "responsiveness",
+        "goal setting",
+        "performance management."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_16",
+      "role_number": 16,
+      "title": "TECHNICAL PERSONNEL",
+      "provider": "TFRI Jabalpur",
+      "recently_updated": "6 Sep 2026",
+      "programme_duration": "3h 20m",
+      "number_of_courses": 3,
+      "official_competency_mapping": [
+        "Domain \u2192 Resources \u2192 Environment, Forest and Climate Change"
+      ],
+      "programme_description": "Technical-personnel programme combining environmental/forestry capability with emotional intelligence and modern nursery-management practices.",
+      "learning_outcomes": "Improved interpersonal effectiveness, understanding of biodegradable waste management and awareness of modern nursery technologies.",
+      "skills_topics": [
+        "Forestry",
+        "environment",
+        "waste management",
+        "nursery management",
+        "plantation",
+        "agroforestry",
+        "sustainability",
+        "emotional intelligence."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_17",
+      "role_number": 17,
+      "title": "CHIEF TECHNICAL OFFICER",
+      "provider": "Institute of Wood Science and Technology, Bengaluru",
+      "recently_updated": "6 Sep 2026",
+      "programme_duration": "5h 09m",
+      "number_of_courses": 3,
+      "official_competency_mapping": [
+        "Behavioural \u2192 Service Orientation \u2192 Service Excellence (wrt citizens)"
+      ],
+      "programme_description": "Chief Technical Officer assessment emphasizing citizen-facing service excellence, time management, workplace relationships and national-development awareness.",
+      "learning_outcomes": "Improved prioritization, workplace relationship management and citizen-centric service orientation.",
+      "skills_topics": [
+        "Service excellence",
+        "citizen-centricity",
+        "time management",
+        "workplace relationships",
+        "prioritization",
+        "organizational goals."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_18",
+      "role_number": 18,
+      "title": "ASSISTANT DIRECTOR, CENSUS OPERATIONS (TECHNICAL)",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Office Management \u2192 Office Procedures"
+      ],
+      "programme_description": "The assessment evaluates analytical, communication, technical and digital-governance competencies through six domains: Critical Thinking, Speaking Effectively, advanced MS PowerPoint, Government e-Marketplace, Basics of AI and GIS. The source describes 120 structured questions, 20 per module, and emphasizes reasoning, presentation, procurement, AI awareness and spatial-data understanding.",
+      "learning_outcomes": "Enhanced critical-thinking and reasoned judgement; stronger public speaking; advanced PowerPoint presentation ability; understanding of GeM; foundational AI knowledge; and basic GIS/spatial-data understanding.",
+      "skills_topics": [
+        "GIS",
+        "QGIS",
+        "raster/vector data",
+        "spatial analysis",
+        "spatial queries",
+        "georeferencing",
+        "CRS/SRS",
+        "digitization",
+        "satellite data",
+        "AI",
+        "ML",
+        "GeM",
+        "critical thinking",
+        "public speaking",
+        "PowerPoint."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_19",
+      "role_number": 19,
+      "title": "SENIOR TECHNICAL OFFICER",
+      "provider": "Institute of Wood Science and Technology, Bengaluru",
+      "recently_updated": "16 Mar 2026",
+      "programme_duration": "5h 01m",
+      "number_of_courses": 3,
+      "official_competency_mapping": [
+        "Behavioural \u2192 Service Orientation \u2192 Responsiveness"
+      ],
+      "programme_description": "Senior technical-officer assessment focused on responsiveness, time management, workplace relationships and secure e-governance.",
+      "learning_outcomes": "Improved prioritization, professional workplace relationships, IT-security awareness and responsive service delivery.",
+      "skills_topics": [
+        "Time management",
+        "goal setting",
+        "e-governance",
+        "IT security",
+        "service orientation",
+        "workplace relationships."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_20",
+      "role_number": 20,
+      "title": "CHIEF TECHNICAL OFFICER",
+      "provider": "Rain Forest Research Institute, Jorhat",
+      "recently_updated": "15 May 2026",
+      "programme_duration": "5h 02m",
+      "number_of_courses": 3,
+      "official_competency_mapping": [
+        "Behavioural \u2192 Outcome Orientation \u2192 Goal Setting"
+      ],
+      "programme_description": "Chief Technical Officer assessment combining forest-management knowledge, time management and office procedures.",
+      "learning_outcomes": "Improved understanding of forest management and valuation, stronger time management and clearer outcome/goal orientation.",
+      "skills_topics": [
+        "Forest management",
+        "forest valuation",
+        "emerging forestry practices",
+        "time management",
+        "office procedures",
+        "goal setting."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_21",
+      "role_number": 21,
+      "title": "SENIOR RESEARCH OFFICER (SOCIAL STUDIES)",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Data Analytics \u2192 Data-led Decision Making"
+      ],
+      "programme_description": "Advanced social-studies research assessment centered on data-led decision-making and supported by social-development, statistical, AI, Cabinet Note and time-management learning.",
+      "learning_outcomes": "Improved data analysis, evidence-based government decisions, AI awareness, social-policy understanding and Cabinet Note preparation.",
+      "skills_topics": [
+        "Data analysis",
+        "statistics",
+        "AI/ML",
+        "social research",
+        "policy analysis",
+        "data-led decision-making",
+        "Cabinet Notes",
+        "time management."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_22",
+      "role_number": 22,
+      "title": "MAP OFFICER",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Project Management \u2192 Project Planning"
+      ],
+      "programme_description": "Map-officer assessment focused on project planning, leadership, responsible data management, design thinking and SDGs.",
+      "learning_outcomes": "Improved project planning and management, leadership, ethical data handling, citizen-oriented problem solving and SDG awareness.",
+      "skills_topics": [
+        "Project planning",
+        "project management",
+        "leadership",
+        "responsible data management",
+        "data governance",
+        "design thinking",
+        "SDGs",
+        "spatial planning."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_23",
+      "role_number": 23,
+      "title": "EXECUTIVE DIRECTOR / DIRECTOR (AUCTIONS)",
+      "provider": "Tobacco Board India",
+      "recently_updated": "15 Apr 2026",
+      "programme_duration": "9h 37m",
+      "number_of_courses": 4,
+      "official_competency_mapping": [
+        "Behavioural \u2192 Service Orientation \u2192 Responsiveness"
+      ],
+      "programme_description": "Executive-level programme emphasizing service orientation, communication, emerging technologies, trade and strategic awareness.",
+      "learning_outcomes": "Improved responsiveness, public/stakeholder communication, emerging-technology awareness and understanding of trade and development priorities.",
+      "skills_topics": [
+        "Service orientation",
+        "communication",
+        "digital transformation",
+        "strategic thinking",
+        "FTA/WTO",
+        "emerging technology",
+        "citizen outreach."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_24",
+      "role_number": 24,
+      "title": "CHAIRMAN-CUM-MANAGING DIRECTOR / EXECUTIVE DIRECTOR",
+      "provider": "ECGC Ltd",
+      "recently_updated": "6 Sep 2026",
+      "programme_duration": "6h 35m",
+      "number_of_courses": 3,
+      "official_competency_mapping": [
+        "Technology \u2192 Science & Technology"
+      ],
+      "programme_description": "Senior executive programme linking public-policy writing and national-development awareness with AI-enabled public-service delivery.",
+      "learning_outcomes": "Improved policy-writing capability and understanding of responsible AI applications for government service delivery and efficiency.",
+      "skills_topics": [
+        "Policy writing",
+        "AI in government",
+        "digital governance",
+        "digital transformation",
+        "public-service delivery",
+        "decision-support systems."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_25",
+      "role_number": 25,
+      "title": "QUALITY ASSURANCE OFFICER",
+      "provider": "Textiles Committee",
+      "recently_updated": "3 Aug 2026",
+      "programme_duration": "20h 53m",
+      "number_of_courses": 12,
+      "official_competency_mapping": [
+        "Functional \u2192 Information & Communication Management \u2192 Dissemination of Information"
+      ],
+      "programme_description": "Competency-based learning plan for a Quality Assurance Officer spanning textile-industry practices, QMS/TQM, quality tools, project management, business-process management, technical writing, trade and change management.",
+      "learning_outcomes": "Improved quality-management capability, process-improvement skills, technical/scientific writing, project planning, business-process understanding and change-management ability.",
+      "skills_topics": [
+        "QA/QC",
+        "QMS",
+        "TQM",
+        "seven quality tools",
+        "RCA",
+        "Pareto",
+        "Fishbone",
+        "CAPA",
+        "audit/compliance",
+        "process improvement",
+        "Lean",
+        "risk management",
+        "project management",
+        "DPR",
+        "technical writing",
+        "textiles",
+        "trade."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_26",
+      "role_number": 26,
+      "title": "AIS OFFICER",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Public Procurement (GFR) \u2192 Contract Management",
+        "Functional \u2192 Data Analytics \u2192 Data Analysis & Visualization"
+      ],
+      "programme_description": "Assessment for AIS officers in the Department of Space combining contract management, data analytics and emerging technology applications in finance.",
+      "learning_outcomes": "Improved contract-management knowledge, data-analysis awareness and understanding of blockchain and AI in financial contexts.",
+      "skills_topics": [
+        "Contract management",
+        "GFR",
+        "procurement",
+        "data analysis",
+        "visualization",
+        "blockchain",
+        "AI in finance",
+        "ICT."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_27",
+      "role_number": 27,
+      "title": "ASSISTANT SECTION OFFICER",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Office Management \u2192 Office Procedures"
+      ],
+      "programme_description": "Assistant Section Officer assessment combining core office procedures with problem solving, team coordination, governance analytics, public administration and cybersecurity.",
+      "learning_outcomes": "Improved file/office procedures, problem solving, team coordination, governance analytics and cybersecurity awareness.",
+      "skills_topics": [
+        "Office procedures",
+        "file management",
+        "noting/drafting",
+        "decision-making",
+        "team coordination",
+        "social-media analytics",
+        "data-driven governance",
+        "cybersecurity",
+        "public administration."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_28",
+      "role_number": 28,
+      "title": "SECTION OFFICER",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Office Management \u2192 Office Procedures"
+      ],
+      "programme_description": "Section Officer assessment centred on office procedures and supported by problem solving, team management, AI/ML/DL, public administration and cybersecurity.",
+      "learning_outcomes": "Improved administrative procedures, decision-making, team management, AI literacy and secure digital working practices.",
+      "skills_topics": [
+        "Office procedures",
+        "team management",
+        "problem solving",
+        "AI",
+        "ML",
+        "DL",
+        "cybersecurity",
+        "public administration."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_29",
+      "role_number": 29,
+      "title": "DEPUTY REGISTRAR GENERAL (MAPS)",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Project Management \u2192 Project Implementation"
+      ],
+      "programme_description": "Senior maps-administration assessment combining project implementation with leadership, data-driven government, critical information infrastructure, ISMS and evidence-based policy.",
+      "learning_outcomes": "Improved project implementation, leadership, data-driven decision-making, information-security management and policy evaluation.",
+      "skills_topics": [
+        "Project implementation",
+        "leadership",
+        "data-driven decisions",
+        "critical infrastructure",
+        "ISMS",
+        "risk management",
+        "cybersecurity",
+        "evidence-based policy",
+        "self-management."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_30",
+      "role_number": 30,
+      "title": "ADDITIONAL REGISTRAR GENERAL",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Behavioural \u2192 Team Leadership \u2192 Inspiring Others"
+      ],
+      "programme_description": "Senior leadership assessment emphasizing transformational leadership, ethical public service, data protection, evidence-based policy, cybersecurity and data science.",
+      "learning_outcomes": "Improved team leadership and motivation, ethical governance, data-privacy awareness, evidence-based policy skills, cybersecurity awareness and data-science literacy.",
+      "skills_topics": [
+        "Transformational leadership",
+        "motivation",
+        "policy analysis",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "privacy",
+        "ethical governance."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_31",
+      "role_number": 31,
+      "title": "DEPUTY REGISTRAR GENERAL (SOCIAL STUDIES)",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Data Analytics \u2192 Data-led Decision Making"
+      ],
+      "programme_description": "Social-studies senior assessment focused on data-led decision-making, critical thinking, digital literacy and public administration.",
+      "learning_outcomes": "Improved evidence-based decision-making, critical analysis, digital literacy and application of data in social/governance contexts.",
+      "skills_topics": [
+        "Data analysis",
+        "decision-making",
+        "critical thinking",
+        "evidence-based governance",
+        "digital literacy",
+        "social research",
+        "public administration."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_32",
+      "role_number": 32,
+      "title": "DEPUTY REGISTRAR GENERAL (CENSUS & TRAINING)",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Behavioural \u2192 Team Leadership \u2192 Inspiring Others"
+      ],
+      "programme_description": "Senior census-and-training assessment combining motivation, team leadership, project management, data science, cybersecurity and data protection.",
+      "learning_outcomes": "Improved ability to inspire teams, manage projects, use data for policy, protect information and understand data-protection obligations.",
+      "skills_topics": [
+        "Motivation",
+        "leadership",
+        "project management",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "data protection."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_33",
+      "role_number": 33,
+      "title": "RESEARCH OFFICER (DRAWING) / MAP OFFICER",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Functional \u2192 Data Analytics \u2192 Data Management"
+      ],
+      "programme_description": "Assessment programme combining data management and geospatially relevant technical work with SQL, MySQL, project management and responsible data practices.",
+      "learning_outcomes": "Improved database and SQL capability, responsible data management, project execution and team/leadership skills.",
+      "skills_topics": [
+        "Data management",
+        "SQL",
+        "MySQL",
+        "database design",
+        "responsible data management",
+        "project management",
+        "leadership",
+        "GIS/geospatial data."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_34",
+      "role_number": 34,
+      "title": "GEOGRAPHER",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Behavioural \u2192 Personal Effectiveness \u2192 Stress Management"
+      ],
+      "programme_description": "Advanced geographer assessment combining personal effectiveness with report writing, database design, SQL, interpersonal skills and information security.",
+      "learning_outcomes": "Improved stress management, reporting, interpersonal effectiveness, SQL/database skills and secure handling of information.",
+      "skills_topics": [
+        "Stress management",
+        "report writing",
+        "SQL",
+        "MySQL",
+        "database design",
+        "information security",
+        "data management",
+        "geospatial data",
+        "communication."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_35",
+      "role_number": 35,
+      "title": "MTS -- ADMINISTRATIVE SUPPORT",
+      "provider": "Rain Forest Research Institute, Jorhat",
+      "recently_updated": "13 May 2026",
+      "programme_duration": "4h 56m",
+      "number_of_courses": 3,
+      "official_competency_mapping": [
+        "Functional \u2192 Administration Matters \u2192 Handling Allowances & Reimbursement"
+      ],
+      "programme_description": "APAR 2025--26 comprehensive assessment for MTS. The source explains that the Comprehensive Assessment Framework evaluates competency attainment through assessments based on courses assigned by MDOs.",
+      "learning_outcomes": "Improved routine/supportive task execution, procedural compliance, documentation, time/resource management, service assistance and identification of skill gaps.",
+      "skills_topics": [
+        "Administration",
+        "allowances",
+        "reimbursement",
+        "noting",
+        "drafting",
+        "basic computers",
+        "citizen engagement",
+        "Jan Bhagidari."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_36",
+      "role_number": 36,
+      "title": "MTS -- DEPARTMENTAL SUPPORT",
+      "provider": "Department of Animal Husbandry and Dairying",
+      "recently_updated": "10 Mar 2026",
+      "programme_duration": "4h 10m",
+      "number_of_courses": 3,
+      "official_competency_mapping": [
+        "Behavioural \u2192 Communication \u2192 Reading & Comprehension"
+      ],
+      "programme_description": "MTS assessment designed to evaluate functional and operational capabilities such as task execution, procedural compliance, time management, record keeping, office coordination and adherence to rules and protocols.",
+      "learning_outcomes": "Efficient routine/supportive work, accurate procedure-following, effective communication, coordination, service assistance and identification of competency gaps.",
+      "skills_topics": [
+        "Communication",
+        "reading/comprehension",
+        "basic computer hardware/software",
+        "government schemes",
+        "routine administrative support."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_37",
+      "role_number": 37,
+      "title": "LAB ATTENDANT / DRIVER",
+      "provider": "Institute of Hotel Management, Gurdaspur",
+      "recently_updated": "21 Apr 2026",
+      "programme_duration": "8h 48m",
+      "number_of_courses": 8,
+      "official_competency_mapping": [
+        "Functional \u2192 Administration Matters \u2192 Handling Allowances & Reimbursement"
+      ],
+      "programme_description": "APAR programme titled Courses for Lab Attendant Driver. The About text refers to APAR courses for LDC/UDC staff of IHM Gurdaspur under the Ministry of Tourism. The programme combines citizen engagement, service awareness, rules, ministry awareness, cybersecurity and computer capability.",
+      "learning_outcomes": "Improved administrative awareness, citizen engagement, digital safety, basic computer operation, troubleshooting and knowledge of ministry/service rules.",
+      "skills_topics": [
+        "Cybersecurity",
+        "phishing",
+        "malware",
+        "ransomware",
+        "online fraud awareness",
+        "citizen engagement",
+        "leave rules",
+        "computer hardware/software",
+        "troubleshooting",
+        "ministry awareness."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_38",
+      "role_number": 38,
+      "title": "SCIENTIST B / SCIENTIST C",
+      "provider": null,
+      "recently_updated": null,
+      "programme_duration": null,
+      "number_of_courses": null,
+      "official_competency_mapping": [
+        "Behavioural \u2192 Communication \u2192 Active Listening",
+        "Behavioural \u2192 Collaboration \u2192 Relationship Management",
+        "Behavioural \u2192 Service Orientation \u2192 Empathy",
+        "Behavioural \u2192 Collaborative Leadership \u2192 Conflict Management"
+      ],
+      "programme_description": "Comprehensive final assessment integrating strategic communication, cyber resilience and administrative excellence. It tests the interplay between secure digital infrastructure, precise noting/drafting and professional communication.",
+      "learning_outcomes": "Application of the CIA Triad and risk frameworks; precise government documentation; evaluation of AI-driven cyber threats and ransomware; use of OODA for resilience; active listening; communication-barrier management; assertive conflict resolution; collaborative leadership.",
+      "skills_topics": [
+        "Active listening",
+        "relationship management",
+        "empathy",
+        "conflict management",
+        "cybersecurity",
+        "CIA Triad",
+        "risk management",
+        "phishing",
+        "ransomware",
+        "cyber resilience",
+        "OODA loop",
+        "noting",
+        "drafting",
+        "secretariat procedures."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_39",
+      "role_number": 39,
+      "title": "SCIENTIST G / SENIOR SCIENTIST",
+      "provider": "Institute of Forest Biodiversity, Hyderabad",
+      "recently_updated": "6 Sep 2026",
+      "programme_duration": "15h 09m",
+      "number_of_courses": 6,
+      "official_competency_mapping": [
+        "Behavioural \u2192 Team Leadership \u2192 Mentoring"
+      ],
+      "programme_description": "Advanced Scientist G assessment combining team leadership and mentoring with design thinking, project management, generative AI, R-based data analysis and integrated digital services/cybersecurity.",
+      "learning_outcomes": "Improved teamwork, leadership and mentoring; citizen-centred problem solving; project planning and execution; responsible use of GenAI; statistical/data analysis in R; and secure digital-service use.",
+      "skills_topics": [
+        "Mentoring",
+        "team leadership",
+        "design thinking",
+        "project management",
+        "ChatGPT",
+        "LLMs",
+        "prompting",
+        "generative AI",
+        "R",
+        "statistics",
+        "inferential statistics",
+        "visualization",
+        "cybersecurity."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "role_40",
+      "role_number": 40,
+      "title": "JOINT SECRETARY AND ABOVE",
+      "provider": "National Disaster Management Authority (NDMA)",
+      "recently_updated": "6 Sep 2026",
+      "programme_duration": "6h 25m",
+      "number_of_courses": 3,
+      "official_competency_mapping": [
+        "Functional \u2192 Vigilance Administration \u2192 Conduct Rules"
+      ],
+      "programme_description": "Comprehensive APAR assessment for Joint Secretary and above, designed to strengthen strategic leadership and governance through data-informed decision-making, ethical standards, recruitment-rule oversight and regulatory alignment.",
+      "learning_outcomes": "Use data and performance indicators for strategic decisions; uphold AIS Conduct Rules; provide oversight on Recruitment Rules; strengthen accountability, integrity and long-term institutional effectiveness.",
+      "skills_topics": [
+        "Recruitment Rules",
+        "AIS Conduct Rules",
+        "ethics",
+        "accountability",
+        "integrity",
+        "regulatory compliance",
+        "data analytics",
+        "performance indicators",
+        "evidence-based decision-making."
+      ],
+      "data_quality": {
+        "role_title_source": "source-derived",
+        "provider_source": "source-derived",
+        "duration_source": "source-derived",
+        "competency_mapping_source": "source-derived",
+        "description_source": "source-derived",
+        "learning_outcomes_source": "source-derived",
+        "skills_topics_source": "source-derived"
+      }
+    },
+    {
+      "role_id": "faculty",
+      "role_number": 41,
+      "title": "College / University Faculty",
+      "provider": "SIH Prototype",
+      "recently_updated": "09 Sep 2026",
+      "programme_duration": "0h 0m",
+      "number_of_courses": 0,
+      "official_competency_mapping": [
+        "Faculty \u2192 Subject Knowledge & Explanation",
+        "Faculty \u2192 Classroom Teaching & Student Engagement",
+        "Faculty \u2192 Lesson & Course Planning",
+        "Faculty \u2192 Exams, Evaluation & Feedback",
+        "Faculty \u2192 Digital Tools for Teaching",
+        "Faculty \u2192 Research & Academic Work"
+      ],
+      "programme_description": "Demo role for College/University Faculty",
+      "learning_outcomes": "Demonstrates capability in teaching, planning, digital tools, and research.",
+      "skills_topics": [
+        "Teaching",
+        "Research",
+        "Digital Tools",
+        "Assessment"
+      ],
+      "data_quality": {
+        "role_title_source": "sih_prototype",
+        "provider_source": "sih_prototype",
+        "duration_source": "sih_prototype",
+        "competency_mapping_source": "sih_prototype",
+        "description_source": "sih_prototype",
+        "learning_outcomes_source": "sih_prototype",
+        "skills_topics_source": "sih_prototype"
+      }
+    }
+  ]
+}

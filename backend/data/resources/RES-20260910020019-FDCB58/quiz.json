@@ -1,0 +1,146 @@
+[
+  {
+    "id": "RES-20260910020019-FDCB58-Q001",
+    "question_text": "According to Exercise 2, what does the '~' (tilde) symbol represent when seen towards the end of the command prompt?",
+    "options": {
+      "A": "Your home directory",
+      "B": "The present working directory",
+      "C": "The root directory of the system",
+      "D": "A temporary subfolder"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-TEST",
+    "competency": "test",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "easy",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910020019-FDCB58-Q002",
+    "question_text": "According to Exercise 10, which command is specifically designated to find the 'Number of words' in the file 'student.txt'?",
+    "options": {
+      "A": "wc -w student.txt",
+      "B": "wc -l student.txt",
+      "C": "wc -c student.txt",
+      "D": "wc -words student.txt"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-TEST",
+    "competency": "test",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "easy",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910020019-FDCB58-Q003",
+    "question_text": "In Exercise 2, if you are currently located in the '~/exercises/exercise1/exercise2' directory, which directory's contents will be listed if you execute command (b): 'ls ./..'?",
+    "options": {
+      "A": "The 'exercise1' directory",
+      "B": "The 'exercise2' directory",
+      "C": "The 'exercises' directory",
+      "D": "The 'test' directory"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-TEST",
+    "competency": "test",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910020019-FDCB58-Q004",
+    "question_text": "In Exercise 9, which of the following is the exact sequence of numbers entered into 'marks.txt' before they are sorted?",
+    "options": {
+      "A": "85, 70, 95, 60",
+      "B": "60, 70, 85, 95",
+      "C": "95, 85, 70, 60",
+      "D": "85, 95, 70, 60"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-TEST",
+    "competency": "test",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910020019-FDCB58-Q005",
+    "question_text": "In Exercise 8, what is the exact order of the names added to the 'names.txt' file using the 'cat > names.txt' command?",
+    "options": {
+      "A": "Rahul, Amit, Sneha, Priya",
+      "B": "Amit, Rahul, Priya, Sneha",
+      "C": "Rahul, Sneha, Amit, Priya",
+      "D": "Priya, Sneha, Rahul, Amit"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-TEST",
+    "competency": "test",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910020019-FDCB58-Q006",
+    "question_text": "In Exercise 9, what will be the result of searching for 'Linux' using the command 'grep \"Linux\" os.txt' on the specified file contents?",
+    "options": {
+      "A": "It will return 'Linux is an operating system' and 'Linux supports networking'",
+      "B": "It will return only 'Linux is an operating system'",
+      "C": "It will return all three lines in the file",
+      "D": "It will return only 'Linux supports networking'"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-TEST",
+    "competency": "test",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910020019-FDCB58-Q007",
+    "question_text": "According to Exercise 3, what is the exact syntax for command 'b' which displays Today's information and the calendar?",
+    "options": {
+      "A": "$date \u201c+Today's information: %D and %B\u201d; cal",
+      "B": "$date \u201c+Today's information: %d and %b\u201d; cal",
+      "C": "$date \u201c+Today's information: %D and %B\u201d & cal",
+      "D": "$date \u201cToday's information: %D and %B\u201d; cal"
+    },
+    "correct_answer": "B",
+    "competency_id": "COMP-TEST",
+    "competency": "test",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "hard",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260910020019-FDCB58-Q008",
+    "question_text": "In Exercise 2, while currently located in the '~/exercises' directory, what is the exact command used to create the directory 'exercise2' inside 'exercise1'?",
+    "options": {
+      "A": "mkdir exercise1/exercise2",
+      "B": "mkdir exercise2/exercise1",
+      "C": "mkdir -p exercise2",
+      "D": "mkdir ~/exercises/exercise2"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-TEST",
+    "competency": "test",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "hard",
+    "marks": 1
+  }
+]

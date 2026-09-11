@@ -1,0 +1,471 @@
+[
+  {
+    "id": "COMP-OFFICE-PROCEDURES",
+    "name": "Office Procedures",
+    "questions": 0,
+    "roles": 6,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-DIGITAL-SERVICE-DESIGN",
+    "name": "Digital Service Design",
+    "questions": 0,
+    "roles": 2,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-LOGICAL-REASONING",
+    "name": "Logical Reasoning",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-CABINET-NOTE-WRITING",
+    "name": "Cabinet Note Writing",
+    "questions": 0,
+    "roles": 2,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-EMERGING-TECHNOLOGY",
+    "name": "Emerging Technology",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-TELECOMMUNICATIONS",
+    "name": "Telecommunications",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-COMMERCE",
+    "name": "Commerce",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-PRESENTATION-SKILLS",
+    "name": "Presentation Skills",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-DIVERSITY-INCLUSION",
+    "name": "Diversity & Inclusion",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-DATA-ANALYSIS-VISUALIZATION",
+    "name": "Data Analysis & Visualization",
+    "questions": 0,
+    "roles": 2,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-DIGITAL-TOOLS-MS-OFFICE-EXCEL-PPT-PLATFORMS",
+    "name": "Digital Tools (MS Office, Excel & PPT) & Platforms",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-PROCUREMENT-MANAGEMENT-THROUGH-GEM",
+    "name": "Procurement Management through GeM",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-RTI-RECORDS-MANAGEMENT",
+    "name": "RTI Records Management",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-NOTING-DRAFTING-OF-OFFICIAL-COMMUNICATIONS",
+    "name": "Noting & Drafting of Official Communications",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-RESPONSIVENESS",
+    "name": "Responsiveness",
+    "questions": 0,
+    "roles": 3,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-ENVIRONMENT-FOREST-AND-CLIMATE-CHANGE",
+    "name": "Environment, Forest and Climate Change",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-SERVICE-EXCELLENCE-WRT-CITIZENS",
+    "name": "Service Excellence (wrt citizens)",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-GOAL-SETTING",
+    "name": "Goal Setting",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-DATA-LED-DECISION-MAKING",
+    "name": "Data-led Decision Making",
+    "questions": 0,
+    "roles": 2,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-PROJECT-PLANNING",
+    "name": "Project Planning",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-SCIENCE-TECHNOLOGY",
+    "name": "Science & Technology",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-DISSEMINATION-OF-INFORMATION",
+    "name": "Dissemination of Information",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-CONTRACT-MANAGEMENT",
+    "name": "Contract Management",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-PROJECT-IMPLEMENTATION",
+    "name": "Project Implementation",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-INSPIRING-OTHERS",
+    "name": "Inspiring Others",
+    "questions": 0,
+    "roles": 2,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-DATA-MANAGEMENT",
+    "name": "Data Management",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-STRESS-MANAGEMENT",
+    "name": "Stress Management",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-HANDLING-ALLOWANCES-REIMBURSEMENT",
+    "name": "Handling Allowances & Reimbursement",
+    "questions": 0,
+    "roles": 2,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-READING-COMPREHENSION",
+    "name": "Reading & Comprehension",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-ACTIVE-LISTENING",
+    "name": "Active Listening",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-RELATIONSHIP-MANAGEMENT",
+    "name": "Relationship Management",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-EMPATHY",
+    "name": "Empathy",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-CONFLICT-MANAGEMENT",
+    "name": "Conflict Management",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-MENTORING",
+    "name": "Mentoring",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-CONDUCT-RULES",
+    "name": "Conduct Rules",
+    "questions": 0,
+    "roles": 1,
+    "coverage": "NONE"
+  },
+  {
+    "id": "COMP-AGRICULTURAL-STATISTICS",
+    "name": "Agricultural Statistics",
+    "questions": 3,
+    "roles": 1,
+    "coverage": "LIMITED"
+  },
+  {
+    "id": "COMP-SURVEY-DESIGN",
+    "name": "Survey Design",
+    "questions": 3,
+    "roles": 1,
+    "coverage": "LIMITED"
+  },
+  {
+    "id": "COMP-SAMPLING",
+    "name": "Sampling",
+    "questions": 3,
+    "roles": 1,
+    "coverage": "LIMITED"
+  },
+  {
+    "id": "COMP-DATA-QUALITY",
+    "name": "Data Quality",
+    "questions": 3,
+    "roles": 1,
+    "coverage": "LIMITED"
+  },
+  {
+    "id": "COMP-GIS",
+    "name": "GIS",
+    "questions": 3,
+    "roles": 1,
+    "coverage": "LIMITED"
+  },
+  {
+    "id": "COMP-PYTHON-DATA-ANALYSIS",
+    "name": "Python / Data Analysis",
+    "questions": 3,
+    "roles": 1,
+    "coverage": "LIMITED"
+  },
+  {
+    "id": "COMP-NATIONAL-ACCOUNTS",
+    "name": "National Accounts",
+    "questions": 2,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-PRICE-STATISTICS",
+    "name": "Price Statistics",
+    "questions": 2,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-LABOUR-STATISTICS",
+    "name": "Labour Statistics",
+    "questions": 2,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-INDUSTRIAL-STATISTICS",
+    "name": "Industrial Statistics",
+    "questions": 2,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-SDG-INDICATORS",
+    "name": "SDG Indicators",
+    "questions": 2,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-METADATA-STANDARDS",
+    "name": "Metadata Standards",
+    "questions": 2,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-R",
+    "name": "R",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-SQL",
+    "name": "SQL",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-STATA",
+    "name": "Stata",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-SPSS",
+    "name": "SPSS",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-SAS",
+    "name": "SAS",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-AI-ML",
+    "name": "AI/ML",
+    "questions": 2,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-CLOUD",
+    "name": "Cloud",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-APIS",
+    "name": "APIs",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-OPEN-DATA",
+    "name": "Open Data",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-CYBERSECURITY",
+    "name": "Cybersecurity",
+    "questions": 2,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-DATA-PRIVACY",
+    "name": "Data Privacy",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-DIGITAL-SIGNATURES",
+    "name": "Digital Signatures",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-GOVERNMENT-CLOUD",
+    "name": "Government Cloud",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-DIGITAL-PUBLIC-INFRASTRUCTURE",
+    "name": "Digital Public Infrastructure",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-LEADERSHIP",
+    "name": "Leadership",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-COMMUNICATION",
+    "name": "Communication",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-PROJECT-MANAGEMENT",
+    "name": "Project Management",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-ETHICS",
+    "name": "Ethics",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-DECISION-MAKING",
+    "name": "Decision Making",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  },
+  {
+    "id": "COMP-CHANGE-MANAGEMENT",
+    "name": "Change Management",
+    "questions": 1,
+    "roles": 0,
+    "coverage": "INSUFFICIENT"
+  }
+]

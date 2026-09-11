@@ -1,0 +1,110 @@
+=== RECOMMENDATION QUALITY TEST (Statistical Officer) ===
+
+--- GAP: Sampling (Gap size: 30.0%) ---
+1. [course_136] Framing and Amendment of Recruitment Rules
+   Score: 3.3885 (Semantic: 0.3885, Role Bonus: 0.0000, Gap Priority: 3.0000)
+   Reason: Recommended to address your Sampling development gap.
+2. [course_002] Statistical Tools and Data Visualization
+   Score: 3.3877 (Semantic: 0.3877, Role Bonus: 0.0000, Gap Priority: 3.0000)
+   Reason: Recommended to address your Sampling development gap.
+3. [course_015] Data Science for Policy Makers Part-1
+   Score: 3.3855 (Semantic: 0.3855, Role Bonus: 0.0000, Gap Priority: 3.0000)
+   Reason: Recommended to address your Sampling development gap.
+4. [course_010] Purpose-Driven Leadership
+   Score: 3.3682 (Semantic: 0.3682, Role Bonus: 0.0000, Gap Priority: 3.0000)
+   Reason: Recommended to address your Sampling development gap.
+5. [course_130] Team Building and Team Management
+   Score: 3.3677 (Semantic: 0.3677, Role Bonus: 0.0000, Gap Priority: 3.0000)
+   Reason: Recommended to address your Sampling development gap.
+
+
+--- GAP: Survey Design (Gap size: 20.0%) ---
+1. [course_002] Statistical Tools and Data Visualization
+   Score: 2.4570 (Semantic: 0.4570, Role Bonus: 0.0000, Gap Priority: 2.0000)
+   Reason: Recommended to address your Survey Design development gap.
+2. [course_072] Data Analysis and Decision Making -- I
+   Score: 2.4115 (Semantic: 0.4115, Role Bonus: 0.0000, Gap Priority: 2.0000)
+   Reason: Recommended to address your Survey Design development gap.
+3. [course_018] Data Driven Decision Making
+   Score: 2.4019 (Semantic: 0.4019, Role Bonus: 0.0000, Gap Priority: 2.0000)
+   Reason: Recommended to address your Survey Design development gap.
+4. [course_015] Data Science for Policy Makers Part-1
+   Score: 2.3954 (Semantic: 0.3954, Role Bonus: 0.0000, Gap Priority: 2.0000)
+   Reason: Recommended to address your Survey Design development gap.
+5. [course_073] Data Driven Decision Making For Government
+   Score: 2.3954 (Semantic: 0.3954, Role Bonus: 0.0000, Gap Priority: 2.0000)
+   Reason: Recommended to address your Survey Design development gap.
+
+
+--- GAP: Data Quality (Gap size: 40.0%) ---
+1. [course_002] Statistical Tools and Data Visualization
+   Score: 4.4456 (Semantic: 0.4456, Role Bonus: 0.0000, Gap Priority: 4.0000)
+   Reason: Recommended to address your Data Quality development gap.
+2. [course_015] Data Science for Policy Makers Part-1
+   Score: 4.4415 (Semantic: 0.4415, Role Bonus: 0.0000, Gap Priority: 4.0000)
+   Reason: Recommended to address your Data Quality development gap.
+3. [course_075] Responsible Data Management
+   Score: 4.4203 (Semantic: 0.4203, Role Bonus: 0.0000, Gap Priority: 4.0000)
+   Reason: Recommended to address your Data Quality development gap.
+4. [course_072] Data Analysis and Decision Making -- I
+   Score: 4.4147 (Semantic: 0.4147, Role Bonus: 0.0000, Gap Priority: 4.0000)
+   Reason: Recommended to address your Data Quality development gap.
+5. [course_073] Data Driven Decision Making For Government
+   Score: 4.4038 (Semantic: 0.4038, Role Bonus: 0.0000, Gap Priority: 4.0000)
+   Reason: Recommended to address your Data Quality development gap.
+
+
+--- GAP: GIS (Gap size: 10.0%) ---
+1. [course_067] Geographical Information System
+   Score: 1.4712 (Semantic: 0.4712, Role Bonus: 0.0000, Gap Priority: 1.0000)
+   Reason: Recommended to address your GIS development gap.
+2. [course_002] Statistical Tools and Data Visualization
+   Score: 1.4169 (Semantic: 0.4169, Role Bonus: 0.0000, Gap Priority: 1.0000)
+   Reason: Recommended to address your GIS development gap.
+3. [course_070] Office Procedures
+   Score: 1.3990 (Semantic: 0.3990, Role Bonus: 0.0000, Gap Priority: 1.0000)
+   Reason: Recommended to address your GIS development gap.
+4. [course_130] Team Building and Team Management
+   Score: 1.3869 (Semantic: 0.3869, Role Bonus: 0.0000, Gap Priority: 1.0000)
+   Reason: Recommended to address your GIS development gap.
+5. [course_136] Framing and Amendment of Recruitment Rules
+   Score: 1.3819 (Semantic: 0.3819, Role Bonus: 0.0000, Gap Priority: 1.0000)
+   Reason: Recommended to address your GIS development gap.
+
+
+--- GAP: Agricultural Statistics (Gap size: 60.0%) ---
+1. [course_034] AI-led Digital Transformation in Agriculture
+   Score: 6.4403 (Semantic: 0.4403, Role Bonus: 0.0000, Gap Priority: 6.0000)
+   Reason: Recommended to address your Agricultural Statistics development gap.
+2. [course_002] Statistical Tools and Data Visualization
+   Score: 6.4280 (Semantic: 0.4280, Role Bonus: 0.0000, Gap Priority: 6.0000)
+   Reason: Recommended to address your Agricultural Statistics development gap.
+3. [course_118] Investing in Government Schemes
+   Score: 6.3949 (Semantic: 0.3949, Role Bonus: 0.0000, Gap Priority: 6.0000)
+   Reason: Recommended to address your Agricultural Statistics development gap.
+4. [course_070] Office Procedures
+   Score: 6.3901 (Semantic: 0.3901, Role Bonus: 0.0000, Gap Priority: 6.0000)
+   Reason: Recommended to address your Agricultural Statistics development gap.
+5. [course_130] Team Building and Team Management
+   Score: 6.3837 (Semantic: 0.3837, Role Bonus: 0.0000, Gap Priority: 6.0000)
+   Reason: Recommended to address your Agricultural Statistics development gap.
+
+
+--- GAP: Python / Data Analysis (Gap size: 50.0%) ---
+1. [course_002] Statistical Tools and Data Visualization
+   Score: 5.5096 (Semantic: 0.5096, Role Bonus: 0.0000, Gap Priority: 5.0000)
+   Reason: Recommended to address your Python / Data Analysis development gap.
+2. [course_072] Data Analysis and Decision Making -- I
+   Score: 5.4477 (Semantic: 0.4477, Role Bonus: 0.0000, Gap Priority: 5.0000)
+   Reason: Recommended to address your Python / Data Analysis development gap.
+3. [course_018] Data Driven Decision Making
+   Score: 5.4415 (Semantic: 0.4415, Role Bonus: 0.0000, Gap Priority: 5.0000)
+   Reason: Recommended to address your Python / Data Analysis development gap.
+4. [course_015] Data Science for Policy Makers Part-1
+   Score: 5.4179 (Semantic: 0.4179, Role Bonus: 0.0000, Gap Priority: 5.0000)
+   Reason: Recommended to address your Python / Data Analysis development gap.
+5. [course_109] Decision Making
+   Score: 5.4131 (Semantic: 0.4131, Role Bonus: 0.0000, Gap Priority: 5.0000)
+   Reason: Recommended to address your Python / Data Analysis development gap.
+
+

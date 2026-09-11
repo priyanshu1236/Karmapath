@@ -1,0 +1,11 @@
+{
+  "resource_id": "RES-20260910011413-F6F49A",
+  "filename": "Labsheet_1_EXERCISES.pdf",
+  "title": "labsheet1",
+  "role": "College / University Faculty",
+  "domain": "General",
+  "competency_id": "COMP-BASICS-LINUX",
+  "competency": "basics linux",
+  "status": "failed",
+  "error": "Quiz generation returned no valid questions after parsing."
+}

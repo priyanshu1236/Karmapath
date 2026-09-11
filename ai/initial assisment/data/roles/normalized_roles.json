@@ -1,0 +1,1700 @@
+{
+  "generation_version": "1.0",
+  "source_files": [
+    "data/roles/roles.json",
+    "data/roles/statistical_officer.json",
+    "data/catalog/role_course_mapping.json"
+  ],
+  "role_count": 41,
+  "roles": [
+    {
+      "role_id": "role_01",
+      "role_name": "STATISTICAL INVESTIGATOR GRADE I",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Office Management \u2192 Office Procedures",
+          "levels": [
+            "Functional",
+            "Office Management",
+            "Office Procedures"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Statistical tools",
+        "data visualization",
+        "Excel",
+        "cybersecurity",
+        "AI fundamentals",
+        "time management",
+        "gender sensitivity."
+      ],
+      "learning_outcomes": [
+        "Improved understanding of office procedures; stronger statistical and data-visualization capability; advanced spreadsheet use; safer digital behaviour; foundational AI awareness; and improved time management."
+      ],
+      "course_ids": [
+        "course_001",
+        "course_002",
+        "course_003",
+        "course_004",
+        "course_005",
+        "course_006"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_02",
+      "role_name": "STATISTICAL INVESTIGATOR GRADE II",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Office Management \u2192 Office Procedures",
+          "levels": [
+            "Functional",
+            "Office Management",
+            "Office Procedures"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Cybersecurity",
+        "statistics",
+        "data visualization",
+        "communication",
+        "workplace behaviour",
+        "Microsoft Word",
+        "AI",
+        "office documentation."
+      ],
+      "learning_outcomes": [
+        "Better statistical and visualization skills, professional communication, workplace emotional management, document-production capability, cyber-safety awareness and foundational AI knowledge."
+      ],
+      "course_ids": [
+        "course_004",
+        "course_002",
+        "course_007",
+        "course_008",
+        "course_009",
+        "course_005"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_03",
+      "role_name": "JOINT SECRETARY LEVEL OFFICER / DIRECTOR",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Digital Fluency \u2192 Digital Service Design",
+          "levels": [
+            "Functional",
+            "Digital Fluency",
+            "Digital Service Design"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Leadership",
+        "ethics",
+        "DPDP/data privacy",
+        "evidence-based policy",
+        "cybersecurity",
+        "data science",
+        "statistics",
+        "digital governance."
+      ],
+      "learning_outcomes": [
+        "Stronger digital-service orientation, evidence-based policy capability, awareness of data-protection requirements, cybersecurity awareness, leadership and data-science literacy for policy decisions."
+      ],
+      "course_ids": [
+        "course_010",
+        "course_011",
+        "course_012",
+        "course_013",
+        "course_014",
+        "course_015"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_04",
+      "role_name": "SENIOR TECHNICAL DIRECTOR",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Behavioural \u2192 Decision Making \u2192 Logical Reasoning",
+          "levels": [
+            "Behavioural",
+            "Decision Making",
+            "Logical Reasoning"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Logical reasoning",
+        "decision-making",
+        "procurement",
+        "data-driven decisions",
+        "team management",
+        "data centres",
+        "IT project management",
+        "stress management."
+      ],
+      "learning_outcomes": [
+        "Improved reasoning and decision-making, awareness of procurement processes, stronger team-management ability, understanding of data-centre environments and project lifecycle practices."
+      ],
+      "course_ids": [
+        "course_016",
+        "course_017",
+        "course_018",
+        "course_019",
+        "course_020",
+        "course_021"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_05",
+      "role_name": "DEPUTY SECRETARY",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Digital Fluency \u2192 Digital Service Design",
+          "levels": [
+            "Functional",
+            "Digital Fluency",
+            "Digital Service Design"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Team management",
+        "data-driven decision-making",
+        "policy analysis",
+        "interpersonal skills",
+        "information security",
+        "AI",
+        "digital governance."
+      ],
+      "learning_outcomes": [
+        "Better digital-service orientation, evidence-based administrative decision-making, stronger interpersonal and team skills, improved information-security awareness and foundational AI understanding."
+      ],
+      "course_ids": [
+        "course_022",
+        "course_018",
+        "course_013",
+        "course_023",
+        "course_024",
+        "course_025"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_06",
+      "role_name": "ASSISTANT DIRECTOR / RESEARCH OFFICER (ADCO/RO)",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Office Management \u2192 Office Procedures",
+          "levels": [
+            "Functional",
+            "Office Management",
+            "Office Procedures"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Leadership",
+        "problem solving",
+        "statistics",
+        "data visualization",
+        "SOC",
+        "threat intelligence",
+        "public administration",
+        "AI",
+        "ML",
+        "DL."
+      ],
+      "learning_outcomes": [
+        "Improved team leadership, problem solving, statistical interpretation, security awareness, public-administration understanding and ability to recognize AI/ML applications."
+      ],
+      "course_ids": [
+        "course_026",
+        "course_027",
+        "course_002",
+        "course_028",
+        "course_029",
+        "course_030"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_07",
+      "role_name": "ASSISTANT REGISTRAR GENERAL (SOCIAL STUDIES)",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Cabinet Note Preparation \u2192 Cabinet Note Writing",
+          "levels": [
+            "Functional",
+            "Cabinet Note Preparation",
+            "Cabinet Note Writing"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Cabinet Notes",
+        "policy analysis",
+        "inter-ministerial consultation",
+        "statistics",
+        "data analysis",
+        "AI",
+        "decision-making."
+      ],
+      "learning_outcomes": [
+        "Improved Cabinet Note preparation, inter-ministerial consultation awareness, team management, data interpretation, statistical decision-making and AI literacy."
+      ],
+      "course_ids": [
+        "course_031",
+        "course_026",
+        "course_005",
+        "course_019",
+        "course_018",
+        "course_032"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_08",
+      "role_name": "DIRECTOR GENERAL, FORESTRY RESEARCH ORGANISATION",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Digital Fluency \u2192 Emerging Technology",
+          "levels": [
+            "Functional",
+            "Digital Fluency",
+            "Emerging Technology"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "AI",
+        "ML",
+        "smart farming",
+        "crop and pest management",
+        "smart irrigation",
+        "soil health",
+        "post-harvest systems",
+        "digital transformation",
+        "communication."
+      ],
+      "learning_outcomes": [
+        "Understanding of PM Gati Shakti tools, AI applications in agriculture and stronger professional communication."
+      ],
+      "course_ids": [
+        "course_033",
+        "course_034",
+        "course_035"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_09",
+      "role_name": "SENIOR POLICE OFFICER (25+ YEARS SERVICE)",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Domain \u2192 Technology \u2192 Telecommunications",
+          "levels": [
+            "Domain",
+            "Technology",
+            "Telecommunications"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Computer vision",
+        "AI",
+        "machine learning",
+        "facial recognition",
+        "image analysis",
+        "agricultural pest detection",
+        "no-code computer vision",
+        "AI ethics."
+      ],
+      "learning_outcomes": [
+        "Foundational understanding of computer vision, AI-enabled digital transformation and responsible use of vision systems."
+      ],
+      "course_ids": [
+        "course_036"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_10",
+      "role_name": "DIRECTOR / DEPUTY SECRETARY EQUIVALENT",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Domain \u2192 Commerce and Industry \u2192 Commerce",
+          "levels": [
+            "Domain",
+            "Commerce and Industry",
+            "Commerce"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "FTA",
+        "WTO",
+        "PPP",
+        "commerce",
+        "policy analysis",
+        "strategic thinking",
+        "leadership",
+        "emerging technology",
+        "communication."
+      ],
+      "learning_outcomes": [
+        "Better understanding of trade-policy concepts, PPP, leadership, emerging technologies and citizen/stakeholder communication."
+      ],
+      "course_ids": [
+        "course_037",
+        "course_038",
+        "course_039",
+        "course_040",
+        "course_026",
+        "course_041",
+        "course_042"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_11",
+      "role_name": "MAP ANALYST",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Behavioural \u2192 Communication \u2192 Presentation Skills",
+          "levels": [
+            "Behavioural",
+            "Communication",
+            "Presentation Skills"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "SQL",
+        "MySQL",
+        "database design",
+        "report writing",
+        "communication",
+        "information security",
+        "data management",
+        "geospatial data."
+      ],
+      "learning_outcomes": [
+        "Improved presentation and reporting, stronger interpersonal skills, SQL/database capability and awareness of information-security principles."
+      ],
+      "course_ids": [
+        "course_016",
+        "course_043",
+        "course_044",
+        "course_045",
+        "course_046",
+        "course_047"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_12",
+      "role_name": "RESEARCH ANALYST",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Behavioural \u2192 Collaboration \u2192 Diversity & Inclusion",
+          "levels": [
+            "Behavioural",
+            "Collaboration",
+            "Diversity & Inclusion"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "AI",
+        "sustainability",
+        "e-waste",
+        "motivation",
+        "collaboration",
+        "diversity and inclusion."
+      ],
+      "learning_outcomes": [
+        "Improved understanding of AI, responsible e-waste handling, workplace motivation and collaborative behaviour."
+      ],
+      "course_ids": [
+        "course_025",
+        "course_048",
+        "course_049"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_13",
+      "role_name": "SYSTEM ANALYST",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Data Analytics \u2192 Data Analysis & Visualization",
+          "levels": [
+            "Functional",
+            "Data Analytics",
+            "Data Analysis & Visualization"
+          ]
+        },
+        {
+          "original_path": "Digital Fluency \u2192 Digital Tools (MS Office, Excel & PPT) & Platforms",
+          "levels": [
+            "Digital Fluency",
+            "Digital Tools (MS Office, Excel & PPT) & Platforms"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Data analytics",
+        "visualization",
+        "backup",
+        "recovery",
+        "RAID",
+        "SAN",
+        "NAS",
+        "data protection",
+        "cybersecurity",
+        "policy insights",
+        "self-awareness."
+      ],
+      "learning_outcomes": [
+        "Improved data-analysis and visualization capability, stronger understanding of backup/recovery and greater ability to derive policy insights from data."
+      ],
+      "course_ids": [
+        "course_050",
+        "course_051",
+        "course_052"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_14",
+      "role_name": "SENIOR SYSTEM ANALYST / DEPUTY DIRECTOR / UNDER SECRETARY / ASSISTANT REGISTRAR / PPS / AD / SENIOR AO",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Public Procurement (GFR) \u2192 Procurement Management through GeM",
+          "levels": [
+            "Functional",
+            "Public Procurement (GFR)",
+            "Procurement Management through GeM"
+          ]
+        },
+        {
+          "original_path": "Functional \u2192 Handling RTI Matters \u2192 RTI Records Management",
+          "levels": [
+            "Functional",
+            "Handling RTI Matters",
+            "RTI Records Management"
+          ]
+        },
+        {
+          "original_path": "Functional \u2192 Cabinet Note Preparation \u2192 Cabinet Note Writing",
+          "levels": [
+            "Functional",
+            "Cabinet Note Preparation",
+            "Cabinet Note Writing"
+          ]
+        },
+        {
+          "original_path": "Functional \u2192 Office Management \u2192 Noting & Drafting of Official Communications",
+          "levels": [
+            "Functional",
+            "Office Management",
+            "Noting & Drafting of Official Communications"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "RTI",
+        "CPIO/APIO/FAA",
+        "GFR",
+        "GeM",
+        "PFMS",
+        "procurement",
+        "Cabinet Notes",
+        "noting",
+        "drafting."
+      ],
+      "learning_outcomes": [
+        "Improved capability in Cabinet Note preparation, RTI records management, GeM/GFR-based procurement and official government communication."
+      ],
+      "course_ids": [
+        "course_031",
+        "course_053",
+        "course_054"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_15",
+      "role_name": "TECHNICAL OFFICER",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Behavioural \u2192 Service Orientation \u2192 Responsiveness",
+          "levels": [
+            "Behavioural",
+            "Service Orientation",
+            "Responsiveness"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "E-governance",
+        "IT security",
+        "service delivery",
+        "responsiveness",
+        "goal setting",
+        "performance management."
+      ],
+      "learning_outcomes": [
+        "Improved responsiveness, understanding of secure e-governance practices and clearer goal-setting and performance orientation."
+      ],
+      "course_ids": [
+        "course_055",
+        "course_056"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_16",
+      "role_name": "TECHNICAL PERSONNEL",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Domain \u2192 Resources \u2192 Environment, Forest and Climate Change",
+          "levels": [
+            "Domain",
+            "Resources",
+            "Environment, Forest and Climate Change"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Forestry",
+        "environment",
+        "waste management",
+        "nursery management",
+        "plantation",
+        "agroforestry",
+        "sustainability",
+        "emotional intelligence."
+      ],
+      "learning_outcomes": [
+        "Improved interpersonal effectiveness, understanding of biodegradable waste management and awareness of modern nursery technologies."
+      ],
+      "course_ids": [
+        "course_057",
+        "course_058",
+        "course_059"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_17",
+      "role_name": "CHIEF TECHNICAL OFFICER",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Behavioural \u2192 Service Orientation \u2192 Service Excellence (wrt citizens)",
+          "levels": [
+            "Behavioural",
+            "Service Orientation",
+            "Service Excellence (wrt citizens)"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Service excellence",
+        "citizen-centricity",
+        "time management",
+        "workplace relationships",
+        "prioritization",
+        "organizational goals."
+      ],
+      "learning_outcomes": [
+        "Improved prioritization, workplace relationship management and citizen-centric service orientation."
+      ],
+      "course_ids": [
+        "course_060",
+        "course_061",
+        "course_062"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_18",
+      "role_name": "ASSISTANT DIRECTOR, CENSUS OPERATIONS (TECHNICAL)",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Office Management \u2192 Office Procedures",
+          "levels": [
+            "Functional",
+            "Office Management",
+            "Office Procedures"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "GIS",
+        "QGIS",
+        "raster/vector data",
+        "spatial analysis",
+        "spatial queries",
+        "georeferencing",
+        "CRS/SRS",
+        "digitization",
+        "satellite data",
+        "AI",
+        "ML",
+        "GeM",
+        "critical thinking",
+        "public speaking",
+        "PowerPoint."
+      ],
+      "learning_outcomes": [
+        "Enhanced critical-thinking and reasoned judgement; stronger public speaking; advanced PowerPoint presentation ability; understanding of GeM; foundational AI knowledge; and basic GIS/spatial-data understanding."
+      ],
+      "course_ids": [
+        "course_063",
+        "course_064",
+        "course_054",
+        "course_065",
+        "course_066",
+        "course_067"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_19",
+      "role_name": "SENIOR TECHNICAL OFFICER",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Behavioural \u2192 Service Orientation \u2192 Responsiveness",
+          "levels": [
+            "Behavioural",
+            "Service Orientation",
+            "Responsiveness"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Time management",
+        "goal setting",
+        "e-governance",
+        "IT security",
+        "service orientation",
+        "workplace relationships."
+      ],
+      "learning_outcomes": [
+        "Improved prioritization, professional workplace relationships, IT-security awareness and responsive service delivery."
+      ],
+      "course_ids": [
+        "course_060",
+        "course_061",
+        "course_055"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_20",
+      "role_name": "CHIEF TECHNICAL OFFICER",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Behavioural \u2192 Outcome Orientation \u2192 Goal Setting",
+          "levels": [
+            "Behavioural",
+            "Outcome Orientation",
+            "Goal Setting"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Forest management",
+        "forest valuation",
+        "emerging forestry practices",
+        "time management",
+        "office procedures",
+        "goal setting."
+      ],
+      "learning_outcomes": [
+        "Improved understanding of forest management and valuation, stronger time management and clearer outcome/goal orientation."
+      ],
+      "course_ids": [
+        "course_068",
+        "course_069",
+        "course_070"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_21",
+      "role_name": "SENIOR RESEARCH OFFICER (SOCIAL STUDIES)",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Data Analytics \u2192 Data-led Decision Making",
+          "levels": [
+            "Functional",
+            "Data Analytics",
+            "Data-led Decision Making"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Data analysis",
+        "statistics",
+        "AI/ML",
+        "social research",
+        "policy analysis",
+        "data-led decision-making",
+        "Cabinet Notes",
+        "time management."
+      ],
+      "learning_outcomes": [
+        "Improved data analysis, evidence-based government decisions, AI awareness, social-policy understanding and Cabinet Note preparation."
+      ],
+      "course_ids": [
+        "course_071",
+        "course_072",
+        "course_031",
+        "course_005",
+        "course_073",
+        "course_006"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_22",
+      "role_name": "MAP OFFICER",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Project Management \u2192 Project Planning",
+          "levels": [
+            "Functional",
+            "Project Management",
+            "Project Planning"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Project planning",
+        "project management",
+        "leadership",
+        "responsible data management",
+        "data governance",
+        "design thinking",
+        "SDGs",
+        "spatial planning."
+      ],
+      "learning_outcomes": [
+        "Improved project planning and management, leadership, ethical data handling, citizen-oriented problem solving and SDG awareness."
+      ],
+      "course_ids": [
+        "course_022",
+        "course_074",
+        "course_075",
+        "course_076",
+        "course_077",
+        "course_078"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_23",
+      "role_name": "EXECUTIVE DIRECTOR / DIRECTOR (AUCTIONS)",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Behavioural \u2192 Service Orientation \u2192 Responsiveness",
+          "levels": [
+            "Behavioural",
+            "Service Orientation",
+            "Responsiveness"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Service orientation",
+        "communication",
+        "digital transformation",
+        "strategic thinking",
+        "FTA/WTO",
+        "emerging technology",
+        "citizen outreach."
+      ],
+      "learning_outcomes": [
+        "Improved responsiveness, public/stakeholder communication, emerging-technology awareness and understanding of trade and development priorities."
+      ],
+      "course_ids": [
+        "course_079",
+        "course_080",
+        "course_081",
+        "course_082"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_24",
+      "role_name": "CHAIRMAN-CUM-MANAGING DIRECTOR / EXECUTIVE DIRECTOR",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Technology \u2192 Science & Technology",
+          "levels": [
+            "Technology",
+            "Science & Technology"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Policy writing",
+        "AI in government",
+        "digital governance",
+        "digital transformation",
+        "public-service delivery",
+        "decision-support systems."
+      ],
+      "learning_outcomes": [
+        "Improved policy-writing capability and understanding of responsible AI applications for government service delivery and efficiency."
+      ],
+      "course_ids": [
+        "course_083",
+        "course_084",
+        "course_085"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_25",
+      "role_name": "QUALITY ASSURANCE OFFICER",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Information & Communication Management \u2192 Dissemination of Information",
+          "levels": [
+            "Functional",
+            "Information & Communication Management",
+            "Dissemination of Information"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "QA/QC",
+        "QMS",
+        "TQM",
+        "seven quality tools",
+        "RCA",
+        "Pareto",
+        "Fishbone",
+        "CAPA",
+        "audit/compliance",
+        "process improvement",
+        "Lean",
+        "risk management",
+        "project management",
+        "DPR",
+        "technical writing",
+        "textiles",
+        "trade."
+      ],
+      "learning_outcomes": [
+        "Improved quality-management capability, process-improvement skills, technical/scientific writing, project planning, business-process understanding and change-management ability."
+      ],
+      "course_ids": [
+        "course_086",
+        "course_087",
+        "course_088",
+        "course_089",
+        "course_090",
+        "course_091",
+        "course_092",
+        "course_093",
+        "course_094",
+        "course_095",
+        "course_096",
+        "course_097"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_26",
+      "role_name": "AIS OFFICER",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Public Procurement (GFR) \u2192 Contract Management",
+          "levels": [
+            "Functional",
+            "Public Procurement (GFR)",
+            "Contract Management"
+          ]
+        },
+        {
+          "original_path": "Functional \u2192 Data Analytics \u2192 Data Analysis & Visualization",
+          "levels": [
+            "Functional",
+            "Data Analytics",
+            "Data Analysis & Visualization"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Contract management",
+        "GFR",
+        "procurement",
+        "data analysis",
+        "visualization",
+        "blockchain",
+        "AI in finance",
+        "ICT."
+      ],
+      "learning_outcomes": [
+        "Improved contract-management knowledge, data-analysis awareness and understanding of blockchain and AI in financial contexts."
+      ],
+      "course_ids": [
+        "course_098",
+        "course_099",
+        "course_100"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_27",
+      "role_name": "ASSISTANT SECTION OFFICER",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Office Management \u2192 Office Procedures",
+          "levels": [
+            "Functional",
+            "Office Management",
+            "Office Procedures"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Office procedures",
+        "file management",
+        "noting/drafting",
+        "decision-making",
+        "team coordination",
+        "social-media analytics",
+        "data-driven governance",
+        "cybersecurity",
+        "public administration."
+      ],
+      "learning_outcomes": [
+        "Improved file/office procedures, problem solving, team coordination, governance analytics and cybersecurity awareness."
+      ],
+      "course_ids": [
+        "course_027",
+        "course_026",
+        "course_101",
+        "course_102",
+        "course_029",
+        "course_103"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_28",
+      "role_name": "SECTION OFFICER",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Office Management \u2192 Office Procedures",
+          "levels": [
+            "Functional",
+            "Office Management",
+            "Office Procedures"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Office procedures",
+        "team management",
+        "problem solving",
+        "AI",
+        "ML",
+        "DL",
+        "cybersecurity",
+        "public administration."
+      ],
+      "learning_outcomes": [
+        "Improved administrative procedures, decision-making, team management, AI literacy and secure digital working practices."
+      ],
+      "course_ids": [
+        "course_027",
+        "course_026",
+        "course_101",
+        "course_104",
+        "course_029",
+        "course_103"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_29",
+      "role_name": "DEPUTY REGISTRAR GENERAL (MAPS)",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Project Management \u2192 Project Implementation",
+          "levels": [
+            "Functional",
+            "Project Management",
+            "Project Implementation"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Project implementation",
+        "leadership",
+        "data-driven decisions",
+        "critical infrastructure",
+        "ISMS",
+        "risk management",
+        "cybersecurity",
+        "evidence-based policy",
+        "self-management."
+      ],
+      "learning_outcomes": [
+        "Improved project implementation, leadership, data-driven decision-making, information-security management and policy evaluation."
+      ],
+      "course_ids": [
+        "course_010",
+        "course_073",
+        "course_105",
+        "course_106",
+        "course_107",
+        "course_013"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_30",
+      "role_name": "ADDITIONAL REGISTRAR GENERAL",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Behavioural \u2192 Team Leadership \u2192 Inspiring Others",
+          "levels": [
+            "Behavioural",
+            "Team Leadership",
+            "Inspiring Others"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Transformational leadership",
+        "motivation",
+        "policy analysis",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "privacy",
+        "ethical governance."
+      ],
+      "learning_outcomes": [
+        "Improved team leadership and motivation, ethical governance, data-privacy awareness, evidence-based policy skills, cybersecurity awareness and data-science literacy."
+      ],
+      "course_ids": [
+        "course_108",
+        "course_011",
+        "course_012",
+        "course_013",
+        "course_014",
+        "course_015"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_31",
+      "role_name": "DEPUTY REGISTRAR GENERAL (SOCIAL STUDIES)",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Data Analytics \u2192 Data-led Decision Making",
+          "levels": [
+            "Functional",
+            "Data Analytics",
+            "Data-led Decision Making"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Data analysis",
+        "decision-making",
+        "critical thinking",
+        "evidence-based governance",
+        "digital literacy",
+        "social research",
+        "public administration."
+      ],
+      "learning_outcomes": [
+        "Improved evidence-based decision-making, critical analysis, digital literacy and application of data in social/governance contexts."
+      ],
+      "course_ids": [
+        "course_065",
+        "course_073",
+        "course_032",
+        "course_109",
+        "course_110",
+        "course_029"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_32",
+      "role_name": "DEPUTY REGISTRAR GENERAL (CENSUS & TRAINING)",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Behavioural \u2192 Team Leadership \u2192 Inspiring Others",
+          "levels": [
+            "Behavioural",
+            "Team Leadership",
+            "Inspiring Others"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Motivation",
+        "leadership",
+        "project management",
+        "data science",
+        "ML",
+        "cybersecurity",
+        "DPDP",
+        "data protection."
+      ],
+      "learning_outcomes": [
+        "Improved ability to inspire teams, manage projects, use data for policy, protect information and understand data-protection obligations."
+      ],
+      "course_ids": [
+        "course_111",
+        "course_103",
+        "course_015",
+        "course_012",
+        "course_026",
+        "course_076"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_33",
+      "role_name": "RESEARCH OFFICER (DRAWING) / MAP OFFICER",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Data Analytics \u2192 Data Management",
+          "levels": [
+            "Functional",
+            "Data Analytics",
+            "Data Management"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Data management",
+        "SQL",
+        "MySQL",
+        "database design",
+        "responsible data management",
+        "project management",
+        "leadership",
+        "GIS/geospatial data."
+      ],
+      "learning_outcomes": [
+        "Improved database and SQL capability, responsible data management, project execution and team/leadership skills."
+      ],
+      "course_ids": [
+        "course_022",
+        "course_074",
+        "course_076",
+        "course_075",
+        "course_044",
+        "course_047"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_34",
+      "role_name": "GEOGRAPHER",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Behavioural \u2192 Personal Effectiveness \u2192 Stress Management",
+          "levels": [
+            "Behavioural",
+            "Personal Effectiveness",
+            "Stress Management"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Stress management",
+        "report writing",
+        "SQL",
+        "MySQL",
+        "database design",
+        "information security",
+        "data management",
+        "geospatial data",
+        "communication."
+      ],
+      "learning_outcomes": [
+        "Improved stress management, reporting, interpersonal effectiveness, SQL/database skills and secure handling of information."
+      ],
+      "course_ids": [
+        "course_016",
+        "course_112",
+        "course_047",
+        "course_045",
+        "course_046",
+        "course_044"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_35",
+      "role_name": "MTS -- ADMINISTRATIVE SUPPORT",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Administration Matters \u2192 Handling Allowances & Reimbursement",
+          "levels": [
+            "Functional",
+            "Administration Matters",
+            "Handling Allowances & Reimbursement"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Administration",
+        "allowances",
+        "reimbursement",
+        "noting",
+        "drafting",
+        "basic computers",
+        "citizen engagement",
+        "Jan Bhagidari."
+      ],
+      "learning_outcomes": [
+        "Improved routine/supportive task execution, procedural compliance, documentation, time/resource management, service assistance and identification of skill gaps."
+      ],
+      "course_ids": [
+        "course_113",
+        "course_114",
+        "course_115"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_36",
+      "role_name": "MTS -- DEPARTMENTAL SUPPORT",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Behavioural \u2192 Communication \u2192 Reading & Comprehension",
+          "levels": [
+            "Behavioural",
+            "Communication",
+            "Reading & Comprehension"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Communication",
+        "reading/comprehension",
+        "basic computer hardware/software",
+        "government schemes",
+        "routine administrative support."
+      ],
+      "learning_outcomes": [
+        "Efficient routine/supportive work, accurate procedure-following, effective communication, coordination, service assistance and identification of competency gaps."
+      ],
+      "course_ids": [
+        "course_116",
+        "course_117",
+        "course_118"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_37",
+      "role_name": "LAB ATTENDANT / DRIVER",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Administration Matters \u2192 Handling Allowances & Reimbursement",
+          "levels": [
+            "Functional",
+            "Administration Matters",
+            "Handling Allowances & Reimbursement"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Cybersecurity",
+        "phishing",
+        "malware",
+        "ransomware",
+        "online fraud awareness",
+        "citizen engagement",
+        "leave rules",
+        "computer hardware/software",
+        "troubleshooting",
+        "ministry awareness."
+      ],
+      "learning_outcomes": [
+        "Improved administrative awareness, citizen engagement, digital safety, basic computer operation, troubleshooting and knowledge of ministry/service rules."
+      ],
+      "course_ids": [
+        "course_119",
+        "course_120",
+        "course_121",
+        "course_122",
+        "course_123",
+        "course_124",
+        "course_125",
+        "course_126"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_38",
+      "role_name": "SCIENTIST B / SCIENTIST C",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Behavioural \u2192 Communication \u2192 Active Listening",
+          "levels": [
+            "Behavioural",
+            "Communication",
+            "Active Listening"
+          ]
+        },
+        {
+          "original_path": "Behavioural \u2192 Collaboration \u2192 Relationship Management",
+          "levels": [
+            "Behavioural",
+            "Collaboration",
+            "Relationship Management"
+          ]
+        },
+        {
+          "original_path": "Behavioural \u2192 Service Orientation \u2192 Empathy",
+          "levels": [
+            "Behavioural",
+            "Service Orientation",
+            "Empathy"
+          ]
+        },
+        {
+          "original_path": "Behavioural \u2192 Collaborative Leadership \u2192 Conflict Management",
+          "levels": [
+            "Behavioural",
+            "Collaborative Leadership",
+            "Conflict Management"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Active listening",
+        "relationship management",
+        "empathy",
+        "conflict management",
+        "cybersecurity",
+        "CIA Triad",
+        "risk management",
+        "phishing",
+        "ransomware",
+        "cyber resilience",
+        "OODA loop",
+        "noting",
+        "drafting",
+        "secretariat procedures."
+      ],
+      "learning_outcomes": [
+        "Application of the CIA Triad and risk frameworks; precise government documentation; evaluation of AI-driven cyber threats and ransomware; use of OODA for resilience; active listening; communication-barrier management; assertive conflict resolution; collaborative leadership."
+      ],
+      "course_ids": [
+        "course_127",
+        "course_128",
+        "course_129"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_39",
+      "role_name": "SCIENTIST G / SENIOR SCIENTIST",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Behavioural \u2192 Team Leadership \u2192 Mentoring",
+          "levels": [
+            "Behavioural",
+            "Team Leadership",
+            "Mentoring"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Mentoring",
+        "team leadership",
+        "design thinking",
+        "project management",
+        "ChatGPT",
+        "LLMs",
+        "prompting",
+        "generative AI",
+        "R",
+        "statistics",
+        "inferential statistics",
+        "visualization",
+        "cybersecurity."
+      ],
+      "learning_outcomes": [
+        "Improved teamwork, leadership and mentoring; citizen-centred problem solving; project planning and execution; responsible use of GenAI; statistical/data analysis in R; and secure digital-service use."
+      ],
+      "course_ids": [
+        "course_130",
+        "course_131",
+        "course_132",
+        "course_133",
+        "course_134",
+        "course_135"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "role_40",
+      "role_name": "JOINT SECRETARY AND ABOVE",
+      "source": "igot_role_dataset",
+      "domain": "",
+      "competency_paths": [
+        {
+          "original_path": "Functional \u2192 Vigilance Administration \u2192 Conduct Rules",
+          "levels": [
+            "Functional",
+            "Vigilance Administration",
+            "Conduct Rules"
+          ]
+        }
+      ],
+      "critical_competencies": [],
+      "skills_topics": [
+        "Recruitment Rules",
+        "AIS Conduct Rules",
+        "ethics",
+        "accountability",
+        "integrity",
+        "regulatory compliance",
+        "data analytics",
+        "performance indicators",
+        "evidence-based decision-making."
+      ],
+      "learning_outcomes": [
+        "Use data and performance indicators for strategic decisions; uphold AIS Conduct Rules; provide oversight on Recruitment Rules; strengthen accountability, integrity and long-term institutional effectiveness."
+      ],
+      "course_ids": [
+        "course_136",
+        "course_137",
+        "course_138"
+      ],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "statistical_officer",
+      "role_name": "Statistical Officer",
+      "source": "standalone_prototype",
+      "domain": "Agricultural Statistics",
+      "competency_paths": [
+        {
+          "original_path": "Agricultural Statistics",
+          "levels": [
+            "Agricultural Statistics"
+          ]
+        },
+        {
+          "original_path": "Survey Design",
+          "levels": [
+            "Survey Design"
+          ]
+        },
+        {
+          "original_path": "Sampling",
+          "levels": [
+            "Sampling"
+          ]
+        },
+        {
+          "original_path": "Data Quality",
+          "levels": [
+            "Data Quality"
+          ]
+        },
+        {
+          "original_path": "GIS",
+          "levels": [
+            "GIS"
+          ]
+        },
+        {
+          "original_path": "Python / Data Analysis",
+          "levels": [
+            "Python / Data Analysis"
+          ]
+        }
+      ],
+      "critical_competencies": [
+        "Agricultural Statistics",
+        "Survey Design",
+        "Sampling",
+        "Data Quality",
+        "GIS",
+        "Python / Data Analysis"
+      ],
+      "skills_topics": [],
+      "learning_outcomes": [],
+      "course_ids": [],
+      "metadata_source": "source-derived"
+    },
+    {
+      "role_id": "faculty",
+      "role_name": "College / University Faculty",
+      "source": "sih_prototype",
+      "domain": "Education",
+      "competency_paths": [
+        {
+          "original_name": "Subject Knowledge & Explanation",
+          "path_string": "Faculty \u2192 Subject Knowledge & Explanation"
+        },
+        {
+          "original_name": "Classroom Teaching & Student Engagement",
+          "path_string": "Faculty \u2192 Classroom Teaching & Student Engagement"
+        },
+        {
+          "original_name": "Lesson & Course Planning",
+          "path_string": "Faculty \u2192 Lesson & Course Planning"
+        },
+        {
+          "original_name": "Exams, Evaluation & Feedback",
+          "path_string": "Faculty \u2192 Exams, Evaluation & Feedback"
+        },
+        {
+          "original_name": "Digital Tools for Teaching",
+          "path_string": "Faculty \u2192 Digital Tools for Teaching"
+        },
+        {
+          "original_name": "Research & Academic Work",
+          "path_string": "Faculty \u2192 Research & Academic Work"
+        }
+      ],
+      "courses": []
+    }
+  ]
+}

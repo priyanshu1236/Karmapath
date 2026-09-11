@@ -1,0 +1,1228 @@
+[
+  {
+    "id": "STAT-SD-001",
+    "competency": "Survey Design",
+    "skill": "Questionnaire Design",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "Use one question to measure several unrelated concepts",
+      "B": "Use clear, specific wording and define the reference period",
+      "C": "Avoid response options whenever possible",
+      "D": "Use technical terminology to increase precision"
+    },
+    "correct_answer": "B",
+    "explanation": "Clear wording and an explicit reference period reduce differing interpretations of the same question.",
+    "question_text": "Which questionnaire design practice most directly reduces ambiguity in survey responses?",
+    "domain": "Statistical",
+    "competency_id": "COMP-SURVEY-DESIGN"
+  },
+  {
+    "id": "STAT-SD-002",
+    "competency": "Survey Design",
+    "skill": "Sampling Frame",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "To calculate the final response rate",
+      "B": "To provide a list or representation of population units from which the sample is selected",
+      "C": "To replace questionnaire testing",
+      "D": "To determine the survey publication date"
+    },
+    "correct_answer": "B",
+    "explanation": "A sampling frame identifies the population units available for selection into the sample.",
+    "question_text": "What is the primary purpose of a sampling frame in a probability survey?",
+    "domain": "Statistical",
+    "competency_id": "COMP-SURVEY-DESIGN"
+  },
+  {
+    "id": "STAT-SAM-001",
+    "competency": "Sampling",
+    "skill": "Stratified Sampling",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "Randomly ordered clusters only",
+      "B": "Mutually exclusive subgroups called strata",
+      "C": "Time periods with equal sample sizes",
+      "D": "Respondents who have already answered the survey"
+    },
+    "correct_answer": "B",
+    "explanation": "Stratified sampling divides the population into mutually exclusive strata before sampling within them.",
+    "question_text": "In stratified sampling, the population is divided into:",
+    "domain": "Statistical",
+    "competency_id": "COMP-SAMPLING"
+  },
+  {
+    "id": "STAT-SAM-002",
+    "competency": "Sampling",
+    "skill": "Sampling Error",
+    "difficulty": "hard",
+    "marks": 1,
+    "options": {
+      "A": "It exists only when a census is conducted",
+      "B": "It is caused by selecting a sample rather than observing the entire target population",
+      "C": "It is always eliminated by increasing questionnaire length",
+      "D": "It is identical to nonresponse bias"
+    },
+    "correct_answer": "B",
+    "explanation": "Sampling error arises because estimates are based on a sample rather than the full population.",
+    "question_text": "Which statement about sampling error is correct?",
+    "domain": "Statistical",
+    "competency_id": "COMP-SAMPLING"
+  },
+  {
+    "id": "STAT-NA-001",
+    "category": "Statistical",
+    "competency": "National Accounts",
+    "skill": "GDP Measurement",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which of the following is one of the standard approaches to measuring GDP?",
+    "options": {
+      "A": "Income approach",
+      "B": "Inventory-only approach",
+      "C": "Population-only approach",
+      "D": "Registration-only approach"
+    },
+    "correct_answer": "A",
+    "explanation": "GDP can be measured through production, expenditure, and income approaches."
+  },
+  {
+    "id": "STAT-NA-002",
+    "category": "Statistical",
+    "competency": "National Accounts",
+    "skill": "Value Added",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "At the industry level, gross value added is generally equal to:",
+    "options": {
+      "A": "Output plus intermediate consumption",
+      "B": "Output minus intermediate consumption",
+      "C": "Final consumption minus exports",
+      "D": "Exports minus imports"
+    },
+    "correct_answer": "B",
+    "explanation": "Gross value added is measured as output less intermediate consumption."
+  },
+  {
+    "id": "STAT-PS-001",
+    "category": "Statistical",
+    "competency": "Price Statistics",
+    "skill": "Price Index",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What does a price index primarily measure?",
+    "options": {
+      "A": "Changes in the general level of prices for a defined basket or scope over time",
+      "B": "Changes in population size",
+      "C": "Changes in tax collection only",
+      "D": "Changes in physical production only"
+    },
+    "correct_answer": "A",
+    "explanation": "A price index summarizes changes in prices for a specified basket, sector, or economy over time."
+  },
+  {
+    "id": "STAT-PS-002",
+    "category": "Statistical",
+    "competency": "Price Statistics",
+    "skill": "Inflation",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "If a consumer price index rises from 120 to 126, the percentage increase is:",
+    "options": {
+      "A": "4%",
+      "B": "5%",
+      "C": "6%",
+      "D": "10%"
+    },
+    "correct_answer": "B",
+    "explanation": "The increase is 6/120 \u00d7 100 = 5%."
+  },
+  {
+    "id": "STAT-LS-001",
+    "category": "Statistical",
+    "competency": "Labour Statistics",
+    "skill": "Labour Force Concepts",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The labour force generally consists of:",
+    "options": {
+      "A": "Everyone above a specified age",
+      "B": "Employed persons plus unemployed persons who meet the applicable definition",
+      "C": "Only full-time employees",
+      "D": "Only people currently receiving wages"
+    },
+    "correct_answer": "B",
+    "explanation": "The labour force includes the employed and the unemployed under the statistical definition used."
+  },
+  {
+    "id": "STAT-LS-002",
+    "category": "Statistical",
+    "competency": "Labour Statistics",
+    "skill": "Unemployment Rate",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "If 9 people are unemployed and the labour force is 180, the unemployment rate is:",
+    "options": {
+      "A": "4%",
+      "B": "5%",
+      "C": "9%",
+      "D": "20%"
+    },
+    "correct_answer": "B",
+    "explanation": "Unemployment rate = 9/180 \u00d7 100 = 5%."
+  },
+  {
+    "id": "STAT-AS-001",
+    "competency": "Agricultural Statistics",
+    "skill": "Crop Estimation",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "Area cultivated and yield per unit area",
+      "B": "Population and rainfall only",
+      "C": "Farm count and tax rate only",
+      "D": "Exports and imports only"
+    },
+    "correct_answer": "A",
+    "explanation": "Production is commonly estimated as cultivated area multiplied by yield per unit area.",
+    "question_text": "A basic crop production estimate is generally obtained by combining:",
+    "domain": "Statistical",
+    "competency_id": "COMP-AGRICULTURAL-STATISTICS"
+  },
+  {
+    "id": "STAT-AS-002",
+    "competency": "Agricultural Statistics",
+    "skill": "Agricultural Surveys",
+    "difficulty": "hard",
+    "marks": 1,
+    "options": {
+      "A": "Crop conditions and activities change across the agricultural cycle",
+      "B": "Sampling is not possible during any season",
+      "C": "Questionnaires become invalid after harvest",
+      "D": "Prices are identical in every season"
+    },
+    "correct_answer": "A",
+    "explanation": "Agricultural activity, crop condition, and farm operations vary substantially by season.",
+    "question_text": "Why can seasonal timing be critical in agricultural surveys?",
+    "domain": "Statistical",
+    "competency_id": "COMP-AGRICULTURAL-STATISTICS"
+  },
+  {
+    "id": "STAT-IS-001",
+    "category": "Statistical",
+    "competency": "Industrial Statistics",
+    "skill": "Industrial Production",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "An index of industrial production is primarily intended to measure changes in:",
+    "options": {
+      "A": "Industrial output over time",
+      "B": "Household population only",
+      "C": "Public expenditure only",
+      "D": "Agricultural land ownership"
+    },
+    "correct_answer": "A",
+    "explanation": "Industrial production indices track changes in the volume or level of industrial output."
+  },
+  {
+    "id": "STAT-IS-002",
+    "category": "Statistical",
+    "competency": "Industrial Statistics",
+    "skill": "Industrial Classification",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "Why are standard industrial classifications used in official statistics?",
+    "options": {
+      "A": "To ensure consistent grouping of economic activities for collection and comparison",
+      "B": "To eliminate all sampling error",
+      "C": "To determine employee salaries",
+      "D": "To replace national accounts"
+    },
+    "correct_answer": "A",
+    "explanation": "Standard classifications provide consistent categories for organizing and comparing economic activities."
+  },
+  {
+    "id": "STAT-SDG-001",
+    "category": "Statistical",
+    "competency": "SDG Indicators",
+    "skill": "Indicator Frameworks",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the main purpose of an SDG indicator framework?",
+    "options": {
+      "A": "To provide standardized measures for monitoring progress toward development goals",
+      "B": "To replace all national statistics",
+      "C": "To classify government employees by rank",
+      "D": "To estimate only GDP"
+    },
+    "correct_answer": "A",
+    "explanation": "Indicator frameworks provide consistent measures for monitoring progress against goals and targets."
+  },
+  {
+    "id": "STAT-SDG-002",
+    "category": "Statistical",
+    "competency": "SDG Indicators",
+    "skill": "Disaggregation",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "Why is disaggregation important when reporting many SDG indicators?",
+    "options": {
+      "A": "It can reveal differences in outcomes across population groups or locations",
+      "B": "It always increases the sample size automatically",
+      "C": "It removes the need for metadata",
+      "D": "It guarantees causal conclusions"
+    },
+    "correct_answer": "A",
+    "explanation": "Disaggregation can expose disparities that are hidden in aggregate values."
+  },
+  {
+    "id": "STAT-MS-001",
+    "category": "Statistical",
+    "competency": "Metadata Standards",
+    "skill": "Statistical Metadata",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Statistical metadata primarily explains:",
+    "options": {
+      "A": "How data are defined, produced, measured, and interpreted",
+      "B": "Only the file size of a dataset",
+      "C": "Only the identity of the analyst",
+      "D": "Only the publication color scheme"
+    },
+    "correct_answer": "A",
+    "explanation": "Metadata provides the definitions, methods, classifications, and context needed to interpret statistical data."
+  },
+  {
+    "id": "STAT-MS-002",
+    "category": "Statistical",
+    "competency": "Metadata Standards",
+    "skill": "Concept Definitions",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "Why should an official statistic have a precise concept definition?",
+    "options": {
+      "A": "To ensure users interpret the measure consistently",
+      "B": "To make the dataset larger",
+      "C": "To remove the need for validation",
+      "D": "To prevent all revisions"
+    },
+    "correct_answer": "A",
+    "explanation": "Precise definitions improve consistency, comparability, and correct interpretation."
+  },
+  {
+    "id": "STAT-DQ-001",
+    "competency": "Data Quality",
+    "skill": "Accuracy",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "Accuracy",
+      "B": "Accessibility",
+      "C": "Timeliness",
+      "D": "Coherence"
+    },
+    "correct_answer": "A",
+    "explanation": "Accuracy concerns how closely the produced estimates represent the values they are intended to measure.",
+    "question_text": "Which quality dimension asks whether statistical values closely represent the true or target values?",
+    "domain": "Statistical",
+    "competency_id": "COMP-DATA-QUALITY"
+  },
+  {
+    "id": "STAT-DQ-002",
+    "competency": "Data Quality",
+    "skill": "Timeliness",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "How quickly statistics are released relative to the event or reference period",
+      "B": "How many decimal places are published",
+      "C": "How many employees produce the statistic",
+      "D": "How large the dataset is"
+    },
+    "correct_answer": "A",
+    "explanation": "Timeliness concerns the gap between the reference period and the availability of the statistics.",
+    "question_text": "Timeliness of official statistics primarily refers to:",
+    "domain": "Statistical",
+    "competency_id": "COMP-DATA-QUALITY"
+  },
+  {
+    "id": "TECH-PY-001",
+    "competency": "Python / Data Analysis",
+    "skill": "Data Handling",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "pandas",
+      "B": "flask",
+      "C": "pytest",
+      "D": "socket"
+    },
+    "correct_answer": "A",
+    "explanation": "pandas is widely used for tabular data structures, cleaning, transformation, and analysis.",
+    "question_text": "Which Python library is most commonly used for tabular data manipulation?",
+    "domain": "Technical",
+    "competency_id": "COMP-PYTHON-DATA-ANALYSIS"
+  },
+  {
+    "id": "TECH-R-001",
+    "category": "Technical",
+    "competency": "R",
+    "skill": "Data Analysis",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which language is especially widely used for statistical computing and data visualization in the R ecosystem?",
+    "options": {
+      "A": "R",
+      "B": "HTML",
+      "C": "Bash",
+      "D": "SQL"
+    },
+    "correct_answer": "A",
+    "explanation": "R is designed for statistical computing, data analysis, and visualization."
+  },
+  {
+    "id": "TECH-SQL-001",
+    "category": "Technical",
+    "competency": "SQL",
+    "skill": "Querying",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which SQL clause is used to filter rows before grouping?",
+    "options": {
+      "A": "WHERE",
+      "B": "HAVING",
+      "C": "ORDER BY",
+      "D": "GROUP BY"
+    },
+    "correct_answer": "A",
+    "explanation": "WHERE filters individual rows before grouping and aggregation."
+  },
+  {
+    "id": "TECH-STATA-001",
+    "category": "Technical",
+    "competency": "Stata",
+    "skill": "Statistical Analysis",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Stata is primarily used for:",
+    "options": {
+      "A": "Statistical analysis and data management",
+      "B": "Web browser rendering",
+      "C": "Image editing only",
+      "D": "Operating system development"
+    },
+    "correct_answer": "A",
+    "explanation": "Stata is widely used for statistical analysis, econometrics, and data management."
+  },
+  {
+    "id": "TECH-SPSS-001",
+    "category": "Technical",
+    "competency": "SPSS",
+    "skill": "Statistical Analysis",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "SPSS is primarily associated with:",
+    "options": {
+      "A": "Statistical analysis and survey/data analysis",
+      "B": "Container orchestration",
+      "C": "Graphic design",
+      "D": "Database kernel development"
+    },
+    "correct_answer": "A",
+    "explanation": "SPSS is a statistical software package commonly used for data analysis and survey research."
+  },
+  {
+    "id": "TECH-SAS-001",
+    "category": "Technical",
+    "competency": "SAS",
+    "skill": "Data Processing",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which task is a common use of SAS in official statistics environments?",
+    "options": {
+      "A": "Large-scale data processing and statistical analysis",
+      "B": "Designing mobile phone hardware",
+      "C": "Managing DNS records only",
+      "D": "Creating presentation slides only"
+    },
+    "correct_answer": "A",
+    "explanation": "SAS is commonly used for enterprise-scale data management, processing, and statistical analysis."
+  },
+  {
+    "id": "TECH-GIS-001",
+    "competency": "GIS",
+    "skill": "Spatial Analysis",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "A spatial or geographic dimension to data and analysis",
+      "B": "A guarantee of causal inference",
+      "C": "Automatic removal of missing values",
+      "D": "Automatic encryption of all datasets"
+    },
+    "correct_answer": "A",
+    "explanation": "GIS links data to geographic locations and supports spatial visualization and analysis.",
+    "question_text": "What does GIS primarily add to statistical analysis?",
+    "domain": "Technical",
+    "competency_id": "COMP-GIS"
+  },
+  {
+    "id": "TECH-DV-001",
+    "competency": "Python / Data Analysis",
+    "skill": "Chart Selection",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "Line chart",
+      "B": "Pie chart",
+      "C": "Single-value card only",
+      "D": "Venn diagram"
+    },
+    "correct_answer": "A",
+    "explanation": "Line charts are well suited to showing changes and trends across ordered time points.",
+    "question_text": "Which chart is generally most suitable for showing a trend in a variable over time?",
+    "domain": "Technical",
+    "competency_id": "COMP-PYTHON-DATA-ANALYSIS"
+  },
+  {
+    "id": "TECH-AIML-001",
+    "category": "Technical",
+    "competency": "AI/ML",
+    "skill": "Supervised Learning",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "In supervised machine learning, the training data typically contain:",
+    "options": {
+      "A": "Input examples paired with known target labels or values",
+      "B": "Only unlabeled images",
+      "C": "Only database schemas",
+      "D": "Only model predictions"
+    },
+    "correct_answer": "A",
+    "explanation": "Supervised learning uses examples with known target outcomes to learn a mapping from inputs to outputs."
+  },
+  {
+    "id": "TECH-AIML-002",
+    "category": "Technical",
+    "competency": "AI/ML",
+    "skill": "Semantic Similarity",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "Cosine similarity between two embedding vectors is commonly used to measure:",
+    "options": {
+      "A": "Their angular similarity in vector space",
+      "B": "Their file sizes",
+      "C": "Their encryption strength",
+      "D": "Their database row counts"
+    },
+    "correct_answer": "A",
+    "explanation": "Cosine similarity compares the angle between vectors and is widely used for semantic similarity."
+  },
+  {
+    "id": "TECH-CLOUD-001",
+    "category": "Technical",
+    "competency": "Cloud",
+    "skill": "Scalability",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What does horizontal scaling generally mean?",
+    "options": {
+      "A": "Adding more instances or machines to handle workload",
+      "B": "Increasing the font size in the interface",
+      "C": "Adding more columns to a table only",
+      "D": "Compressing every file"
+    },
+    "correct_answer": "A",
+    "explanation": "Horizontal scaling increases capacity by adding instances or nodes."
+  },
+  {
+    "id": "TECH-API-001",
+    "category": "Technical",
+    "competency": "APIs",
+    "skill": "REST",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which HTTP method is commonly used to retrieve a resource from a REST API?",
+    "options": {
+      "A": "GET",
+      "B": "TRACE",
+      "C": "CONNECT",
+      "D": "PATCH"
+    },
+    "correct_answer": "A",
+    "explanation": "GET is the standard HTTP method for retrieving a resource."
+  },
+  {
+    "id": "TECH-OPEN-001",
+    "category": "Technical",
+    "competency": "Open Data",
+    "skill": "Data Publication",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is a core objective of publishing government data as open data?",
+    "options": {
+      "A": "Enable lawful reuse and access under clearly stated terms",
+      "B": "Prevent all data analysis",
+      "C": "Require all users to edit the source dataset",
+      "D": "Hide metadata from the public"
+    },
+    "correct_answer": "A",
+    "explanation": "Open data aims to make data accessible and reusable under defined legal and technical conditions."
+  },
+  {
+    "id": "DIG-CYB-001",
+    "category": "Digital Governance",
+    "competency": "Cybersecurity",
+    "skill": "Phishing",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which is a strong warning sign of a phishing message?",
+    "options": {
+      "A": "An unexpected request for credentials through a suspicious link",
+      "B": "A routine internal document stored on an approved system",
+      "C": "A scheduled meeting reminder from a known calendar",
+      "D": "A locally stored public dataset"
+    },
+    "correct_answer": "A",
+    "explanation": "Unexpected credential requests and suspicious links are common phishing indicators."
+  },
+  {
+    "id": "DIG-CYB-002",
+    "category": "Digital Governance",
+    "competency": "Cybersecurity",
+    "skill": "Least Privilege",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The principle of least privilege means a user should receive:",
+    "options": {
+      "A": "Only the access needed to perform their authorized duties",
+      "B": "Administrator access by default",
+      "C": "Access to every dataset in the organization",
+      "D": "Temporary access without authentication"
+    },
+    "correct_answer": "A",
+    "explanation": "Least privilege limits permissions to the minimum required for authorized work."
+  },
+  {
+    "id": "DIG-PRIV-001",
+    "category": "Digital Governance",
+    "competency": "Data Privacy",
+    "skill": "Data Minimization",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What does data minimization mean in privacy practice?",
+    "options": {
+      "A": "Collecting only data that is necessary for the stated purpose",
+      "B": "Deleting every dataset immediately",
+      "C": "Publishing all personal data openly",
+      "D": "Collecting the maximum amount of data possible"
+    },
+    "correct_answer": "A",
+    "explanation": "Data minimization limits collection to information necessary for a legitimate purpose."
+  },
+  {
+    "id": "DIG-SIGN-001",
+    "category": "Digital Governance",
+    "competency": "Digital Signatures",
+    "skill": "Authenticity and Integrity",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "A properly implemented digital signature primarily helps establish:",
+    "options": {
+      "A": "Authenticity of the signer and integrity of the signed content",
+      "B": "Unlimited confidentiality of the document contents",
+      "C": "Automatic removal of malware",
+      "D": "Automatic compression of the document"
+    },
+    "correct_answer": "A",
+    "explanation": "Digital signatures support signer authenticity and detection of changes to signed content."
+  },
+  {
+    "id": "DIG-CLOUD-001",
+    "category": "Digital Governance",
+    "competency": "Government Cloud",
+    "skill": "Cloud Governance",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "A key concern when moving government workloads to a cloud environment is:",
+    "options": {
+      "A": "Security, data governance, compliance, and appropriate access controls",
+      "B": "Removing all authentication",
+      "C": "Allowing unrestricted public access",
+      "D": "Avoiding backups"
+    },
+    "correct_answer": "A",
+    "explanation": "Government cloud adoption requires security, governance, compliance, access control, and resilience."
+  },
+  {
+    "id": "DIG-DPI-001",
+    "category": "Digital Governance",
+    "competency": "Digital Public Infrastructure",
+    "skill": "Interoperability",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "Interoperability in digital public infrastructure primarily means:",
+    "options": {
+      "A": "Different systems can exchange and use information through agreed standards and interfaces",
+      "B": "Every department must use identical hardware",
+      "C": "All systems must be built by one vendor",
+      "D": "Data cannot move between systems"
+    },
+    "correct_answer": "A",
+    "explanation": "Interoperability enables systems to communicate and work together using shared standards and interfaces."
+  },
+  {
+    "id": "BEH-LEAD-001",
+    "category": "Behavioural / Managerial",
+    "competency": "Leadership",
+    "skill": "Team Leadership",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which leadership behavior is most likely to improve team accountability?",
+    "options": {
+      "A": "Set clear expectations, responsibilities, and follow-up mechanisms",
+      "B": "Avoid assigning ownership",
+      "C": "Change priorities without communicating them",
+      "D": "Make every decision personally"
+    },
+    "correct_answer": "A",
+    "explanation": "Clear expectations and ownership make responsibilities visible and easier to follow up."
+  },
+  {
+    "id": "BEH-COM-001",
+    "category": "Behavioural / Managerial",
+    "competency": "Communication",
+    "skill": "Clarity",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which practice most improves clarity in an official briefing?",
+    "options": {
+      "A": "Lead with the key message, evidence, and required action",
+      "B": "Use unexplained technical jargon throughout",
+      "C": "Present every detail before stating the purpose",
+      "D": "Avoid stating conclusions"
+    },
+    "correct_answer": "A",
+    "explanation": "A clear structure helps the audience understand the message, evidence, and requested action."
+  },
+  {
+    "id": "BEH-PM-001",
+    "category": "Behavioural / Managerial",
+    "competency": "Project Management",
+    "skill": "Risk Management",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is a sensible first step when managing a major project risk?",
+    "options": {
+      "A": "Identify and assess the risk, including its likelihood and impact",
+      "B": "Ignore the risk until it occurs",
+      "C": "Close the project immediately",
+      "D": "Assign responsibility without defining the risk"
+    },
+    "correct_answer": "A",
+    "explanation": "Risk management begins by identifying and assessing risks so that appropriate responses can be planned."
+  },
+  {
+    "id": "BEH-ETH-001",
+    "category": "Behavioural / Managerial",
+    "competency": "Ethics",
+    "skill": "Conflict of Interest",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "What is the most appropriate response when an official faces a potential conflict of interest?",
+    "options": {
+      "A": "Disclose it through the prescribed process and follow applicable rules on recusal or management",
+      "B": "Keep it private if no one has noticed",
+      "C": "Make the decision quickly before disclosure",
+      "D": "Ask a private contact to decide informally"
+    },
+    "correct_answer": "A",
+    "explanation": "Disclosure and adherence to applicable conflict-of-interest procedures support ethical decision-making."
+  },
+  {
+    "id": "BEH-DEC-001",
+    "category": "Behavioural / Managerial",
+    "competency": "Decision Making",
+    "skill": "Evidence-Based Decisions",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "An evidence-based administrative decision should primarily rely on:",
+    "options": {
+      "A": "Relevant evidence, context, rules, and clearly stated assumptions",
+      "B": "Personal preference alone",
+      "C": "The loudest stakeholder",
+      "D": "A single unverified anecdote"
+    },
+    "correct_answer": "A",
+    "explanation": "Sound decisions use relevant evidence and context while making assumptions and constraints explicit."
+  },
+  {
+    "id": "BEH-CM-001",
+    "category": "Behavioural / Managerial",
+    "competency": "Change Management",
+    "skill": "Stakeholder Engagement",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Why is stakeholder engagement important during organizational change?",
+    "options": {
+      "A": "It helps identify concerns, build understanding, and improve adoption",
+      "B": "It guarantees that nobody will disagree",
+      "C": "It eliminates the need for training",
+      "D": "It makes implementation unnecessary"
+    },
+    "correct_answer": "A",
+    "explanation": "Engagement helps surface concerns and build understanding and adoption of the change."
+  },
+  {
+    "id": "TECH-GIS-002",
+    "competency": "GIS",
+    "skill": "Spatial Data Processing",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "QGIS",
+      "B": "Microsoft Word",
+      "C": "Notepad++",
+      "D": "Excel"
+    },
+    "correct_answer": "A",
+    "explanation": "QGIS is a popular GIS application for processing raster and vector data.",
+    "question_text": "Which of the following is commonly used to process raster data in GIS?",
+    "domain": "Technical",
+    "competency_id": "COMP-GIS"
+  },
+  {
+    "id": "STAT-AS-003",
+    "domain": "Statistical",
+    "competency": "Agricultural Statistics",
+    "question_text": "Which of the following methods is primarily used for objective crop yield estimation?",
+    "options": {
+      "A": "Farmer recall surveys",
+      "B": "Crop cutting experiments (CCE)",
+      "C": "Remote sensing alone",
+      "D": "Wholesale market arrivals"
+    },
+    "correct_answer": "B",
+    "marks": 1.0,
+    "difficulty": "medium",
+    "skill": "Crop Estimation",
+    "explanation": "Correct answer is B",
+    "competency_id": "COMP-AGRICULTURAL-STATISTICS"
+  },
+  {
+    "id": "STAT-SD-003",
+    "domain": "Statistical",
+    "competency": "Survey Design",
+    "question_text": "In survey design, what is the primary purpose of conducting a pilot test?",
+    "options": {
+      "A": "To reduce the required sample size",
+      "B": "To finalize the statistical analysis plan",
+      "C": "To identify flaws in the questionnaire and survey procedures",
+      "D": "To calculate the final population parameters"
+    },
+    "correct_answer": "C",
+    "marks": 1.0,
+    "difficulty": "medium",
+    "skill": "Questionnaire Design",
+    "explanation": "Correct answer is C",
+    "competency_id": "COMP-SURVEY-DESIGN"
+  },
+  {
+    "id": "STAT-SAM-003",
+    "domain": "Statistical",
+    "competency": "Sampling",
+    "question_text": "Which sampling method involves dividing the population into groups and then randomly selecting entire groups rather than individuals within them?",
+    "options": {
+      "A": "Simple Random Sampling",
+      "B": "Stratified Sampling",
+      "C": "Cluster Sampling",
+      "D": "Systematic Sampling"
+    },
+    "correct_answer": "C",
+    "marks": 1.0,
+    "difficulty": "medium",
+    "skill": "Sampling Methods",
+    "explanation": "Cluster sampling randomly selects intact clusters rather than individual elements from every cluster.",
+    "competency_id": "COMP-SAMPLING"
+  },
+  {
+    "id": "STAT-DQ-003",
+    "domain": "Statistical",
+    "competency": "Data Quality",
+    "question_text": "Which of the following is a key component of ensuring timeliness in data quality?",
+    "options": {
+      "A": "Maximizing the sample size regardless of processing time",
+      "B": "Minimizing the gap between the reference period and data dissemination",
+      "C": "Ensuring all data is perfectly accurate before any release",
+      "D": "Publishing only historical data"
+    },
+    "correct_answer": "B",
+    "marks": 1.0,
+    "difficulty": "medium",
+    "skill": "Data Handling",
+    "explanation": "Correct answer is B",
+    "competency_id": "COMP-DATA-QUALITY"
+  },
+  {
+    "id": "TECH-GIS-003",
+    "domain": "Technical",
+    "competency": "GIS",
+    "question_text": "In GIS, what is the process of assigning geographic coordinates to an address or location name called?",
+    "options": {
+      "A": "Geofencing",
+      "B": "Geocoding",
+      "C": "Spatial joining",
+      "D": "Map projection"
+    },
+    "correct_answer": "B",
+    "marks": 1.0,
+    "difficulty": "medium",
+    "skill": "Spatial Analysis",
+    "explanation": "Correct answer is B",
+    "competency_id": "COMP-GIS"
+  },
+  {
+    "id": "TECH-PY-002",
+    "domain": "Technical",
+    "competency": "Python / Data Analysis",
+    "question_text": "Which pandas DataFrame method is used to aggregate data based on one or more keys?",
+    "options": {
+      "A": "merge()",
+      "B": "concat()",
+      "C": "groupby()",
+      "D": "apply()"
+    },
+    "correct_answer": "C",
+    "marks": 1.0,
+    "difficulty": "medium",
+    "skill": "Data Processing",
+    "explanation": "Correct answer is C",
+    "competency_id": "COMP-PYTHON-DATA-ANALYSIS"
+  },
+  {
+    "id": "FAC-SUB-001",
+    "competency": "Subject Knowledge & Explanation",
+    "skill": "Simplifying Concepts",
+    "difficulty": "easy",
+    "marks": 1,
+    "options": {
+      "A": "Ask them to read the textbook chapter again and return during office hours",
+      "B": "Break the concept down using a relatable real-world analogy and check their understanding",
+      "C": "Tell the student that this concept will not be heavily tested on the final exam",
+      "D": "Suggest they find a tutor or watch a video online"
+    },
+    "correct_answer": "B",
+    "explanation": "Effective explanation involves breaking down complex topics using relatable analogies to aid understanding.",
+    "question_text": "A student visits you after class expressing confusion about a core concept you just taught. They have read the material but still do not understand. What is the most effective approach?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-SUBJECT-EXPLANATION"
+  },
+  {
+    "id": "FAC-SUB-002",
+    "competency": "Subject Knowledge & Explanation",
+    "skill": "Concept Application",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "Provide a step-by-step example problem where you apply the formula to a real-world scenario",
+      "B": "Have the student memorize the formula derivations",
+      "C": "Assign a heavily theoretical essay about the formula",
+      "D": "Reiterate the mathematical definition of the formula more slowly"
+    },
+    "correct_answer": "A",
+    "explanation": "Application requires seeing how theory operates in practice through worked examples.",
+    "question_text": "A student understands the formula you explained but cannot apply it to a real-world problem. What would be the most effective next step?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-SUBJECT-EXPLANATION"
+  },
+  {
+    "id": "FAC-SUB-003",
+    "competency": "Subject Knowledge & Explanation",
+    "skill": "Handling Advanced Questions",
+    "difficulty": "hard",
+    "marks": 1,
+    "options": {
+      "A": "Make an educated guess to maintain authority in front of the class",
+      "B": "Dismiss the question as irrelevant to the current syllabus",
+      "C": "Acknowledge the excellent question, admit you don't have the exact answer right now, and promise to look into it for the next class",
+      "D": "Immediately assign the question as homework for the entire class to figure out"
+    },
+    "correct_answer": "C",
+    "explanation": "Acknowledging knowledge limits while committing to finding the answer models good academic behavior.",
+    "question_text": "During a lecture, an advanced student asks a highly specific technical question that goes slightly beyond your immediate knowledge. How should you respond?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-SUBJECT-EXPLANATION"
+  },
+  {
+    "id": "FAC-CLS-001",
+    "competency": "Classroom Teaching & Student Engagement",
+    "skill": "Pacing & Adaptability",
+    "difficulty": "easy",
+    "marks": 1,
+    "options": {
+      "A": "Continue at the planned pace, advising struggling students to study harder",
+      "B": "Stop and completely restart the topic from the beginning for everyone",
+      "C": "Pair the students for a quick peer-learning activity, allowing the faster students to help those struggling",
+      "D": "Skip the topic completely since half the class doesn't understand it"
+    },
+    "correct_answer": "C",
+    "explanation": "Peer learning keeps advanced students engaged while providing help to struggling students.",
+    "question_text": "Half of the students in your class understand a topic while the rest are clearly struggling. How would you handle the next part of the lesson?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-CLASSROOM-ENGAGEMENT"
+  },
+  {
+    "id": "FAC-CLS-002",
+    "competency": "Classroom Teaching & Student Engagement",
+    "skill": "Maintaining Engagement",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "Speak louder and faster to get through the material quickly",
+      "B": "Pause the lecture and introduce a quick interactive poll, question, or discussion prompt related to the topic",
+      "C": "Give an immediate surprise quiz to force them to pay attention",
+      "D": "Ignore them and focus on the few students who are paying attention"
+    },
+    "correct_answer": "B",
+    "explanation": "Interactive elements reset student attention spans effectively during long lectures.",
+    "question_text": "You notice that student attention is dropping during a 90-minute lecture on a theoretical topic. What is the most appropriate way to re-engage the class?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-CLASSROOM-ENGAGEMENT"
+  },
+  {
+    "id": "FAC-CLS-003",
+    "competency": "Classroom Teaching & Student Engagement",
+    "skill": "Classroom Management",
+    "difficulty": "hard",
+    "marks": 1,
+    "options": {
+      "A": "Publicly reprimand the student in front of the entire class",
+      "B": "Ignore the behavior completely to avoid a confrontation",
+      "C": "Ask the student a direct, difficult question about the material to catch them off guard",
+      "D": "Speak with the student privately after class to understand the issue and set clear expectations"
+    },
+    "correct_answer": "D",
+    "explanation": "Private conversations resolve behavioral issues without escalating them publicly or shaming the student.",
+    "question_text": "A student consistently disrupts class by talking to their peers and checking their phone, distracting others. What is the best initial approach to resolve this?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-CLASSROOM-ENGAGEMENT"
+  },
+  {
+    "id": "FAC-PLAN-001",
+    "competency": "Lesson & Course Planning",
+    "skill": "Syllabus Management",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "Rush through all remaining topics by reading slides quickly",
+      "B": "Review the learning outcomes to identify the most critical foundational topics to cover thoroughly, and assign the rest as supplementary reading",
+      "C": "Cancel the final exam since the syllabus wasn't finished",
+      "D": "Extend the class times by an hour every day without consulting the administration"
+    },
+    "correct_answer": "B",
+    "explanation": "Prioritizing core learning outcomes ensures critical knowledge is delivered even when time is short.",
+    "question_text": "You are behind schedule and still have several important topics left in the syllabus before the end of the semester. What should you consider before deciding what to cover next?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-COURSE-PLANNING"
+  },
+  {
+    "id": "FAC-PLAN-002",
+    "competency": "Lesson & Course Planning",
+    "skill": "Sequencing",
+    "difficulty": "easy",
+    "marks": 1,
+    "options": {
+      "A": "Alphabetically, to keep the syllabus organized",
+      "B": "By starting with the most complex, theoretical concepts first to get them out of the way",
+      "C": "By building from foundational concepts to more complex applications",
+      "D": "Randomly, to keep students guessing and engaged"
+    },
+    "correct_answer": "C",
+    "explanation": "Scaffolding knowledge from simple to complex is the most effective pedagogical sequencing.",
+    "question_text": "When designing a new course module from scratch, how should you sequence the topics?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-COURSE-PLANNING"
+  },
+  {
+    "id": "FAC-PLAN-003",
+    "competency": "Lesson & Course Planning",
+    "skill": "Alignment",
+    "difficulty": "hard",
+    "marks": 1,
+    "options": {
+      "A": "Add the software to the syllabus and increase the credit hours for the course",
+      "B": "Map the new software to the existing learning outcomes to see if it enhances them before integrating it",
+      "C": "Completely rewrite the course syllabus to focus solely on the new software",
+      "D": "Ignore the software; sticking strictly to the original plan is always best"
+    },
+    "correct_answer": "B",
+    "explanation": "New tools should serve the learning outcomes, not dictate them.",
+    "question_text": "You discover a new, highly-rated software tool midway through planning your course. How should you decide whether to integrate it into your lessons?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-COURSE-PLANNING"
+  },
+  {
+    "id": "FAC-ASM-001",
+    "competency": "Exams, Evaluation & Feedback",
+    "skill": "Formative Assessment",
+    "difficulty": "easy",
+    "marks": 1,
+    "options": {
+      "A": "Wait until the final exam to assess their knowledge",
+      "B": "Ask 'Does everyone understand?' and move on if no one speaks up",
+      "C": "Use a short, ungraded quiz or \"exit ticket\" at the end of the class",
+      "D": "Assign a massive project due the next day"
+    },
+    "correct_answer": "C",
+    "explanation": "Formative, low-stakes assessments provide immediate feedback on student comprehension.",
+    "question_text": "You want to quickly check if students grasped the main concept of today's lecture. What is the most effective method?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-ASSESSMENT-FEEDBACK"
+  },
+  {
+    "id": "FAC-ASM-002",
+    "competency": "Exams, Evaluation & Feedback",
+    "skill": "Remediation",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "Assume the students didn't study hard enough and move to the next chapter",
+      "B": "Lower the passing grade for the assessment",
+      "C": "Review the poorly performed section in the next class to clarify misunderstandings",
+      "D": "Give all students full marks for that section to be fair"
+    },
+    "correct_answer": "C",
+    "explanation": "Widespread failure usually indicates a teaching gap or widespread misconception that requires direct reteaching.",
+    "question_text": "Most students performed poorly on one specific section of a recent midterm exam. What would be the most useful first step?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-ASSESSMENT-FEEDBACK"
+  },
+  {
+    "id": "FAC-ASM-003",
+    "competency": "Exams, Evaluation & Feedback",
+    "skill": "Constructive Feedback",
+    "difficulty": "hard",
+    "marks": 1,
+    "options": {
+      "A": "Write 'Poorly done' on the front page and return it",
+      "B": "Provide specific comments highlighting exactly what was done well and actionable steps to improve the weak areas",
+      "C": "Edit their essay for them so they see what a perfect paper looks like",
+      "D": "Only focus on the grammatical errors since they are easiest to fix"
+    },
+    "correct_answer": "B",
+    "explanation": "Effective feedback is specific, balanced, and actionable.",
+    "question_text": "A student submits an essay that is well-researched but poorly structured. How should you structure your feedback?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-ASSESSMENT-FEEDBACK"
+  },
+  {
+    "id": "FAC-DIG-001",
+    "competency": "Digital Tools for Teaching",
+    "skill": "Hybrid Engagement",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "Focus only on the in-person students since they are physically present",
+      "B": "Require remote students to submit a written summary after class instead of participating",
+      "C": "Use digital polling tools and explicitly direct questions to the online cohort to draw them in",
+      "D": "Turn off the camera and rely solely on audio to reduce bandwidth issues"
+    },
+    "correct_answer": "C",
+    "explanation": "Active inclusion strategies and digital tools help bridge the gap in hybrid environments.",
+    "question_text": "You are conducting a hybrid class, and students joining remotely are participating much less than those in the classroom. What would be the most appropriate response?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-DIGITAL-TEACHING"
+  },
+  {
+    "id": "FAC-DIG-002",
+    "competency": "Digital Tools for Teaching",
+    "skill": "LMS Utilization",
+    "difficulty": "easy",
+    "marks": 1,
+    "options": {
+      "A": "Email the readings to each student individually every week",
+      "B": "Upload all materials, assignments, and a clear schedule to the university's Learning Management System (LMS)",
+      "C": "Print physical copies and hand them out, ignoring the digital tools",
+      "D": "Post links on your personal social media accounts"
+    },
+    "correct_answer": "B",
+    "explanation": "An LMS provides a centralized, accessible, and secure location for course administration.",
+    "question_text": "You want to ensure students have easy, organized access to course readings and assignment submission links. What is the best approach?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-DIGITAL-TEACHING"
+  },
+  {
+    "id": "FAC-DIG-003",
+    "competency": "Digital Tools for Teaching",
+    "skill": "Troubleshooting",
+    "difficulty": "hard",
+    "marks": 1,
+    "options": {
+      "A": "Cancel the class immediately",
+      "B": "Have a low-tech backup plan ready, such as switching to a whiteboard or a class discussion, while briefly trying to resolve the issue",
+      "C": "Spend the entire class period trying to fix the projector",
+      "D": "Read directly from your notes without engaging the students"
+    },
+    "correct_answer": "B",
+    "explanation": "Faculty must have adaptable backup plans for technology failures to preserve instructional time.",
+    "question_text": "Five minutes into your lecture, the classroom projector fails, and your presentation cannot be displayed. What is the most professional response?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-DIGITAL-TEACHING"
+  },
+  {
+    "id": "FAC-RES-001",
+    "competency": "Research & Academic Work",
+    "skill": "Literature Review",
+    "difficulty": "easy",
+    "marks": 1,
+    "options": {
+      "A": "Immediately begin writing the methodology section",
+      "B": "Conduct a comprehensive literature review using academic databases to understand existing knowledge",
+      "C": "Collect primary data before deciding on a research question",
+      "D": "Write the abstract based on what you assume the results will be"
+    },
+    "correct_answer": "B",
+    "explanation": "A literature review establishes the foundation and context for any new research project.",
+    "question_text": "You are beginning a new academic research project and need to understand what has already been studied on the topic. What should you do first?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-RESEARCH-ACADEMIC"
+  },
+  {
+    "id": "FAC-RES-002",
+    "competency": "Research & Academic Work",
+    "skill": "Citation & Ethics",
+    "difficulty": "medium",
+    "marks": 1,
+    "options": {
+      "A": "Include it without citation since you are paraphrasing",
+      "B": "Only cite it if you use a direct quote",
+      "C": "Properly cite the original authors according to the required academic style guide",
+      "D": "Change a few words so you can claim it as original thought"
+    },
+    "correct_answer": "C",
+    "explanation": "Academic integrity requires citing sources even when paraphrasing other researchers' ideas.",
+    "question_text": "While writing a research paper, you want to include an idea you read in another scholar's article, but you are paraphrasing it rather than quoting it directly. What is the correct protocol?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-RESEARCH-ACADEMIC"
+  },
+  {
+    "id": "FAC-RES-003",
+    "competency": "Research & Academic Work",
+    "skill": "Peer Review",
+    "difficulty": "hard",
+    "marks": 1,
+    "options": {
+      "A": "Withdraw the paper and abandon the research",
+      "B": "Argue aggressively with the editor that the reviewers are biased",
+      "C": "Carefully read the feedback, address the valid critiques by revising the manuscript, and provide a polite point-by-point response",
+      "D": "Submit the exact same paper to another journal without making changes"
+    },
+    "correct_answer": "C",
+    "explanation": "Constructive response to peer review is a standard and necessary part of the academic publishing process.",
+    "question_text": "You submit a manuscript to a journal, and it is returned with a request for \"major revisions\" based on peer reviewer comments. Some comments seem highly critical. How should you handle this?",
+    "domain": "Education",
+    "competency_id": "COMP-FACULTY-RESEARCH-ACADEMIC"
+  }
+]

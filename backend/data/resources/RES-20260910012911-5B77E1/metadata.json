@@ -1,0 +1,11 @@
+{
+  "resource_id": "RES-20260910012911-5B77E1",
+  "filename": "RES-20260909164401-9B61A2.pdf",
+  "title": "Test Upload 2",
+  "role": "Faculty",
+  "domain": "Teaching",
+  "competency_id": "COMP-123",
+  "competency": "Digital Tools for Teaching",
+  "status": "failed",
+  "error": "Quiz generation returned no valid questions after parsing."
+}

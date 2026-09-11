@@ -1,0 +1,218 @@
+[
+  {
+    "id": "RES-20260909164401-9B61A2-Q001",
+    "question_text": "Who are the three original authors of the awk command whose initials make up its name?",
+    "options": {
+      "A": "Alfred Aho, Peter Weinberger, and Brian Kernighan",
+      "B": "Alan Turing, Peter Weinberger, and Brian Kernighan",
+      "C": "Alfred Aho, Paul Weinberger, and Dennis Ritchie",
+      "D": "Alfred Aho, Peter Weinberger, and Ken Thompson"
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-LINUX",
+    "competency": "linux",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260909164401-9B61A2-Q002",
+    "question_text": "According to the text, how does awk differ from grep and sed?",
+    "options": {
+      "A": "awk treats each line of input as a record made up of individual fields, allowing users to write programs to scan, test, and perform actions on them.",
+      "B": "awk is only capable of searching for and printing matching lines without field division.",
+      "C": "awk only performs simple line-based edits and cannot perform calculations or reorder data.",
+      "D": "awk reads files entirely into memory at once rather than scanning them line by line."
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-LINUX",
+    "competency": "linux",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260909164401-9B61A2-Q003",
+    "question_text": "In the basic syntax of awk, what is the purpose of the '-v' option?",
+    "options": {
+      "A": "It assigns a variable before the program starts running.",
+      "B": "It sets the input field separator.",
+      "C": "It reads the awk program from a script file instead of the command line.",
+      "D": "It enables verbose output mode for debugging errors."
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-LINUX",
+    "competency": "linux",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260909164401-9B61A2-Q004",
+    "question_text": "What does the built-in awk variable 'NF' hold?",
+    "options": {
+      "A": "The number of fields in the current record.",
+      "B": "The name of the current file being processed.",
+      "C": "The total number of records processed so far.",
+      "D": "The delimiter character used to separate fields."
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-LINUX",
+    "competency": "linux",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260909164401-9B61A2-Q005",
+    "question_text": "According to the text, what is the default value of the RS (input record separator) variable?",
+    "options": {
+      "A": "A comma",
+      "B": "A space",
+      "C": "A newline",
+      "D": "A colon"
+    },
+    "correct_answer": "C",
+    "competency_id": "COMP-LINUX",
+    "competency": "linux",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260909164401-9B61A2-Q006",
+    "question_text": "What is the defining characteristic of a BEGIN { } block in awk?",
+    "options": {
+      "A": "It runs exactly once, after all input lines have been processed.",
+      "B": "It runs exactly once, before any input line is read.",
+      "C": "It runs only when an error is encountered in the input file.",
+      "D": "It runs once for every field in the current record."
+    },
+    "correct_answer": "B",
+    "competency_id": "COMP-LINUX",
+    "competency": "linux",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260909164401-9B61A2-Q007",
+    "question_text": "What does the split(string, array, sep) function return?",
+    "options": {
+      "A": "The first piece stored in the array",
+      "B": "The index position where the separator first occurs",
+      "C": "The number of pieces produced",
+      "D": "The total length of the modified string"
+    },
+    "correct_answer": "C",
+    "competency_id": "COMP-LINUX",
+    "competency": "linux",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260909164401-9B61A2-Q008",
+    "question_text": "According to the text, what is the purpose of the 'next' command?",
+    "options": {
+      "A": "It reads a value from the shell into the awk program.",
+      "B": "It exits the current loop and transfers control to the END block.",
+      "C": "It immediately stops processing the current record and moves on to the next one.",
+      "D": "It duplicates the current line and appends it to the output."
+    },
+    "correct_answer": "C",
+    "competency_id": "COMP-LINUX",
+    "competency": "linux",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260909164401-9B61A2-Q009",
+    "question_text": "According to the provided text, what does a range pattern (such as 'pat1, pat2') select?",
+    "options": {
+      "A": "Every record from the first line that matches pat1 through the first subsequent line that matches pat2, inclusive.",
+      "B": "Only records that match both pat1 and pat2 on the exact same line.",
+      "C": "Every record except those that match pat1 or pat2.",
+      "D": "The first record of the file through the last record of the file."
+    },
+    "correct_answer": "A",
+    "competency_id": "COMP-LINUX",
+    "competency": "linux",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260909164401-9B61A2-Q010",
+    "question_text": "In the tabular summary of awk features, what is the description of the 'NF' variable?",
+    "options": {
+      "A": "Current record (line) number",
+      "B": "The entire current input record (line)",
+      "C": "Number of fields in the current record",
+      "D": "Input field separator variable"
+    },
+    "correct_answer": "C",
+    "competency_id": "COMP-LINUX",
+    "competency": "linux",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260909164401-9B61A2-Q011",
+    "question_text": "Based on the sample output of the BEGIN + Pattern + END report for 'Marketing Employees', what is the printed total count of employees?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "C",
+    "competency_id": "COMP-LINUX",
+    "competency": "linux",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  },
+  {
+    "id": "RES-20260909164401-9B61A2-Q012",
+    "question_text": "According to the awk features table, what is the purpose of the 'sub() / gsub()' functions?",
+    "options": {
+      "A": "Convert a string to uppercase / lowercase",
+      "B": "Replace the first / all occurrences of a pattern in a string",
+      "C": "Split a string into an array using a given separator",
+      "D": "String length, substring extraction, and search functions"
+    },
+    "correct_answer": "B",
+    "competency_id": "COMP-LINUX",
+    "competency": "linux",
+    "domain": "General",
+    "category": "Resource",
+    "skill": "Comprehension",
+    "difficulty": "medium",
+    "marks": 1
+  }
+]
